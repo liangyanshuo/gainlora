@@ -1,0 +1,16 @@
+{
+  "SuperNI": [
+    {
+      "sampling strategy": "full",
+      "dataset name": "task748_glucose_reverse_cause_event_detection"
+    },
+    {
+      "sampling strategy": "full",
+      "dataset name": "task073_commonsenseqa_answer_generation"
+    },
+    {
+      "sampling strategy": "full",
+      "dataset name": "task1590_diplomacy_text_generation"
+    }
+  ]
+}

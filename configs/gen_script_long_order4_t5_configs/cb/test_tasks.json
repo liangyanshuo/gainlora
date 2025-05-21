@@ -1,0 +1,12 @@
+{
+  "Long_Sequence": [
+    {
+      "sampling strategy": "full",
+      "dataset name": "mnli"
+    },
+    {
+      "sampling strategy": "full",
+      "dataset name": "cb"
+    }
+  ]
+}

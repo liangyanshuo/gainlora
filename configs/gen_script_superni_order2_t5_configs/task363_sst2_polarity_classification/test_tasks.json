@@ -1,0 +1,36 @@
+{
+  "SuperNI": [
+    {
+      "sampling strategy": "full",
+      "dataset name": "task748_glucose_reverse_cause_event_detection"
+    },
+    {
+      "sampling strategy": "full",
+      "dataset name": "task073_commonsenseqa_answer_generation"
+    },
+    {
+      "sampling strategy": "full",
+      "dataset name": "task1590_diplomacy_text_generation"
+    },
+    {
+      "sampling strategy": "full",
+      "dataset name": "task639_multi_woz_user_utterance_generation"
+    },
+    {
+      "sampling strategy": "full",
+      "dataset name": "task1572_samsum_summary"
+    },
+    {
+      "sampling strategy": "full",
+      "dataset name": "task1687_sentiment140_classification"
+    },
+    {
+      "sampling strategy": "full",
+      "dataset name": "task591_sciq_answer_generation"
+    },
+    {
+      "sampling strategy": "full",
+      "dataset name": "task363_sst2_polarity_classification"
+    }
+  ]
+}

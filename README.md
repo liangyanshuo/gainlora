@@ -29,3 +29,8 @@ bash gen_script_superni_order2_t5_inflora.sh your_device_id model_path_for_t5_la
 bash gen_script_long_order3_t5_inflora.sh your_device_id model_path_for_t5_large
 bash gen_script_long_order4_t5_inflora.sh your_device_id model_path_for_t5_large
 ```
+
+## Acknoledgements
+The code of this repository partly relies on the following two repositories:
+- [SAPT](https://github.com/circle-hit/SAPT)
+- [O-LORA](https://github.com/cmnfriend/O-LoRA)

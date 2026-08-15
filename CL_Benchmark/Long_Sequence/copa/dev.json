@@ -4,403 +4,323 @@
   "Negative Examples": [],
   "Instances": [
     {
-      "input": "Which sentence is the effect of \"The man turned on the faucet.\"? Choose one between A and B.\nA: The toilet filled with water.\nB: Water flowed from the spout.",
+      "input": "Which sentence is the cause of \"The coach gave his player a high five.\"? Choose one between A and B.\nA: The player got a penalty.\nB: The player scored a point.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the effect of \"The girl found a bug in her cereal.\"? Choose one between A and B.\nA: She poured milk in the bowl.\nB: She lost her appetite.",
+      "input": "Which sentence is the cause of \"I moved to a new city.\"? Choose one between A and B.\nA: I found a better-paying job.\nB: My son was born.",
+      "output": "A"
+    },
+    {
+      "input": "Which sentence is the cause of \"The man removed his coat.\"? Choose one between A and B.\nA: He entered the house.\nB: He loosened his tie.",
+      "output": "A"
+    },
+    {
+      "input": "Which sentence is the effect of \"The man read the cartoon in the newspaper.\"? Choose one between A and B.\nA: He sipped coffee.\nB: He chuckled.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the effect of \"The woman retired.\"? Choose one between A and B.\nA: She received her pension.\nB: She paid off her mortgage.",
+      "input": "Which sentence is the effect of \"My grandmother passed away.\"? Choose one between A and B.\nA: My family held a funeral.\nB: My family held a reunion.",
       "output": "A"
     },
     {
-      "input": "Which sentence is the effect of \"I wanted to conserve energy.\"? Choose one between A and B.\nA: I swept the floor in the unoccupied room.\nB: I shut off the light in the unoccupied room.",
+      "input": "Which sentence is the effect of \"The woman felt lonely.\"? Choose one between A and B.\nA: She renovated her kitchen.\nB: She adopted a cat.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the cause of \"The hamburger meat browned.\"? Choose one between A and B.\nA: The cook froze it.\nB: The cook grilled it.",
+      "input": "Which sentence is the effect of \"The documents contained important information.\"? Choose one between A and B.\nA: I paper clipped them together.\nB: I kept them in a secure place.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the effect of \"I doubted the salesman's pitch.\"? Choose one between A and B.\nA: I turned his offer down.\nB: He persuaded me to buy the product.",
+      "input": "Which sentence is the cause of \"The pharmaceutical company recalled the drug.\"? Choose one between A and B.\nA: Users reported dangerous side effects.\nB: Users got refills on their prescriptions.",
       "output": "A"
     },
     {
-      "input": "Which sentence is the cause of \"I decided to stay home for the night.\"? Choose one between A and B.\nA: The forecast called for storms.\nB: My friends urged me to go out.",
+      "input": "Which sentence is the cause of \"The woman repaired her faucet.\"? Choose one between A and B.\nA: The faucet was leaky.\nB: The faucet was turned off.",
       "output": "A"
     },
     {
-      "input": "Which sentence is the cause of \"My eyes became red and puffy.\"? Choose one between A and B.\nA: I was sobbing.\nB: I was laughing.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the cause of \"The flame on the candle went out.\"? Choose one between A and B.\nA: I blew on the wick.\nB: I put a match to the wick.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the effect of \"The man drank heavily at the party.\"? Choose one between A and B.\nA: He had a headache the next day.\nB: He had a runny nose the next day.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the cause of \"The bowling ball knocked over the bowling pins.\"? Choose one between A and B.\nA: The man rolled the bowling ball down the alley.\nB: The man dropped the bowling ball on his foot.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the cause of \"The community learned of the man's death.\"? Choose one between A and B.\nA: His family buried him in the cemetery.\nB: His obituary appeared in the newspaper.",
+      "input": "Which sentence is the effect of \"The ocean tide was dangerous.\"? Choose one between A and B.\nA: The swimmers put on more sunscreen.\nB: The swimmers returned towards the shore.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the effect of \"My computer crashed.\"? Choose one between A and B.\nA: I installed new speakers.\nB: I lost all my data.",
+      "input": "Which sentence is the cause of \"The host of the trivia show called on the contestant for an answer.\"? Choose one between A and B.\nA: The contestant was in the lead.\nB: The contestant rang the buzzer.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the cause of \"The woman resigned from her job.\"? Choose one between A and B.\nA: She aspired to hold an executive position in the firm.\nB: She believed her superiors were acting unethically.",
+      "input": "Which sentence is the effect of \"I flipped the light switch up and down.\"? Choose one between A and B.\nA: The light faded.\nB: The light flickered.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the cause of \"The player caught the ball.\"? Choose one between A and B.\nA: Her teammate threw it to her.\nB: Her opponent tried to intercept it.",
+      "input": "Which sentence is the effect of \"The mother needed help looking after her children.\"? Choose one between A and B.\nA: She sent the children to daycare.\nB: She gave up custody of the children.",
       "output": "A"
     },
     {
-      "input": "Which sentence is the cause of \"The judge pounded the gavel.\"? Choose one between A and B.\nA: The courtroom broke into uproar.\nB: The jury announced its verdict.",
+      "input": "Which sentence is the cause of \"I got distracted from my conversation with the woman.\"? Choose one between A and B.\nA: Everyone in the room was talking.\nB: The woman was telling a funny story.",
       "output": "A"
     },
     {
-      "input": "Which sentence is the cause of \"The woman banished the children from her property.\"? Choose one between A and B.\nA: The children hit a ball into her yard.\nB: The children trampled through her garden.",
+      "input": "Which sentence is the effect of \"The bully stuck his foot out in front of his classmate.\"? Choose one between A and B.\nA: The bully picked up his classmate.\nB: The bully's classmate tripped.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the cause of \"The kidnappers released the hostage.\"? Choose one between A and B.\nA: They accepted ransom money.\nB: They escaped from jail.",
+      "input": "Which sentence is the cause of \"I put shoes on.\"? Choose one between A and B.\nA: The floor contained broken glass.\nB: The paint on the walls was wet.",
       "output": "A"
     },
     {
-      "input": "Which sentence is the cause of \"The cook's eyes watered.\"? Choose one between A and B.\nA: He ran out of onions.\nB: He cut an onion.",
+      "input": "Which sentence is the effect of \"I rubbed sandpaper on the wood.\"? Choose one between A and B.\nA: The wood became smooth.\nB: The wood became sticky.",
+      "output": "A"
+    },
+    {
+      "input": "Which sentence is the cause of \"The soldiers were concealed in the brush.\"? Choose one between A and B.\nA: They were armed with rifles.\nB: They wore camouflage uniforms.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the cause of \"The woman ran her finger under cold water.\"? Choose one between A and B.\nA: She burned her finger on the toaster.\nB: She put a diamond ring on her finger.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the effect of \"The student misspelled the word.\"? Choose one between A and B.\nA: The teacher corrected her.\nB: The teacher dismissed her.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the cause of \"I regained composure from my fit of anger.\"? Choose one between A and B.\nA: My heart pounded.\nB: I took deep breaths.",
+      "input": "Which sentence is the cause of \"The woman took her family on vacation.\"? Choose one between A and B.\nA: Her husband got laid off.\nB: She received a salary bonus.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the effect of \"I put my hands under the running faucet.\"? Choose one between A and B.\nA: The soap rinsed off my hands.\nB: The water splashed in my face.",
+      "input": "Which sentence is the effect of \"I saw a woman getting robbed on the street.\"? Choose one between A and B.\nA: I called 911.\nB: I hailed a cab.",
       "output": "A"
     },
     {
-      "input": "Which sentence is the cause of \"The man dressed in his best suit.\"? Choose one between A and B.\nA: He scheduled a meeting with an important client.\nB: His wife bought him a new tie.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the effect of \"The man confessed his love for the woman.\"? Choose one between A and B.\nA: The woman rejected him.\nB: The woman envied him.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the cause of \"The driver got a flat tire.\"? Choose one between A and B.\nA: He went over the speed limit.\nB: He ran over a nail.",
+      "input": "Which sentence is the cause of \"The trip took a long time.\"? Choose one between A and B.\nA:  The driver talked the whole way.\nB: The driver made a wrong turn.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the cause of \"My view of the movie screen was blocked.\"? Choose one between A and B.\nA: The couple behind me was whispering.\nB: A tall person was sitting in front of me.",
+      "input": "Which sentence is the effect of \"The girl performed in a dance recital.\"? Choose one between A and B.\nA: Her parents showed her how to dance.\nB: Her parents came to watch the recital.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the cause of \"The driver turned on the car's headlights.\"? Choose one between A and B.\nA: He heard thunder.\nB: The sun went down.",
+      "input": "Which sentence is the effect of \"The administrator cleared her throat.\"? Choose one between A and B.\nA: The meeting was postponed.\nB: The meeting commenced.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the effect of \"The girl refused to eat her vegetables.\"? Choose one between A and B.\nA: Her father told her to drink her milk.\nB: Her father took away her dessert.",
+      "input": "Which sentence is the cause of \"The celebrity wore sunglasses.\"? Choose one between A and B.\nA: She wanted to thank her fans.\nB: She wanted to avoid recognition.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the cause of \"The woman covered her mouth with her hand.\"? Choose one between A and B.\nA: She exhaled.\nB: She sneezed.",
+      "input": "Which sentence is the cause of \"The smoke alarm went off.\"? Choose one between A and B.\nA: I lit a candle.\nB: I burnt my dinner.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the effect of \"The secretary put the caller on hold.\"? Choose one between A and B.\nA: The caller's phone lost reception.\nB: The caller waited on the line.",
+      "input": "Which sentence is the effect of \"A man cut in front of me in the long line.\"? Choose one between A and B.\nA: I confronted him.\nB: I smiled at him.",
+      "output": "A"
+    },
+    {
+      "input": "Which sentence is the cause of \"The man grieved.\"? Choose one between A and B.\nA: His wife criticized him.\nB: His mother passed away.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the cause of \"The woman walked with crutches.\"? Choose one between A and B.\nA: She shaved her legs.\nB: She broke her leg.",
+      "input": "Which sentence is the effect of \"The man was lost.\"? Choose one between A and B.\nA: He asked for directions.\nB: He drew a map.",
+      "output": "A"
+    },
+    {
+      "input": "Which sentence is the cause of \"Air leaked out of the beach ball.\"? Choose one between A and B.\nA: It was inflated.\nB: There was a hole in it.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the cause of \"I coughed.\"? Choose one between A and B.\nA: I inhaled smoke.\nB: I lowered my voice.",
+      "input": "Which sentence is the cause of \"The girl shared her lunch with her friend.\"? Choose one between A and B.\nA: Her friend forgot to bring his lunch.\nB: Her friend sat next to her at lunch.",
       "output": "A"
     },
     {
-      "input": "Which sentence is the cause of \"The clock chimed.\"? Choose one between A and B.\nA: It was the top of the hour.\nB: The hour seemed to drag on.",
+      "input": "Which sentence is the effect of \"The skunk sprayed the dog.\"? Choose one between A and B.\nA: The dog emitted a foul smell.\nB: The skunk roamed the woods.",
       "output": "A"
     },
     {
-      "input": "Which sentence is the effect of \"The chef hit the egg on the side of the bowl.\"? Choose one between A and B.\nA: The egg cracked.\nB: The egg rotted.",
+      "input": "Which sentence is the cause of \"My feet were blistered.\"? Choose one between A and B.\nA: I went hiking.\nB: I went swimming.",
       "output": "A"
     },
     {
-      "input": "Which sentence is the cause of \"The police searched the offender's car.\"? Choose one between A and B.\nA: They were trying to elicit a confession.\nB: They were looking for illegal drugs.",
+      "input": "Which sentence is the cause of \"The customer filed a complaint with the store manager.\"? Choose one between A and B.\nA: The sales associate undercharged the customer.\nB: The sales associate acted rude to the customer.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the cause of \"The couple travelled south for the winter.\"? Choose one between A and B.\nA: They were retired.\nB: They were separated.",
+      "input": "Which sentence is the cause of \"The student received detention.\"? Choose one between A and B.\nA: He talked back to the teacher.\nB: The teacher graded his homework.",
       "output": "A"
     },
     {
-      "input": "Which sentence is the cause of \"The man felt obligated to attend the event.\"? Choose one between A and B.\nA: He turned down his friend's invitation to go.\nB: He promised his friend that he would go.",
+      "input": "Which sentence is the effect of \"The woman and her boyfriend got into a fight.\"? Choose one between A and B.\nA: They stopped seeing each other.\nB: They planned a vacation together.",
+      "output": "A"
+    },
+    {
+      "input": "Which sentence is the cause of \"The rider fell to the ground.\"? Choose one between A and B.\nA: The bull bucked the rider.\nB: The bull chased the rider.",
+      "output": "A"
+    },
+    {
+      "input": "Which sentence is the effect of \"The girl wanted to make her mother happy.\"? Choose one between A and B.\nA: The girl ate the cookies her mother baked.\nB: The girl picked a flower for her mother.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the effect of \"The bride got cold feet before the wedding.\"? Choose one between A and B.\nA: The wedding guests brought gifts.\nB: She called the wedding off.",
+      "input": "Which sentence is the effect of \"The boy wanted to be muscular.\"? Choose one between A and B.\nA: He lifted weights.\nB: He played computer games.",
+      "output": "A"
+    },
+    {
+      "input": "Which sentence is the effect of \"The boy found the television show boring.\"? Choose one between A and B.\nA: He recorded it.\nB: He shut it off.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the effect of \"The man grew old.\"? Choose one between A and B.\nA: His hair turned gray.\nB: He sold his belongings.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the effect of \"The friends decided to share the hamburger.\"? Choose one between A and B.\nA: They cut the hamburger in half.\nB: They ordered fries with the hamburger.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the effect of \"I twisted the cap off the soda bottle.\"? Choose one between A and B.\nA: The soda fizzed.\nB: The soda leaked out.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the cause of \"The pair of students came under scrutiny by the teacher.\"? Choose one between A and B.\nA: The students both received excellent grades.\nB: Their responses on the assignment were identical.",
+      "input": "Which sentence is the cause of \"The screen on the laptop went black.\"? Choose one between A and B.\nA: The laptop's warranty expired.\nB: The laptop's battery died.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the effect of \"The student was in a rush to get to school on time.\"? Choose one between A and B.\nA: He left his assignment at home.\nB: He brought his lunch to school.",
+      "input": "Which sentence is the cause of \"The child caught a life-threatening illness.\"? Choose one between A and B.\nA: She didn't get vaccinated.\nB: She was adopted.",
       "output": "A"
     },
     {
-      "input": "Which sentence is the cause of \"The journalist wrote a biography about the humanitarian's life.\"? Choose one between A and B.\nA: The humanitarian was difficult for the journalist to interview.\nB: The journalist was intrigued by the humanitarian's work.",
+      "input": "Which sentence is the cause of \"The girl politely declined the hamburger.\"? Choose one between A and B.\nA: She was a vegetarian.\nB: She liked fast food.",
+      "output": "A"
+    },
+    {
+      "input": "Which sentence is the cause of \"The police handcuffed the suspect.\"? Choose one between A and B.\nA: The police called for backup.\nB: The suspect resisted arrest.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the effect of \"The man defied the authorities of the church.\"? Choose one between A and B.\nA: He donated money to the church.\nB: He was excommunicated from the church.",
+      "input": "Which sentence is the effect of \"The police aimed their weapons at the fugitive.\"? Choose one between A and B.\nA: The fugitive fell to the ground.\nB: The fugitive dropped his gun.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the effect of \"The woman's hair fell in her face.\"? Choose one between A and B.\nA: She pulled her hair back with a clip.\nB: She lathered shampoo into her hair.",
+      "input": "Which sentence is the cause of \"The family postponed the barbeque.\"? Choose one between A and B.\nA: The forecast called for storms.\nB: It was a holiday weekend.",
       "output": "A"
     },
     {
-      "input": "Which sentence is the cause of \"The ring on my finger got stuck.\"? Choose one between A and B.\nA: My finger swelled.\nB: I chipped my fingernail.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the effect of \"I pulled the rubber band.\"? Choose one between A and B.\nA: It flung across the room.\nB: It stretched.",
+      "input": "Which sentence is the effect of \"The parents recognized their daughter's creativity.\"? Choose one between A and B.\nA: They taught her how to ride a bike.\nB: They encouraged her to become an artist.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the effect of \"I pressed my hand into the wet cement.\"? Choose one between A and B.\nA: My handprint dried in the cement.\nB: Cracks emerged in the cement.",
+      "input": "Which sentence is the cause of \"I dabbed the floor with a paper towel.\"? Choose one between A and B.\nA: I spilled juice on the floor.\nB: The floor was permanently stained.",
       "output": "A"
     },
     {
-      "input": "Which sentence is the cause of \"My skin broke out into a rash.\"? Choose one between A and B.\nA: I brushed against poison ivy in my yard.\nB: I eradicated the poison ivy from my yard.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the effect of \"My subscription to the magazine expired.\"? Choose one between A and B.\nA: I discarded the new issue.\nB: I stopped receiving new issues.",
+      "input": "Which sentence is the cause of \"The cat purred.\"? Choose one between A and B.\nA: It scratched me.\nB: I petted it.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the effect of \"The detective revealed an anomaly in the case.\"? Choose one between A and B.\nA: He finalized his theory.\nB: He scrapped his theory.",
+      "input": "Which sentence is the effect of \"The patient was dehydrated.\"? Choose one between A and B.\nA: The nurse tested his reflexes.\nB: The nurse gave him an IV.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the cause of \"The boy threw a temper tantrum.\"? Choose one between A and B.\nA: His brother took his toys from him.\nB: He shared his toys with his brother.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the cause of \"The child learned how to read.\"? Choose one between A and B.\nA: He began attending school.\nB: He skipped a grade in school.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the cause of \"The boy skipped dinner.\"? Choose one between A and B.\nA: His mother cooked his favorite meal.\nB: He ate a big lunch.",
+      "input": "Which sentence is the cause of \"The girl made a wish.\"? Choose one between A and B.\nA: She saw a black cat.\nB: She saw a shooting star.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the cause of \"The woman lavished her friend with flattery.\"? Choose one between A and B.\nA: She wanted to ask her friend for a favor.\nB: She was irritated with her friend's whining.",
+      "input": "Which sentence is the effect of \"The baby was wailing in his crib.\"? Choose one between A and B.\nA: The mother picked up the baby.\nB: The baby crawled to the mother.",
       "output": "A"
     },
     {
-      "input": "Which sentence is the cause of \"The key was missing from my pants pocket.\"? Choose one between A and B.\nA: The pocket had a hole.\nB: The pants were new.",
+      "input": "Which sentence is the cause of \"The tenants were evicted from the apartment.\"? Choose one between A and B.\nA: They neglected to pay their rent.\nB: They got along with their landlord.",
       "output": "A"
     },
     {
-      "input": "Which sentence is the cause of \"The man fainted.\"? Choose one between A and B.\nA: He took a nap.\nB: He ran a marathon.",
+      "input": "Which sentence is the effect of \"The man dropped food on the floor.\"? Choose one between A and B.\nA: His dog jumped up on him.\nB: His dog ran over to eat the food.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the cause of \"The man lost the competition.\"? Choose one between A and B.\nA: The competition was sabotaged.\nB: He intimidated his competitors.",
+      "input": "Which sentence is the cause of \"The boy's mouth stung.\"? Choose one between A and B.\nA: He ate a pepper.\nB: He blew out the candle.",
       "output": "A"
     },
     {
-      "input": "Which sentence is the cause of \"The mother called an ambulance.\"? Choose one between A and B.\nA: Her son lost his cat.\nB: Her son fell out of his bed.",
+      "input": "Which sentence is the effect of \"The bodybuilder lifted weights.\"? Choose one between A and B.\nA: The gym closed.\nB: Her muscles became fatigued.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the cause of \"The driver slammed on his brakes.\"? Choose one between A and B.\nA: A deer appeared on the road.\nB: The car radio shut off.",
+      "input": "Which sentence is the cause of \"The window was opaque.\"? Choose one between A and B.\nA: The glass was stained.\nB: The blinds were open.",
       "output": "A"
     },
     {
-      "input": "Which sentence is the cause of \"The lock opened.\"? Choose one between A and B.\nA: I turned the key in the lock.\nB: I made a duplicate of the key.",
+      "input": "Which sentence is the cause of \"The photo albums collected dust in the attic.\"? Choose one between A and B.\nA: They remained untouched for years.\nB: The family reminisced over the photos.",
       "output": "A"
     },
     {
-      "input": "Which sentence is the cause of \"I put rubber gloves on.\"? Choose one between A and B.\nA: I was preparing to wash my hands.\nB: I was preparing to clean the bathroom.",
+      "input": "Which sentence is the effect of \"The boy pushed his sister.\"? Choose one between A and B.\nA: His sister tattled on him.\nB: They played hide and seek.",
+      "output": "A"
+    },
+    {
+      "input": "Which sentence is the effect of \"The man's eye became infected.\"? Choose one between A and B.\nA: He went blind.\nB: He put on glasses.",
+      "output": "A"
+    },
+    {
+      "input": "Which sentence is the effect of \"I applied pressure to the cut on my arm.\"? Choose one between A and B.\nA: It healed.\nB: It stopped bleeding.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the cause of \"The animal species became endangered.\"? Choose one between A and B.\nA: Their habitat was destroyed.\nB: Their predators went extinct.",
+      "input": "Which sentence is the effect of \"I put ice cubes in the hot soup.\"? Choose one between A and B.\nA: The soup cooled down.\nB: The soup became thick.",
       "output": "A"
     },
     {
-      "input": "Which sentence is the cause of \"The man perceived that the woman looked different.\"? Choose one between A and B.\nA: The woman got her hair cut.\nB: The woman wore a bracelet.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the effect of \"The student forgot to do her assignment.\"? Choose one between A and B.\nA: She made up an excuse to tell the teacher.\nB: The teacher promoted her to the next grade.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the cause of \"The dog barked.\"? Choose one between A and B.\nA: The cat lounged on the couch.\nB: A knock sounded at the door.",
+      "input": "Which sentence is the cause of \"The stain came out of the shirt.\"? Choose one between A and B.\nA: I patched the shirt.\nB: I bleached the shirt.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the effect of \"Plans were announced to replace a local park with a shopping mall.\"? Choose one between A and B.\nA: Environmentalists started a petition.\nB: Environmentalists produced a documentary.",
+      "input": "Which sentence is the effect of \"The print on the brochure was tiny.\"? Choose one between A and B.\nA: The man put his glasses on.\nB: The man retrieved a pen from his pocket.",
       "output": "A"
     },
     {
-      "input": "Which sentence is the effect of \"The couple was happy to see each other.\"? Choose one between A and B.\nA: They kissed.\nB: They rested.",
+      "input": "Which sentence is the cause of \"The woman covered her ears.\"? Choose one between A and B.\nA: The fire alarm blared.\nB: The woman smelled smoke.",
       "output": "A"
     },
     {
-      "input": "Which sentence is the cause of \"The woman asked the man to leave.\"? Choose one between A and B.\nA: He insulted her.\nB: He thanked her.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the effect of \"The tree branch landed in the river.\"? Choose one between A and B.\nA: The branch moved downstream.\nB: The river's current became stronger.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the effect of \"The teacher assigned homework to the students.\"? Choose one between A and B.\nA: The students passed notes.\nB: The students groaned.",
+      "input": "Which sentence is the effect of \"The woman upgraded her computer hardware.\"? Choose one between A and B.\nA: She deleted old files on the computer.\nB: She installed new software on the computer.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the effect of \"The seasons changed from summer to autumn.\"? Choose one between A and B.\nA: People evacuated their homes.\nB: Leaves fell from the trees.",
+      "input": "Which sentence is the effect of \"A burglar broke into the house.\"? Choose one between A and B.\nA: The homeowners were asleep.\nB: The security alarm went off.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the effect of \"The politician was convicted of fraud.\"? Choose one between A and B.\nA: He campaigned for re-election.\nB: He was removed from office.",
+      "input": "Which sentence is the effect of \"I was confused by the professor's lecture.\"? Choose one between A and B.\nA: I paid attention to the professor.\nB: I asked the professor questions.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the effect of \"I pushed the wagon.\"? Choose one between A and B.\nA: The objects in the wagon fell out.\nB: The wagon wheels spun forward.",
+      "input": "Which sentence is the cause of \"The boy's hands were shaking.\"? Choose one between A and B.\nA: He planned to ask the girl out.\nB: His palms were cold and sweaty.",
+      "output": "A"
+    },
+    {
+      "input": "Which sentence is the effect of \"The surfer caught the wave.\"? Choose one between A and B.\nA: The wave carried her to the shore.\nB: She paddled her board into the ocean.",
+      "output": "A"
+    },
+    {
+      "input": "Which sentence is the effect of \"The boy painted a picture for his mother.\"? Choose one between A and B.\nA: His mother hung the picture on the wall.\nB: His mother sold the picture to a gallery.",
+      "output": "A"
+    },
+    {
+      "input": "Which sentence is the cause of \"The guests of the party hid behind the couch.\"? Choose one between A and B.\nA: It was a surprise party.\nB: It was a birthday party.",
+      "output": "A"
+    },
+    {
+      "input": "Which sentence is the effect of \"The woman felt ashamed of scar on her face.\"? Choose one between A and B.\nA: She explained the scar to strangers.\nB: She hid the scar with makeup.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the effect of \"The lobbyist persuaded the legislature to support the bill.\"? Choose one between A and B.\nA: The president vetoed the bill.\nB: The legislature passed the bill.",
+      "input": "Which sentence is the effect of \"The woman betrayed her friend.\"? Choose one between A and B.\nA: Her friend sent her a greeting card.\nB: Her friend cut off contact with her.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the effect of \"My closet was messy.\"? Choose one between A and B.\nA: I organized it.\nB: I decorated it.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the effect of \"I stayed up late.\"? Choose one between A and B.\nA: I had vivid dreams that night.\nB: I was tired in the morning.",
+      "input": "Which sentence is the cause of \"The woman was wrongly convicted for the crime.\"? Choose one between A and B.\nA: The jury was fair.\nB: She was framed.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the cause of \"The man's pocket jingled as he walked.\"? Choose one between A and B.\nA: His pocket was filled with coins.\nB: He sewed the hole in his pocket.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the cause of \"Everyone in the class turned to stare at the student.\"? Choose one between A and B.\nA: The student's phone rang.\nB: The student took notes.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the cause of \"The horse bucked.\"? Choose one between A and B.\nA: A fly bit the horse.\nB: The rider stroked the horse.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the effect of \"The jewelry thieves were caught.\"? Choose one between A and B.\nA: The stolen jewelry was returned to its owners.\nB: The cost of the stolen jewelry was calculated.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the effect of \"Political violence broke out in the nation.\"? Choose one between A and B.\nA: Many citizens relocated to the capitol.\nB: Many citizens took refuge in other territories.",
+      "input": "Which sentence is the cause of \"The woman got away with the crime.\"? Choose one between A and B.\nA: Her accomplice was apprehended.\nB: She destroyed the evidence.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the cause of \"The woman was arrested.\"? Choose one between A and B.\nA: She checked into rehab.\nB: She committed assault.",
+      "input": "Which sentence is the cause of \"The hospital sent the patient home.\"? Choose one between A and B.\nA: The patient's symptoms cleared up.\nB: The patient's family visited him.",
+      "output": "A"
+    },
+    {
+      "input": "Which sentence is the cause of \"The dust came off the desk.\"? Choose one between A and B.\nA: I wiped the desk with a cloth.\nB: I removed the books from the desk.",
+      "output": "A"
+    },
+    {
+      "input": "Which sentence is the cause of \"The police eliminated the woman from the list of suspects.\"? Choose one between A and B.\nA: The police interrogated her.\nB: Her alibi checked out.",
       "output": "B"
     },
     {
-      "input": "Which sentence is the effect of \"The woman read the newspaper.\"? Choose one between A and B.\nA: She discovered the outcome of the election.\nB: She casted a vote in the election.",
+      "input": "Which sentence is the cause of \"The retail shop shut down.\"? Choose one between A and B.\nA: Its sales were lagging.\nB: It renewed its lease.",
       "output": "A"
     },
     {
-      "input": "Which sentence is the effect of \"The sick child coughed on his friend.\"? Choose one between A and B.\nA: His friend got sick.\nB: His friend sneezed.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the effect of \"The couple got engaged.\"? Choose one between A and B.\nA: They planned a wedding.\nB: They took some time apart.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the cause of \"The woman contacted the real estate agent.\"? Choose one between A and B.\nA: The woman planned to buy a condo.\nB: The woman needed to clean her house.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the effect of \"The man won the lottery.\"? Choose one between A and B.\nA: He became rich.\nB: He owed money.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the effect of \"I lit the candle.\"? Choose one between A and B.\nA: Wax dripped off the candle.\nB: The wax on the candle hardened.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the effect of \"I spent the day at the pool.\"? Choose one between A and B.\nA: I sprained my ankle.\nB: My face got sunburned.",
-      "output": "B"
-    },
-    {
-      "input": "Which sentence is the cause of \"The man received a parking ticket.\"? Choose one between A and B.\nA: He parallel parked on the street.\nB: The parking meter expired.",
-      "output": "B"
-    },
-    {
-      "input": "Which sentence is the effect of \"The woman became famous.\"? Choose one between A and B.\nA: Photographers followed her.\nB: Her family avoided her.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the effect of \"The girl wanted to wear earrings.\"? Choose one between A and B.\nA: She got her ears pierced.\nB: She got a tattoo.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the cause of \"My ears were ringing.\"? Choose one between A and B.\nA: I went to a museum.\nB: I went to a concert.",
-      "output": "B"
-    },
-    {
-      "input": "Which sentence is the cause of \"I tidied up my house.\"? Choose one between A and B.\nA: I was swamped with work.\nB: I was expecting company.",
-      "output": "B"
-    },
-    {
-      "input": "Which sentence is the effect of \"The airline mishandled my luggage.\"? Choose one between A and B.\nA: They offered me compensation.\nB: They cancelled my flight.",
-      "output": "A"
-    },
-    {
-      "input": "Which sentence is the effect of \"The computer was expensive to fix.\"? Choose one between A and B.\nA: I got it repaired.\nB: I bought a new one.",
-      "output": "B"
-    },
-    {
-      "input": "Which sentence is the effect of \"The woman was in a bad mood.\"? Choose one between A and B.\nA: She engaged in small talk with her friend.\nB: She told her friend to leave her alone.",
+      "input": "Which sentence is the cause of \"The boy tuned the radio.\"? Choose one between A and B.\nA: The station was playing rock music.\nB: The station was coming in with static.",
       "output": "B"
     }
   ]

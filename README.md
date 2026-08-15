@@ -19,6 +19,9 @@ Continual learning (CL), which requires the model to learn multiple tasks sequen
 * accelerate 0.24.1
 * numpy 1.22.4
 
+## Note
+When we initially uploaded the code, we directly incorporated the dataset from the [SAPT repository](https://github.com/circle-hit/SAPT) without modification. We did not notice that their dataset had identical validation and test splits. We have now updated the dataset to ensure that the validation split is derived from the training data.
+
 ## Runing
 
 ### T5 Experiments

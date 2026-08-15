@@ -57,115 +57,185 @@
   ],
   "Instances": [
     {
-      "id": "task1590-0f644676a85b4edf961a8394491c7d2f",
-      "input": "['Hey Italy, just saying high. I doubt we will cross paths until later in the game, but if you feel so inclined you could attack France 😉. France is probably the strongest county and I think me, you, and Germany should shut them down before they can get up and running. Anyways, good luck and have fun!', 'Thanks for reaching out! Yeah as Italy I will have to feel the board out before making any commitments.', 'Of course', 'Things are looking pretty peaceful in the west!', 'I would have thought France would have gone army in Bre and fleet in Mar, do you know why he flipped them?']",
+      "id": "task1590-4b1a9a8f0cfd4251ba6a26994d4a2df5",
+      "input": "[\"Hello, my friend - I would like to work with you long-term.  Please let me know which direction you'd like to go first - into Austria or into Turkey.  Your choice will be my direction too.\", \"I'm still figuring it out.\", \"What are your first impressions? Germany obviously doesn't like you.\", 'What makes you think that Germany doesn\\'t \"like\" me?', 'He said it.']",
       "output": [
-        "Yes—he said he wanted to get support to belgium... but he could have done this with a fleet as well, so I think it may have been an aggresive move(even though he insists we are still allies)... and for this reason I'm going to tell you that he said he was planning on attacking you, although not completely full fledged(the fleet in spain and the army in mar). Just a fair warning, and since it seems like you don't have your hands too full over there maybe start worrieng about france? UP to you"
+        "He said that he didn't like me?  What are we, middle school kids?"
       ]
     },
     {
-      "id": "task1590-8589d77d69fb4ea8b58597d70b4593f1",
-      "input": "['Hi there! I figured it would be good to open up talks between us, what’re your initial thoughts? I plan on playing rather conservatively until I see how some alliances are shaking out.', \"Same on my end to be honest; first game I've ever played with any money on the line lol\", \"hm, if you're okay starting conservatively, could I make the ask that you start by opening to Tyn or move to take Tun with a fleet?\", 'I’d still plan on moving into ION, it gives me more options.', 'Yea, I have no issue with Ion in and of itself ~~ id just rather not see you also setting up a Lepanto by prepping a convoy to Tun :p']",
+      "id": "task1590-e06a09580529420ca3e327468359ffcf",
+      "input": "['Hallo there my dearest Sultan! A pleasure to meet you 😄', 'Hello monsieur President. Greater pleasure would be to work together.', 'I would love for that too. How do things in the east seem to be developing?', \"They're going slowly but steady, soon steamy. And what about the western part?\", 'The battle for Belgium will be interesting for sure 😅']",
       "output": [
-        "If you reeeally want to try a Lepanto, we can go for it lol, but I think we'd stall out a bit too much to make it worthwhile"
+        "Just a head up here, Austria wants food relations with me currently but wants me to have Rum. I will go for it but I expect you will take it with support which is OK with me."
       ]
     },
     {
-      "id": "task1590-699d8c9b789f45019f1221bb6c7f4213",
-      "input": "['Hi there! I think us attacking each other early game is pretty dumb, what’re your thoughts?', \"I agree. Even with the element of surprise, it's just too easy to defend the Piedmont/Marseilles corridor.\\n\\nIf France attacks Italy, it will most likely be Austria who benefits, and likewise if Italy attacks France the spoils probably go to Germany.\\n\\nGiven that, what are your plans? Are you planning to attack Austria early, or thinking of the standard move of: \\nF Naples - Ionian\\nA Rome - Naples\\nA Venice H\", 'Yeah I’m not planning on going for Austria off the bat, I feel like it usually just locks the two weakest countries into a fight that hurts us both', 'Understood, good to know!', 'Seems like everything went pretty much according to plan. Not sure why Turkey stayed in Smy instead of backfilling to Con. Seems a bit passive to me.']",
+      "id": "task1590-bdbd9da5e4954f73b14607b0ae412936",
+      "input": "[\"Hey Turkey! \\n\\nHow's it looking over there in the east? Anyways, I was wondering in if you have any intel on Italy, since I haven't heard much from them. I realize we most likely won't have too much to do with each other in the beginning, but I'm looking forwards to working with you later in the game if were both still around!\", \"I've reached out to Italy and heard... Absolutely nothing. No response yet. Sorry!\\nHe doesn't seem the most talkative type. \\n\\nAnyway, how you doin?\", \"Hey Turkey; I don't know if you have noticed but Russia is huge rn and is about to crush both you and Austria, and then proceed to run over the rest of the map. Idk how your relationship with Austria or Italy is, but you guys really need to work together to stop Russia.\", 'Why are you working with russia??? You realize as soon as they have used you they are going to turn on you and crush you?', \"Does that mean you don't want to talk about a Triple Entente?\"]",
       "output": [
-        "He’s scared of me pulling off a lepanto. What’s the deal for you guys, seems like you and england have an agreement at the very least to stay out of ENG. Did you and germany agree to that bounce in Bur?"
+        "How would you like to spice this pie?"
       ]
     },
     {
-      "id": "task1590-72b0db00eca2469da5def05088f11634",
-      "input": "['How’s it going Austria? Looking forward to a fun and exciting game!', 'Hello Germany.  How do you feel about being friendly?  If so lets leave BOH and TYR as neutral zones.  What do you think?', 'Yeah let’s do it!', 'sounds great.  Hopefully when that plays out we can work together more in the future', 'Yeah for sure!']",
+      "id": "task1590-2374ee12b2334dc58b5ed0fb0e301c81",
+      "input": "[\"Do you have a preference of where you'd like to go?  When I play Italy, I always try to figure out where my 5th build is going to be - as long as it's not one of mine, I don't think a strong Italy is necessarily a bad thing for Turkey.\", 'Hi! I am not sure yet, I will keep you posted. Trying to feel out how things will be to the west', 'Of course.', \"Any thoughts on how you'd like to handle things in the East?  I know it can be a classic AI versus RT - what would you need to see  to prevent that?  Other than me opening to Armenia, that's a little bold for me.\", 'Was the bounce in Venice arranged?  Are you actively anti-Austrian?']",
       "output": [
-        "Hey Austria! How’s it going?"
+        "Gah didn’t go as planned. I am not sure if Austria wants to work with me. What’s your read? Russia seems neutral at this point"
       ]
     },
     {
-      "id": "task1590-7cfb6961c5ae4704b456a1ae0c47a14d",
-      "input": "[\"Good evening. I think it's important that we get our affairs in order regarding Sweden; I'm sure you know that you can easily bounce me to keep me out, but I'd like to convince you otherwise. Let me know if there's anything specific you'd like in return, otherwise I think that assistance against possible English attack and an agreement to leave Warsaw, Silesia, and Prussia alone is good.\", 'Hi Russia! Thanks for reaching out. I’m open to an arrangement similar to those terms (neutrality in Pru, Sil, War, Boh if that comes up, as well as and really especially potential assistance against England). I would also like your support into Nwy down the road. I think splitting Scandinavia is reasonable and that takes pressure off of me to look to War as a future build. How does that sound to you? Looking forward to a fun and exciting game!', \"I'd prefer for us to cooperate to take the British down completely; I get Norway, you get as many British home territories as you can convince the French to let you have. Aside from that, those neutral zones sound good to me.\", 'I’m not sure I’m ready to just hand over Norway and Sweden, unfortunately:/', \"You'll get Norway then.\"]",
+      "id": "task1590-2183ea0ec249447cbcefe635654037a5",
+      "input": "[\"Hey England!  Looking forward to playing with you! How's your afternoon going so far?\", 'So far so good. Have you worked anything out with turkey and Russia yet? What you decide to do with Russia will heavily influence what I do.', \"I haven't actually talked with Russia yet.  The board has been too quiet for my liking. Turkey texted me once but hasn't responded.\", \"I'm fineoving against Russia if I can be assured that Italy won't pose a threat.  The two of us are in a great position to be allies, if you influence Italy on my behalf and I influence Russia on yours...\", 'I’m happy to help. I’ll talk to Italy and open. North.']",
       "output": [
-        "Sounds good to me! Thank you so much for being agreeable. I view Norway as a gesture of goodwill and I will definitely remember it. Hopefully, I will find another way to help you in the future 😃"
+        "Where are you thinking about moving?"
       ]
     },
     {
-      "id": "task1590-12abbe8ea7e04cf198fadbf3c5c8ef83",
-      "input": "['Hey Germany,  how are things going? Would you like to have alliance was against France?', 'What’s up England!! Things are good! TGIF', 'I’m not looking to commit to anyone just yet, I hope that’s no trouble!', 'Ok... do you mind if I ask how your relationship with France is?', 'Not well formed at this point']",
+      "id": "task1590-4ce2f353fbc9435fab5b5ae529481dfe",
+      "input": "['Hi there! I know you will not be inclined to trust me but I am not a fan of attacking Austria immediately as Italy. As such I hope we can work together. I’ll be playing pretty safe until I have a grasp of the board. Have you heard from anyone yet?', 'Hello Italy.  I would be fine with being friendly.  How would you suggest we prove said friendliness to each other?  I am on the late side of messaging so I have received a few messages.', 'I will hold Ven, I’m assuming you would hold Tri. If you trust me enough to move out of Tri then I’d move out of Ven when I see it in the fall. But that takes trust on your part.', 'What have you heard from Russia and Turkey?', 'not much from Russia.  I am currently speaking with Turkey']",
       "output": [
-        "Have you been talking to Russia much?"
+        "Let me know how those go, are you negotiating the Balkans?"
       ]
     },
     {
-      "id": "task1590-de0458c24e6f42cdaa052974bf1a8f6f",
-      "input": "['Greetings, Germany!\\n\\nThe risk of an early conflict between France and Germany is pretty high, so suggest that we clear the air early on.\\n\\nThe biggest question here is Burgundy, which borders one of your home supply centers and two of mine. It is important to me that Burgundy remains unoccupied - my suggestion is that we set up a bounce between A Munich - Burgundy, A Paris - Burgundy. This has the secondary benefit of allowing us to put on some theater about how the other broke their word to win sympathy points. I also believe that Germany often wants A Munich to stay put anyways, to guard against an attack through Tyrolia.\\n\\nLet me also know your thoughts regarding Belgium. I am not super attached to claiming it, so would be open to bargain my support on the Belgian question for a future alliance.\\n\\nBest of luck to you!', 'Hi France! Thanks for taking the initiative and for your thoughtful message. Let’s do the bounce in Burgundy! I’m really looking forward to getting to know you and everyone in this game!', 'Appreciated. What are your thoughts on F Kiel to Denmark vs Netherlands? Assuming Berlin to Kiel is a typical no brainer', 'I’m going to Hol, if that’s alright with you? I’m very interested in your idea of giving me free pass into Belgium for an alliance against England.', \"I would have preferred a move to Denmark, but Holland isn't a problem for me either - it's up to you.\"]",
+      "id": "task1590-289d076bb1174947a91a81af542f8150",
+      "input": "['Hello Russia. Have you worked out what you’re doing with turkey and Austria yet? I’m thinking of going anti Germany but want to see how we align in the north first.', 'I sent Turkey a message but still waiting on a reply. I wanted to go anti-Germany too if you want to split the population centers? But if I don’t hear back from Turkey I may have to fortify my South flank and enter the Balkan’s even though I don’t want to.', 'I moving to pressureGermany but I could use assistance on your end. Willing to share any gains that could result.', 'Yikes. You have some Turkish trouble. I’ll plan on moving into helgoland bight', 'Yea, that’s always annoying playing as Russia. Trying to get AH to help out but I have to move one of my troops back West away from pressuring Germany. Oh well.']",
       "output": [
-        "Are you aiming to claim Belgium in year 1? As it is, there's no way for you to get three builds so curious which two you will prioritize."
+        "That’s a shame. Let’s reassess after you handle your problems in the east."
       ]
     },
     {
-      "id": "task1590-c0ab410b14af49cda0212252cbf79016",
-      "input": "[\"As I'm sure you know, Turkey is a potential threat to us both. I'd like to talk to you about possibly curtailing that threat.\", \"I can't be online but I am open to hearing your ideas\", '*** online too much longer is what I meant to type', \"Well, the ideas mostly consist of cooperating to take them down, you, me, and the Italians. I'm going to be moving from Warsaw to Ukraine to take Romania and I'm going to be bouncing them in the Black Sea.\", 'so. I am open to working with you.. but I would like to see you leave Gal as a neutral territory and I will as well']",
+      "id": "task1590-e8e91122a7a44154b5baba47ff19850b",
+      "input": "[\"Hello! Russia sounds like he is opening Moscow into St Pete. Just thought I'd let you know to help you plan.\", 'Hello there! You seem to be certain about that. I wont be making my plans on something like that, you will understand that, I could easily get locked in a deadly war that way.', \"I'll be honest and say I'm not enthused about seeing Austria get attacked from Italy and Russia, although I am pleasantly surprised seeing Russia open more southerly. I'm not sure what your plans are, but we would both hate to see a wintergreen alliance, which looks very possible right now.\", 'I am not sure what is happening, but you did send wrong info on Russia. Your agenda looks like making me fight Russia. I could if you are willing to commit.', \"Russia promised me he would help support me into North Sea from Norway, implying he would move north. That obviously didn't happen.\"]",
       "output": [
-        "That's my intent; I was going to ask you to do the same but you beat me to it."
+        "That also implies you don't help England or that you help him to het in Norway in the first place. We definitely should stay in contact and work our way to brighter future."
       ]
     },
     {
-      "id": "task1590-40141406894c4877a0dee69ab01b0377",
-      "input": "['Hey there neighbor', 'Thoughts on how we want to split the Balkans?', 'Hello there yourself', \"what are your thoughts?  I haven't spoken to anyone else yet so. I am open to ideas before that.  We would most certainly need to deal with Russia sooner rather than later\", \"Agreed -- I'd rather deal with Russia from the get go as well. Have you heard anything from Italy tho? I'm kind of worried of committing north if they're an unknown quantity\"]",
+      "id": "task1590-fef8663b60df40e69be9ca604afa764a",
+      "input": "['Good morning!  Best of luck to you, and let me know how we can best avoid any unnecessary and unproductive entanglements.  😃', \"Best of luck to you as well! I'm likely opening north and I have my eye on Norway for the fall. However, this may be dependent on some discussion with France. Can I ask where you're planning to send your Moscow army this Spring?\", \"My initial inclination is to focus on the South.  I do have to weigh that over concerns of you opening full north, but hopefully we can stay on the same page.  I am of course much happier if you indicate you're going to put a fleet in Nwy.\", \"That's fair enough. I'm talking to France now about Belgium, as my army is pretty useless just hanging around the island. I can't commit to leaving my army off of Nwy just yet. Let me get back to you when I hear from France about Belgium.\", 'Sounds great.  Good luck in your French negotiations!']",
       "output": [
-        "All I have heard from Italy thus far is they don't want to fight so... hopefully that is the case"
+        "Belgium definitely on the table but still not confirmed. Germany is acting like a big hot-head btw. Threatening war from the outset. If they don't calm down, maybe we can talk about helping you into Denmark next year."
       ]
     },
     {
-      "id": "task1590-2fc5c01bae434be4af1a65ee3430be81",
-      "input": "[\"Greetings, Austria!\\n\\nWe don't have any immediate discussion points, but thought I would check in with you since it can be dangerous for me if Austria collapses early, and that is a serious risk if Austria is a newbie (not sure if you are).\\n\\nSuggest that you get Germany on your side early. They will be dangerously exposed if you struggle early. You should ask them to send F Kiel - Denmark with the message to Russia that if he attacks you (with A Warsaw - Galicia instead of Ukraine), he will block them out of Sweden.\\n\\nGood luck, and have fun!\", 'Greetings to you as well.  I wish you luck and I will certainly keep all of that in mind', 'Seems like year one went well for you! Have both Greece and Serbia in the bag! How are your feelings on Italy?', 'I am friendly with them thus far.  I am open to discussion in general about how we might be able to work together.', \"Haha I'm sure Turkey would be very alarmed to hear that\"]",
+      "id": "task1590-b61663a4807b4221bc6f0746a2474991",
+      "input": "['Hallo there my dearest Tsar! Still figuring this messaging system out haha', \"France, what's up my friend?  Do I have anything to worry about from my neighbors?  Would you tell me if I did?\", \"Of course I would, and I haven't heard anything yet. I may have heard some plan involving taking out England early? Unsure 😉\", 'I suppose you really wanted to be in burgundy! What’s next? Would you like assistance?', 'Assistance would be nice, depends what form it comes in though 😄']",
       "output": [
-        "Still though, you seem well placed!"
+        "Nicely done.  Do you plan on helping England against Germany?  If you'd like, the three of us could take down Germany together, and then you and I team up on England.  What are your thoughts on this general strategy?  If you agree, we can figure out the specific tactics as we go along."
       ]
     },
     {
-      "id": "task1590-da23a700fab542809ea83999ac72b8fd",
-      "input": "['Hey Russia, looking forward to a great game 🙃. I think we should discuss Scandinavia 😉 and how to split it up. I’m not interested in attacking you, at least for a while. Hopefully you feel the same way. Anyways, good luck and have fun!', \"Always good to discuss things in advance to avoid unnecessary nonsense. I'm not particularly interested in Norway so long as you're not interested in Sweden.\", 'Sounds good', 'That was a hell of a bluff you must have pulled to put that army in the Netherlands', 'Thanks 😊.']",
+      "id": "task1590-6b963c1ff4a941819a0fc64b22c1a2b2",
+      "input": "[\"Hello Germany, nice to make your acquaintance. \\n\\nI've been thinking about this game alot, because the fact that it will only last until 1910 really changes my strategy. Add in that no one is likely to NMR and I believe it will be near impossible to solo. \\n\\nNormally when playing Russia I try to grab a couple German centers around 1904, allowing me to hold over the stalemate line setting up a solo when I conquer the East. Since I'm not intending to solo in this game, however, it doesn't make sense to go after your centers. It would be much better for both of us, I believe, to agree to a pact of non aggression. I could even offer some help against England, if there came a time when you wished that. What do you think?\", \"Interesting points.  I've been thinking about how the format and time limitation might change the game as well.\\n\\nFor transparency, England reached out to me as well, and generally I think Germany working with England is, in a vacuum, the best course.\\n\\nI'm fine with a non-aggression pact, but we need to set pretty clear ground rules - I'm significantly more vulnerable than you.  Interested in each of us setting up a proposal, and see how well they match?\", 'How about a commitment to something like the following through Spring 2003.  We can revisit or extend from there, and of course any of these are subject to specific agreement otherwise:\\n\\n- Total DMZ in SIL & PRU\\n- No German units in BoT or LVN\\n- Germany concedes Sweden, but only to be occupied by fleets.\\n- No Russian units in BAL\\n- No army builds in Berlin\\n- No army builds in StP\\n- Notify before a build in WAR\\n\\nWhat do you think?', 'I agree to all of those points.\\n\\nJust to be clear, England is not necessarily a target of mine, but if necessary I can act as an insurance policy against English aggression for you.', \"By the way, for whatever it's worth I am hearing talk coming back to me that you are looking to open north.  Again, it's spring '01, so talk is pretty cheap.  But just thought I'd flag it for you.\"]",
       "output": [
-        "So I'm guessing you plan on hitting the Germans then? Need help with that?"
+        "Talk is cheap, and after Spring resolution you will see that I fully intend to abide by our agreement. \n\nThe fact that you brought this up with me really builds trust with me. I did tell Austria that I was heading North West, but obviously that is a lie. I hope that you see it to be in your best interest to keep that confidential because I truly do intend to work with you all the way through 1910."
       ]
     },
     {
-      "id": "task1590-4bb2f9de8485451ab527d0bfe4af4a8c",
-      "input": "[\"Greetings, Russia!\\n\\nWe don't have too much to discuss early on, but I was curious on whether or not you were planning to move A Moscow - St Petersburg, where you could make a play for Norway.\\n\\nAnd likewise, was curious whether you planned to order F Sevestapol - Black Sea, or else allow Turkey to occupy it.\\n\\nIt's early, but we might have room to cooperate against England or Germany in the future. Let's keep in touch. Good luck.\", \"I'd be very interested in organizing a group effort against Britain right now. I likely won't move to Saint Petersburg the first turn in case the Germans try something but I'm definitely bouncing in the Black sea.\", \"Understood, what's your plan then? \\n\\nYou might consider Moscow to Livonia, which would still improve your situation in the north (since you could convoy to Sweden and then build in StP), while also helping to cover Warsaw.\\n\\nOr else you could just commit both of your armies to the south.\", \"I've spoken with the Germans, and a group effort against the British is likely. I'm still considering various ways to secure my position better, but I think keeping one army put in Moscow offers the best stability for the time being; If the Germans are telling the truth it will likely move to secure a spot in Finland in the second year.\", \"I would advise against staying put. Both Ukraine and Livonia can defend 3/4 of your centers. St Petersburg  can't be attacked year 1 and the risk to Sevestapol is nominal in year 1, since even if he goes all out you bounce him out of Black Sea and he can only make an unsupported attempt from Armenia\"]",
+      "id": "task1590-02ff84e24d18466cad735da961f22692",
+      "input": "[\"I've been on both the giving and receiving ends of multiple games in which Austria, Italy, and Russia decided that their games would be much simpler if there wasn't a Turkey around, and it always was. I propose that we start the game off by coordinating a removal of Turkey before moving on to other priorities.\", \"Seems well reasoned, coordinated, direct and decisive. Just what I like to see out of a prospective partner for the future when I'm an enthusiastic rather than dangerous player! Sure why not, I'm in - if I hear from Austria that he is as well. That would remove a lot of pressure off my immediate borders and have me looking to a future decorated in Winter and Green. What do you think?\\n\\nOh, and hi there!\", 'Sounds excellent to me. Italy/Russia is a very strong long-term alliance.', \"So I've heard! I've played exactly one game as Italy since I discovered Diplomacy online (still ongoing) and our Wintergreen is presently well on the way to a three-way draw with France. If mostly because I can't persuade the Tsar that a two-way would be more interesting.\", \"So tell me, how do you find Terraforming Mars? I'm a bit of a highkey space fanatic and one of my friends has been on me to try it forever, but I don't find I have a lot of time for gaming. Worth a look? Or something that's fun but not for long?\"]",
       "output": [
-        "Going to Livonia is just as good for defending against Germany but gives you more options in the North"
+        "I've played about three dozen games at this point, I think, and every time there's something new or interesting that happens. Heartily recommended."
       ]
     },
     {
-      "id": "task1590-d8723d1cfc9e4313bde5de04bc7e8220",
-      "input": "['Heya there, just dropping in to say hello', 'Hey turkey. Our paths probably won’t cross for a while l, but may I suggest you attack Russia? I’ve seen way to many games where Russia is ignored and all of the sudden they have half the board. Anyways, good lucks and have fun!', \"Thanks! I'll definitely see what I can do, a big Russia is just as bad for me as everyone else\", 'Sweet!', \"I was talking with Russia, negotiating over Norway and such. They told me they were planning on attacking you, as they thought I was there ally. The truth is, I really don't want to see russia run off with this game, so I decided to let you know.\"]",
+      "id": "task1590-de636a5a70ba4eb2a0a3352683b08a18",
+      "input": "['Hey Germany, would you be interested in a peace between us, at least in the beginning?', \"I don't think either of us would benefit of starting a quibble when there's other powers at our borders.\", 'I’d be more than happy to oblige. From what I hear you’re going to have your hands full in the easy anyways. DMZ Tyrolia and Bohemia?', \"Sounds good. If things change with Italy, I'll let you know.\", 'It seems turkey has decided to side with germany']",
       "output": [
-        "Thanks for the heads up"
+        "Russia, sorry"
       ]
     },
     {
-      "id": "task1590-64773817e4f042fe8f8fd7a0c4fe659c",
-      "input": "['Hey France 😁. I would like to suggest an alliance between the two of us, against Germany. In my opinion a England-France alliance is super powerful, especially if we can trust each other. Germany has reached out to me about an alliance to attack you, but franly I think France as a country is a much more powerful ally.To start I suggest we have the English Channel as a DMZ and coordinate and attack on Germany. Anyways good luck and have fun!', \"Dear England,\\nI completely agree that the French-English alliance can be quite powerful. Naturally, the main sticking point early on is whether we can trust each other to demilitarize the Channel.\\nOn my end, I have little reason to go there unless I distrust you. I plan to go to Mid-Atlantic, which would allow me to move to Spain (south coast) and establish an early presence in the Mediterranean. Will also aim to get into Burgundy, where I can potentially support you into Belgium.\\nMy suggestion is that you open with:\\nF Edinburgh - Norwegian Sea\\nF London - North Sea \\nA Liverpool - Yorkshire\\nThis guarrenteed you a build in Norway even if Russia moves A Moscow north, while potentially letting you convoy into Belgium. And you can be safe in the knowledge that either A Yorkshire or F North Sea can cover London in the event that I don't keep my word.\\nLet me know your thoughts. Good luck to you as well!\", 'Sounds good!', 'How are your relations with Germany?', 'Getting into burgundy would be great. I’ll work some magic with Germany and try to get them to not move there.']",
+      "id": "task1590-fe42dd79807344c5bd581db72c753a56",
+      "input": "['Hey there - just checking in noting that there are multiple ways our interests can coincide.', 'Certainly. Nice to meet you.', \"Harrumph - that whole Western side of the board is setting off alarm bells.  I'd really appreciate if you let me into Sweden to slow England down - even if you take the dot next year, it's still to your and my advantage to let me position on him for a turn\", 'If I let you in you’ll likely build 3', \"Not sure what the third is - Rum, Swe, and?  Anyway, again, I fully expect you to take Swe next year - I'm just saying it's in both our interests if you let me convert it to a different unit first.  If you bounce me out I have not way to get rid of the fleet, whereas I can disband it if you dislodge from Swe next year 🙂\"]",
       "output": [
-        "Relations with Germany are not outright hostile, but it's a little tense.  Bounce in Burgundy is about what could be expected. \nSince they moved to Holland in Spring, you'll need to talk to them regarding the Belgium question. But they can probably be brought around. I'll move to Burgundy again, but probably expecting another bounce"
+        "There third was Vienna 😁"
       ]
     },
     {
-      "id": "task1590-f0ad03b9bbce4017b78bbd195058ea60",
-      "input": "['Heya there', 'Thoughts on an information sharing pact with respect to Italy?', \"We don't have to attack them right away, but neither of us benefits if they get too big ya\", 'Agreed. Obviously England and Germany are more immediate concerns for me (as are Austria and Russia for you). But neither of us wants to see Italy expand too far, and it would be of mutual benefit to share any information that we hear about them.', \"On a related note, have you heard from Russia or Austria? I'm curious to see if Russia plans to send A Moscow north or south.\"]",
+      "id": "task1590-3e483438057e427983a16983a676bf63",
+      "input": "['Modified Key Lepanto?', 'Hey Italy. I don’t want to fight you right now. Are you familiar with the deep water / deep blue lepanto? It’s a move that lets us work together in the first few years against Turkey.', 'You read my mind.', 'Not key though.', 'Just to be clear, I’m open to a modified Lepanto, but not a Key. I’ve never played with you before and I’d like to go on a date, maybe a nice dinner on a romantic boat ride before giving you a key to my place. 😉']",
       "output": [
-        "I don't really have a good read on Russia to be honest"
+        "I like the Key where I go BOH and take AEG. We both get one build and Turkey falls fast."
       ]
     },
     {
-      "id": "task1590-15f2e6b440cb4f3193272c3fcb426716",
-      "input": "['Greetings!\\n\\nI was just wondering what your aims were regarding territory in the area? May I suggest that we keep Tyr as a DMZ for the time being?', 'Hello Italy, I can agree to those terms.', 'Can I ask whether you plan to ally with Italy or France?', \"I'd like to think I'm already allied with Italy 😅\", 'Haha good one. I think I meant France or Austria?']",
+      "id": "task1590-52682aaa9dcb43918610df78e643c825",
+      "input": "[\"Bounce in black, I assume?  Or is there anything clever you'd like to try?\", \"Probably best, unless you're really looking for a RAT and want to rotate out, but I'm guessing that's not the safest play\", 'That is a nice, strong, southern opening!', 'Where you headed?', \"Straight to hell if I don't change my ways.\\nPutting Ukr into Rum, no move to Black - you are free to rotate.  The Western opening irks me\"]",
       "output": [
-        "Am currently speaking to both but haven't really moved towards either as of yet.\n\nWhat are your plans vis a vis alliances and expansion?"
+        "Before (and after) going for Trieste, Italy hasn't really made any any overtures to me about working together against Austria.  I don't like to see deceit behind EVERY door, but we may be looking at an AI.  🤷‍♂️"
+      ]
+    },
+    {
+      "id": "task1590-cecfe0fcfbeb4da786d3324355ea060c",
+      "input": "['Hey there neighbor. What are your plans for Austria?', \"Having spoken to him, we're on decent terms at the moment so just going to see how it goes\", 'You had much contact with Britain and Germany?', 'yes, Germany it seems like Germany is headed West 😦', 'Damn']",
+      "output": [
+        "Any chance you can help@me with a love to Tyrolia?"
+      ]
+    },
+    {
+      "id": "task1590-7976d70921c0410d98fb0648fc3873b6",
+      "input": "['Howdy Germany', 'How’s your early game shaking out?', 'Not so bad. Yourself?', 'Hey Italy! Thought I’d reach out and say hello. I’m excited for this game!', 'eh I mean Im fuckin italy']",
+      "output": [
+        "how do you think its going hahaha"
+      ]
+    },
+    {
+      "id": "task1590-33bf002248654a1c996ba87b48d4cbae",
+      "input": "[\"Hey neighbors ~~\\nWhat would you say to a western triple? We'd have to be careful about it and simulate some in fighting to prevent the east from teaming up in response, but I think we can pull it off\", 'I’m down. What did Germany say?', 'Sounds like their in if you are', 'So we doing this?', 'DMZ the channel?']",
+      "output": [
+        "I agree with the DMZ -- I definitely think we can pull the Western triple off"
+      ]
+    },
+    {
+      "id": "task1590-4c491559e703495191af7b2233c9fa77",
+      "input": "['Hey france, great first year!', 'Austria & Russia seem to have banded together so perhaps you need to be aware of that', 'thanks for the heads up.  do you have an ally in Italy?', \"No, not really. Their response has been strange and mostly aligned with Austria's. So they're probably allied\", 'But yeah, it would be good to have an ally a bit closer']",
+      "output": [
+        "Italy's behavior just baffles me"
+      ]
+    },
+    {
+      "id": "task1590-740ba10fee0f4667956b6359d793667c",
+      "input": "['Hello there my dear Kaiser! Nice to meet you 😄', 'Hello, hello. What are your thoughts on an F/G alliance?', 'Hello hello! I for one would not oppose one, what are your thoughts?', \"Well, Russia has seemed to be stirring up all kinds of trouble, but he has offered me help against England, so that's a point in favor of an F/G. I would like to at least DMZ Bur in 01\", 'That’s funny, Austria just asked for me to bounce you there so Mun can protect against a potential Tyr invasion']",
+      "output": [
+        "Idk why Austria thinks Tyr is going to be invaded this year"
+      ]
+    },
+    {
+      "id": "task1590-925b3fd29fda49319ff2dad86be5c38a",
+      "input": "['Heyyy guy', 'Thoughts re: la France?', 'Thinks seem pretty cordial so far. That said, I wouldn’t mind a thorn in his side. What are you thinking?', 'I’m thinking it might be to our advantage to pressure him a bit...rn he’s getting a LOT of builds this turn, and then he’s probably coming straight at us.', 'I can move on Picardy, but only if you move on Belgium.  I think Germany is going for him, so now’s your chance to get a slice of France while the getting is good.']",
+      "output": [
+        "Looking back at the board and damn, he has left Belgium wide open for you"
+      ]
+    },
+    {
+      "id": "task1590-16918b930d744a4ab020f8782087198b",
+      "input": "[\"So whaddya say to this: I build a crapton of fleets, you build a crapton of armies, and we kick the world's ass?\", 'I like the sound of that', 'I know I’m supposed to build a Carlton of armies but I need a fleet in Berlin to help stamp out Russia.', \"Long as it's in Berlin and not Kiel, I can deal.\", 'Berlin, huh?']",
+      "output": [
+        "ahhhhhh, I had originally built in berlin and then after your message i changed it to kiel but didn't update the order properly. I have NO plans on going anywhere but the baltic with it."
+      ]
+    },
+    {
+      "id": "task1590-d305a2e87d1544f2a1db520aa49c3f13",
+      "input": "[\"Hello Germany! Typically I find that we two powers tend to have a stance of mutual neutrality with one another, and I'm happy to not go against the grain here.\", \"I don't have an intention of moving to Tyrolia or anywhere near Munich at any time in the near future, if ever! So I'd like to hear that you have a similar mentality towards our relationship.\", \"Keep Tyr and Boh clear and I'm content with mutual neutrality\", 'Good to hear. Hope we can persuade Italy to do the same!', '👀']",
+      "output": [
+        "Hey, it looked like you weren't playing the game. I was just trying to look into getting the centers of an afk player before someone else did."
+      ]
+    },
+    {
+      "id": "task1590-814ac3ebe9e342d58183e1b46a92d9e7",
+      "input": "['Hi ho Mr. Pope!', 'Hi there your Majesty! How are things on the soggy jewel of the north? Here in the south we are cradled by the warm winds and waters of our homeland - much more conducive to religious reflection and relaxation, if not to any particular martial might.\\n\\nNot these days anyway. \\n\\nWhat do you have lined up today?', 'Oh lawd, just give yourself away why dontcha lol', 'As for me you know just trying to eradicate Catholicism from the world', 'Let us stay close in communications to be better prepared for the madness to come yes']",
+      "output": [
+        "So you’re going to message the Pope pledging to eradicate Catholicism from the world? Classy stuff! \n\nBut yes, close communications can only help us in coping and reacting to the adventures of the French. And Germans I suppose, but he hasn’t been unreasonable."
+      ]
+    },
+    {
+      "id": "task1590-56841408d8b243a295939938ea877c84",
+      "input": "['Would you like to work together?', \"Depends on what you're thinking.  As Germany, I think England makes the most sense as an ally.  Regardless of how the early game goes, I have to deal with some combination of England, France, and Russia within a few years.  France and Russia can help against England, but  not against each other, while England can help against both of the other two.\\n\\nI'm definitely open to working together, but my main questions for you: what does your contact with France or Russia look like?  Are you looking for a 3-party alliance, or just two?  What's your initial vision of how this will go, especially considering the 1910 deadline?\", 'I have reached out to France and am hoping for a three-way alliance between us. I have not spoken with Russia, and he has not spoken with me either.\\n\\nI see myself going through Scandinavia and northern Russia, yourself going through southern Russia and Austria, and France will take the Mediterranean.', \"I'm not closed off to the possibility, but I'm not thrilled at the prospect of an alliance with both you and France.  If with you, I'd much prefer that we split Scandinavia and then you focus on the Atlantic and Med.  If you land armies in Russia...well, that makes me an easy stab, while the reverse is not even close to true.\\n\\nThe concern about you flowing through Russia also explains my concern with the E/G/F combo, except even more so.\\n\\nI'm not trying to be contrary, but I don't have the luxury of setting my back against a wall like you do.\", 'By the way, have you heard anything from France?']",
+      "output": [
+        "You bring up some very good points. I'm willing to team up against France."
       ]
     }
   ],

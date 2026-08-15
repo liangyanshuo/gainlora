@@ -57,143 +57,227 @@
   ],
   "Instances": [
     {
-      "id": "task1572-64473fc93af0454f9f020bd5672db28d",
-      "input": " Ruth: Chris, don't forget about Nathan's appt, Chris: Today?, Ruth: Yes, I told you last night! 4:30, Chris: Oh boy,  I'm gonna have to leave work early., Ruth: Just tell them you'll work it off later at home., Chris: Fine, just tell him to be ready at 4 ",
+      "id": "task1572-3caa604709f340a481b7c7787b138943",
+      "input": " Lea: hello, Milly: hi, Lea: shopping today?, Milly: oh yeah!, Milly: i need new powder, Lea: so at 1?, Milly: ok ",
       "output": [
-        " Chris is having an appointment with Nathan today at 4:30. "
+        " Lea and Milly are going shopping today at 1. Milly needs new powder. "
       ]
     },
     {
-      "id": "task1572-0acea8ed58ba44d78183e549c73bfd27",
-      "input": " Maria: where are you? on the way?, Andrew: yes, on the highway even, Jeff: we should be there in about an hour, Maria: great, just don't take the exit to Exeter, Maria: there's always a jam, Jeff: ok, good you're telling us, Jeff: should we buy anything?, Maria: a bottle of wine maybe?, Jeff: red or white?, Maria: Wait, I'll ask Marion, Jeff: ok, Maria: I'm just afraid she cannot drink red after the operation, Maria: yup, she asked me to buy white, Jeff: perfect. So we'll get some , Jeff: see you soon ",
+      "id": "task1572-7dee322cb6cb4580b8e27d3adb78bc40",
+      "input": " Callie: check this out <3, Callie: <file_other>, Elena: gorge!! <3 <3 <3, Elena: what's this?, Elena: did you do it yourself?, Callie: it's a bullet journal :) no, of course not, Callie: but i wish i could draw like that :D, Elena: should i know what it is? it's not a regular journal, is it?, Callie: it's a journal which is meant to increase your productivity (it has a different structure than a typical journal and you can customize it to your needs), Callie: for some people it's a diary and creative outlet in one, Callie: i looove watching yt videos about bullet journaling, they're so aesthetically pleasing <3, Elena: hmm maybe i'll give it a go? looks like a great pastime ;), Callie: you should! i've been keeping a bullet journal for a year now and i'm in love, Callie: it's really helped me to gain control of my finances, Elena: ooo i could use some help in that department too...:) ",
       "output": [
-        " Andrew and Jeff inform Maria that they'll be there in an hour. Jeff'll buy a bottle of white wine as Maria wishes. "
+        " Callie made a bullet journal. She's been keeping a bullet journal for a year. "
       ]
     },
     {
-      "id": "task1572-a149b8ed263e4f6e96279a0b23fca656",
-      "input": " Emily: <file_other>, Emily: new season of case de papel!!! , Maya: :o, Ruby: <file_gif> ",
+      "id": "task1572-1aa4dd5477824ef697eedb7041364c87",
+      "input": " Joe: Hey mister writer man., Andrew: Hey., Joe: Have you ever read any books about writing?, Andrew: Not really. Why?, Joe: Oh., Joe: May I suggest Stephen King's \"On Writing\"? :), Andrew: Is it any good?, Joe: I found it inspiring., Joe: He doesn't really prance around the subject or give lectures., Joe: Of course it has some harsh truths., Joe: Like, if you can't dedicate yourself to writing, you'll never be good., Andrew: There is some truth in that., Joe: A lot of lazy people think they could write books :), Andrew: I'm very lazy., Andrew: But I don't think so that doesn't apply to me :P, Joe: So am I., Joe: But I want to be better., Joe: I'm trying to do at least the basics. Around two hours a day reading books and writing something., Andrew: Did you wrote something new recently?, Joe: I just sent in my first fantasy book for self-publishing., Joe: It's not perfect but it'll do., Andrew: Nice!, Andrew: Maybe it will gain some traction., Joe: I hope so., Joe: But it was more to prove myself that I can finish something., Andrew: A job well done!, Joe: Thanks. ",
       "output": [
-        " There's a new season of \"Case de Papel\". "
+        " Andrew hasn't read any books about writing. Joe recommends Stephen King's \"On Writing\". Joe is trying to spend 2 hours every day reading and writing. Joe has just sent his first fantasy book for self-publishing. "
       ]
     },
     {
-      "id": "task1572-db72000683dd44f6b10b6b16efa7a9a9",
-      "input": " Mary: Can you pick up the kids?, John: Sure. You've already asked me this morning., Mary: Really? I don't remember. , John: Ok, doesn't matter. ",
+      "id": "task1572-e28137b3a7544cdaa45a2eb9fdd0c6c9",
+      "input": " Lilah: Maybe today u wanna skype a little bit?, Frank: Maybe not haha, Lilah: :( Ok, i won't ask u about this anymore! :), Frank: I'm joking. Maybe later I will skype you, Lilah: I know u joking, Frank: I will call you in 1 h, Lilah: Ok, waiting! ",
       "output": [
-        " John will pick up the kids at Mary's request. "
+        " Frank will skype Lilah in 1 hour. "
       ]
     },
     {
-      "id": "task1572-29404e9f215442d88db7fc727fbbdd45",
-      "input": " Adam: Hello, do you serve coffee with lactose-free milk?, Vanessa: Hello Adam, yes, we do. In our offer you'll find soy milk, almond milk and oat milk., Adam: Thank you so much for your quick answer! Can I book a table then? Tomorrow at 12?, Vanessa: Of course, thank you for choosing us :) ",
+      "id": "task1572-8391dca674e149018098039d3afa0f38",
+      "input": " Dan: Ellie dumped me\nSebastian: Oh crap\nDan: Yeah, crap...\nSebastian: What happened?\nDan: I prefer not to talk about it right now... I'll tell you tomorrow, ok?\nSebastian: Well, ok...\nDan: Life's a piece of shit\nSebastian: Don't tell me, my parrot died this morning ",
       "output": [
-        " Adam books a table in Vanessa's café for tomorrow at 12 PM.  "
+        " Dan was dumped by Ellie. He and Sebastian will talk about it tomorrow. Sebastian's parrot died this morning. "
       ]
     },
     {
-      "id": "task1572-ffc218bb25934614a991ed1950124e0c",
-      "input": " Layla: Lilly moo moo , Layla: All good?, Layla: Bad week over?? 😑, Lillian: Hey stinky, Lillian: I'm out of town on meetings, Lillian: yeah much better now, Lillian: totally wears me down.. 😫, Lillian: you? ok?, Lillian: <file_gif>, Layla: I'v been feeling run down all weekend, and I haven't been going to work either these last couple of days, Layla: I think it might be the flu :/ , Lillian: Oh :( Fever too?, Layla: Not sure, I'll just have to wait it out and rest.., Lillian: Wrap up warm, and rest well ❤️, Lillian: I'll give you a ring later babe, see how you are ;), Layla: 😘 thx sweetie ",
+      "id": "task1572-06c58972855c4a458bcb28d8138f7758",
+      "input": " Jude: what is the address to pick up the sofa please?, Sue: hi, yes 36 Birchwood Fields GL4 OAP, Jude: we will be there at 7, Sue: thats great do you have someone with you to carry it as my husband is not home until later, Jude: no problem my brother is with me, see you at 7, Sue: ok see you then thanks ",
       "output": [
-        " Lillian feels much better now and she's out of town on meetings. Layla has been feeling run down all weekend, she thinks it might be the flu. She hasn't been going to work for the last days. Lillian will call her later to check up on her.  "
+        " The address for Jude to pick up a sofa is 36 Birchwood Fields GL4 OAP. He and his brother will be there at 7. "
       ]
     },
     {
-      "id": "task1572-9ad949cd0cb3449c99c2c8cf648de31d",
-      "input": " Bridget: Some workout today?, Kristen: Can’t make it. I have a terrible hangover., Bridget: Hahah! Where were you last night???, Kristen: Better ask where I wasn’t.  I went to all the bars in the area then headed for havana club, Bridget: With whom, Kristen: First I met with Ann then we bumped into her colleagues, Bridget: Sounds like somebody had a fun night yesterday, Kristen: Yeah.. I met someone, Bridget: Show me!, Kristen: <file_photo>, Bridget: OMG xD Damn, he’s so hot!, Kristen: Told u, Bridget: I so envy you right now. Did he ask you out?, Kristen: We’re texting now, so will see., Bridget: <file_gif>, Kristen: Stay tuned, haha ",
+      "id": "task1572-e9e6f91f3a0743eb94036e722136e892",
+      "input": " Victoria: I’ve just watched Adele Live Concert! AMAZING!, Mark: I’m a huge fan! She’s incredible., Victoria: indeed! What a voice!, Kelly: i love her as she’s so down to earth!, Mark: she’s very funny too, Victoria: that’s true she’s a beautiful person inside and out and so talented! , Mark: she’s the most awesome live performer ever! simply standing there and singing, Kelly: someone like you is my favourite song Yours?, Victoria: water under the bridge, Mark: i like all of her songs, Victoria: i wish i was there.., Mark: i’ve heard she’s not planning any new tours , Kelly: yeah, apparently they stress her out too much! :(, Victoria: NO! I can’t believe that! It can’t be true! ",
       "output": [
-        " Kristen has hangover today, so she can't join Bridget for workout. Last night Kristen met with Ann and her colleagues, they went to a few bars and the Havana club. She met a handsome guy who is texting her now. She shares his photo with Bridget.  "
+        " Victoria is amazed after watching Adele's Live Concert. Mark, Victoria and Kelly are also huge fans. Kelly's favorite song is Someone Like You and Victoria's favorite song is Water Under the Bridge. "
       ]
     },
     {
-      "id": "task1572-3f7fc4aebf5d493abe6ccc32b479591b",
-      "input": " Jeff: You're up late. What are you doing?\nPatricia: It's not that late\nJeff:  I'm 5 hours behind, but I know what time is in London now :)\nPatricia: I'm writing a translation for an important client\nJeff: You and your translations... won't you try something new?\nPatricia: I'm working on it, but you need to have time to look for a job\nPatricia: and I have no spare time ",
+      "id": "task1572-b288e04e071642c8a68b0ce46890aab5",
+      "input": " Cindy: babe, can you please pick up some vegetables and fruits on your way home?\nJad: hey love, okey... can you be more precise? \nJad: 🍑 and 🍆? \nCindy: haha you pevert! \nCindy: I was thinking more about some green beans please, and some Apples... the red ones!\nJad: 🤣 \nJad: okey baby\nJad: but I am still bringing that eggplant 🤣 ",
       "output": [
-        " Patricia is in London working on an important translation now and has no time to look for a job. Jeff is 5 hours behind her. His disapproves of her translating activity. "
+        " Jad will buy green beans and red apples on his way home. "
       ]
     },
     {
-      "id": "task1572-9933f09a602d4edba72b5542e8e8849d",
-      "input": " Hugo: Im off to Mazagan (Morocco) this weekend, Lacey: Oh so nice!, Hugo: Where are you these days? In Spain already?, Lacey: No. In Poland all the time. I study here ",
+      "id": "task1572-50758b34da404e0e95ad9da1abf5f829",
+      "input": " Issac: Where the fuck are u, Timothy: The closed it, I went somewhere else, Issac: I’m waiting for my fucking pizza, Im hungryyyy, Timothy: I know, dude, not my fault, I walked a long distance to get you tour food, fuck off, Issac: I’m waitiiing ",
       "output": [
-        " Hugo is off to Mazagan in Morocco this weekend. Lacey studies in Poland. "
+        " Timothy walked a long way to get a pizza for Issac because the previous pizza place was closed. Issac is very hungry.  "
       ]
     },
     {
-      "id": "task1572-0d03fb677ddf4792aa26ae6619eca5a5",
-      "input": " Dominick: Hello, Aretha. Just to let you know, I will be 15 minutes late. I’m sorry but the city is really busy today., Aretha: Hi, Dominick. Thank you for letting me know. See you soon, then!, Dominick: Thank you for understanding. See you! ",
+      "id": "task1572-7171e35f8f8f45b19edb0fbffe229e73",
+      "input": " Eli: hi! Wanna join me for a party tonight?, Katelyn: what party?, Eli: a birthday party of a friend, but she told me to bring whoever I want, Blake: I have no plans for tonight, can go with you, Eli: great, Katelyn: me too, Eli: ok, so let's meet at my place about 6.30, Katelyn: should we have some gifts?, Eli: maybe something symbolic, after all you don't know her, Eli: maybe a bottle of wine is enough, Katelyn: ok, Blake: I have a bottle of very good limoncello that I brought from Italy, Eli: that would be very nice and original, Blake: :) ",
       "output": [
-        " Aretha has to wait for Dominick as he will be 15 minutes late. "
+        " Eli, Katelyn and Blake will go to a party organised by Eli's friend. They will meet at Eli's place around 6.30 pm. "
       ]
     },
     {
-      "id": "task1572-0d6348d704704d948a420cdefa99af13",
-      "input": " Lola: <file_other>\nLola: check it!\nLaura: hmmm, a bit LOL honestly, what does it mean \"enigmatic landscape\"\nJeff: and \"where elephants tower\" 😂😂😂😂\nLola: god, it's not the point!\nTim: hahaha\nLola: I know, just kidding\nJeff: so what's the point?\nLola: what we could do there, it could help us plan the trip\nJeff: Lola, no offence, but I really detest Lonely Planet\nLola: I know, and TripAdvisor and airbnb and all the capitalist consumption through tourism...\nLola: but still... they just have good tips there\nJeff: like what?\nLola: simple ones, I know nothing about Botswana\nLola: like Chobe National Park or Chapman's Baobab\nLaura: this one looks really impressive indeed\nJeff: yes, and then we go there where 10000 other tourist go, destroying the landscape and producing the 15534th picture on instagram\nLola: I don't know about you Jeff, but I'm spending savings of my life to go to Botswana and I want to get from it as much as possible, so I need to know what's there\nLaura: I get your point Jeff, but Lola is also right\nJeff: ok, whatever, we could at least use some less commercial guidebooks\nLola: if you know any, I'm more than excited to look at them!\nJeff: ok, I'll look for sth ",
+      "id": "task1572-5771b0ad64aa453089c2ea84df376220",
+      "input": " Bob: Hi, Sandra. You there?, Sandra: I am. So good to hear from you!, Sandra: How are you feeling?, Bob: A little better now., Sandra: How is the hospital?, Bob: Quite all right. Considering., Sandra: Do they take good care of you?, Bob: Nothing to complain, really., Sandra: How about the food?, Bob: They could make some improvements there., Sandra: That bad, ha?, Bob: Let's just say I don't enjoy it., Sandra: I can bring some food tonight., Sandra: What can you eat?, Bob: Practically nothing. So, don't bother., Sandra: There must be something:), Bob: Well, you could bring some fruit, I suppose., Sandra: What do you want?, Bob: Perhaps a couple of bananas and some grapes?, Sandra: No problem. I'll see you after work. ",
       "output": [
-        " Jeff doesn't like Lonely Planet. Lola is going to Botswana. Jeff will look for some less commercial guidebooks. "
+        " Sandra is at hospital and is feeling a little better now. Bob will bring her some fruit when he visits her after work.  "
       ]
     },
     {
-      "id": "task1572-c66b7fb8d92d4373954829bdca8fa1cd",
-      "input": " Sam Smith: Good morning. I would like to order no. 27 from the menu. Here is my address 20 W 34th St, New York, NY 10001., Elisabeth Garnier: Good morning. We have received your order. The total bill amount is 12$ and the delivery will take approximately 35 minutes. We wish you a great meal and a great day., Sam Smith: Thank you, Sam Smith: I have waited more than 35 min and the food has not arrived yet., Elisabeth Garnier: We will immediately contact our deliveryman. Please, be patient., Elisabeth Garnier: By now the food should have been delivered to you., Sam Smith: Yes, I’ve got it. Thank you. ",
+      "id": "task1572-e3fce871725d47e190dd2c96b3175bc7",
+      "input": " Pilar: hey, dont forget about the track work theyre doing today. you might want to take another route, Clarissa: thats right. thanks for reminding me., Pilar: i myself forget and ended up regretting it, Clarissa: how long did it take u to get home?, Pilar: about 40 minutes longer, Clarissa: yeesh. im sorry, Pilar: its ok. its my own fault ",
       "output": [
-        " Sam Smith ordered the meal number 27 for 12$ to his place at 20 W 34th St, New York, NY 10001 and waited for the delivery more than the estimated 35 minutes.  "
+        " Pilar reminds Clarissa about the track work on the road and recommends her to choose another route. "
       ]
     },
     {
-      "id": "task1572-d7fb592c9e0c46bcbba7cc83616e278c",
-      "input": " Paulina: <file_photo>, Paulina: It bothers my head, Paulina: Don't know about you, but it makes me wonder about my sanity, Stanley: Haha. Yup. My mind is full of fuck., Paulina: Roflmao, Stanley: Wut?, Paulina: rolling on the floor laughing my ass off, Stanley: Seriously?, Stanley: ok. afz honey!, Paulina: ?, Stanley: Acronym Free Zone, Paulina: Hahaha :) :) :) :) :), Stanley: The way people chat nowadays frightens me., Stanley: I am aware of acronyms like afk or brb, Stanley: But abithiwtidb is too much for me :D, Paulina: What?, Stanley: Acronym for: A bird in the hand is worth two in the bush, Paulina: Jesus Christ :D ",
+      "id": "task1572-6872bfdbf2d648a0adaffabd34a9eb4c",
+      "input": " Vera: Do you know any games that would work well during a get-together party?, Olga: That's an interesting question, Olga: Actually, I remember one we used to play in college, Olga: It's called 'Mafia', Vera: Sounds intriguing :) Can you describe how it works more less, please?, Vera: I invited some colleagues from my new job and hope to spend this time in a relaxed atmosphere, Olga: Sure, I'll try, Olga: So... It all comes down to playing various roles, Olga: You need to prepare little notes with the following roles written on them: 'mafia' (2 or 3 such notes), 'mayor', 'policeman' and the rest will be 'residents', Olga: Everyone picks a random note, Olga: The game is led by a preselected person, let's call him a leader. There are 2 parts of the game - night and day, Olga: All the players sleep at night, I mean everyone closes their eyes, Olga: The leader says which character should wake up. Mafia wakes up every night and eliminates one player, Olga: The next one to wake up is mayor who can save a chosen player from death, including himself, Olga: Then a policeman wakes up and have an option of checking up on a chosen player by asking the leader if that person is a mafia member, Olga: Remember that nobody says anything - you make gestures to communicate , Olga: Are you with me, Vera? :D, Vera: Sure, ofc, it shapes up well! Keep going, please :), Olga: Sweet :), Olga: So... The night ends and it's daytime now. A person indicated (killed) by mafia is out of the game and the players discuss who can be a perp, Olga: This is the most important element of the game because here the fun begins. The city seek to eliminate mafia and the mafia's trying to kill the mayor or the residents, Olga: And now the last thing that I should mention - the worst mistake while playing the game is to hurry., Olga: You need to have plenty of time for Mafia. And trust me, it's addictive ;), Vera: Wow, Olga, this all sounds fantastic!!, Vera: I'm sure everybody will like it, Vera: How about you? That would be just awesome if you could join us :), Olga: Hmm... When are you planning to meet?, Vera: Friday evening :), Olga: Actually, why not. I'll be your tutor :), Vera: Super! ",
       "output": [
-        " Paulina and Stanley discuss the current use of acronyms in chat. "
+        " Vera invited some colleagues from her new job to a get-together party. She is looking for a game. Olga recommends a game called Mafia. Vera wants Olga to join the party on Friday evening.  "
       ]
     },
     {
-      "id": "task1572-7eaf03b5c3d04e8d9402ce6053064e62",
-      "input": " Mira: do you have those files with you?, Barry: the csi files? yeah, Mira: are you done, Barry: almost, i'll drop them by your office in an hour, Mira: okay cool, Barry: and also, did you see the page 18, Mira: yes ive seen that, its an error i know, Barry: so what do you want me to do?, Mira: leave it like that, i'll fix it myself, Barry: okay ",
+      "id": "task1572-a02128cb865b4858acef82750644970f",
+      "input": " Raymond: Do we have math homework?, Thomas: Yes, page 61, but don't know what exercise., Jake: exercise 4-7, Raymond: thanks bud ",
       "output": [
-        " Barry will drop the csi files to Mira's office in an hour. Mira will take care of the error at page 18 herself. "
+        " Exercises 4-7 from page 61 are the math homework for Raymond, Thomas and Jake. "
       ]
     },
     {
-      "id": "task1572-0065089313ec4e9a986f88fe908732af",
-      "input": " Erik: my car broke down, i need your help, Rory: what happened?, Erik: I was driving and when i tried to shift gear i heard a loud noise and the gearbox went loose, Rory: gearbox?, Erik: ye, like it broke or something... i can't switch gears anymore, i towed it to the parking lot with Chris, Rory: oh man you are fucked, Erik: is it that bad?, Rory: your car is how old... 10 years?, Erik: 13 or 14, Rory: yeah, well the fix will probably be more expensive than getting a new car lol, Erik: shit... you think so?, Rory: almost certain, Erik: can you come by anyway and have a look at it? Maybe I miss interpreted something, Rory: sure i, can come by sunday, is that good?, Erik: yes, thanks - i will make it up to you obviously, Rory: don't mention it :) just hoping i can help ",
+      "id": "task1572-7284891f779e453da491411c8f9361ed",
+      "input": " Isabella: Ethan just called me to go to the mall with him, Mason: What do you want me to do?, Isabella: Do you want to come along?, Mason: Nahh I am gud. :/ , Isabella: Is everything alright? :/, Mason: I just dont like him much., Isabella: Will talk about it when we would meet. C ya ",
       "output": [
-        " Erik's car broke down and Chris helped him to tow it to the parking lot. The car's 13 or 14 years old and Rory claims that fixing it may be more expensive than a new car. Rory agrees to come and see the car on Sunday anyway. "
+        " Isabella and Ethan are going to the mall. Mason declines invitation to join them because he does not like Ethan. "
       ]
     },
     {
-      "id": "task1572-9dd9d3a979d8455299c1668f8b6c48c2",
-      "input": " Adam: Hey Charlie, gotta question for you., Charlie: Hey man, what's up?, Adam: I'm having an issue. I just dropped Godwin who was on my bench and picked up Baron who plays tonight.Now it won't let me use Baron this week. Do you know why?, Charlie: Ya. Yahoo won't let you do that., Adam: I have done it in the past., Charlie: I can change it for ya., Adam: Cool thanks. When did that change?, Charlie: It's been a while, probably like five years ago. I've been doing it manually since then because it's a bullshit rule., Adam: Good to know. I appreciate it man!, Charlie: No worries. Essentially they won't let you make any changes after Sunday night for this week. We've always had people wait until Monday though., Adam: Thanks for all the info!, Charlie: Sure. You should be good to go now., Adam: Great. Thanks again, Charlie: Ya, always ask with stuff like that ",
+      "id": "task1572-f3fed63f7c7d41d69be994a37c949bf7",
+      "input": " Terry: are you going to the Polish party?\nPieter: yes, free vodka, right?\nLaurent: exactly! ",
       "output": [
-        " Adam has a problem with using Baron, because Yahoo introduced a new rule five years ago. He asks Charlie for help. Charlie helps Adam. "
+        " Pieter is going to the Polish party. There will be free vodka.  "
       ]
     },
     {
-      "id": "task1572-9399aba361654e78af8cdb8d76925ff5",
-      "input": " John: Hello Al, you coping ok?, Al: Hi there! Snowed under John, same as you, I'm sure!, John: I'll be so pleased when this bloody term is over!, Al: You and me both! , John: God! Just remembered we scheduled some revision classes at Easter, so bang goes the second week off!, Al: Oh yes, what joy! We're going to Sara's parents in Leicester for the first week, so I won't be able to pull out my books and laptop there much!, John: Oh yes, the parents-in-law holiday visit, lovely! Don't worry lad, we've got revision stuff all prepped from last year, you should have been sent the file by Brian or Hilary., Al: Oh, I'll dig it out, (if it's there!) and have a read over it next week., John: Oh shit, I remember Romeo isn't on there, we didn't do it last year, someone's going to have to write up some sheets for it! I'll mention it to Hilary tomorrow in the staff meeting., Al: Should I offer to do it?, John: Yeah, if you're up for it! It'll earn you some Brownie points with Hilary and Senior staff when it comes to renewing your contract. , Al: OK, then, I'll tell her tomorrow at the meeting., John: Good idea, I haven't got your youthful energy!, Al: Well, I really need to be kept on, we want to start trying for a baby soon!, John: Are you nuts!? No, seriously, you definitely need to be in a secure job first., Al: When will they decide about my contract, John?, John: After Easter I should think. I'll put a word in, of course, as I'm your line manager., Al: You're a pal, John, thanks! , John: Better get back to marking Of Mice and Men, then, the excitement might kill me, though!, Al: I've been running through the themes with my middle group, they are not exactly bright sparks, are they?, John: Had then last year, they may surprise you come exam time, mind! They don't say a lot, but some of their work is promising., Al: Hmm, maybe, anyway, see you at the meeting first thing!, John: Right, bye! ",
+      "id": "task1572-745a966e10814e9da7b16a8ec559a5e3",
+      "input": " Miralem: hey bro, Miralem: i want to enquire at your Gym, Blaise: hey bro, when is that, Miralem: starting from next month, Blaise: that would be wonderful, Miralem: i liked your equipment better, Blaise: you havnt even seen the latest chest builder landing machine, Miralem: really, your equipments are very modern, Blaise: yeah they are. i'll build a membership card for you , Miralem: cool, ill pass by later and fetch it, Blaise: okay then dude, Miralem: cool, Blaise: i appreciate ",
       "output": [
-        " Al will write up some sheets for John. Al wants to start trying for a baby soon but he needs a secure job first. John will support Al in renewing his contract after Easter. Al will see John at the staff meeting tomorrow.  "
+        " Miralem is starting to go to Blaise's gym next month, as they have better and more modern equipment. Blaise will prepare a membership card for him. Miralem will come by later to get it. "
       ]
     },
     {
-      "id": "task1572-9176799a908c4a059315fff35ce7db3e",
-      "input": " Stan: May I stay home?, Carol: No. , Stan: Mom! , Carol: No means no. End of discussion., Stan: But I don't feel good. Pleeeeease!, Carol: I've let you stay home once, which doesn't mean you can skip school days whenever you want now., Stan: Not like 'whenever', Just today. Please, say yes., Carol: No. I mean it. I know all too well what you're doing. Instead of playing games all night you should have revised for the test., Stan: You're awful!!!!, Carol: Go to school. Do your best. Have fun., Stan: Hate you., Carol: Love you! Very much. , Stan: That's not fair., Carol: Well... get used to that. Seriously, get ready to school. I'll pick you up at 3.20. I won't change my mind. ",
+      "id": "task1572-632504ad27174372bb9edbd21ded370c",
+      "input": " John: I've got next Monday off, and that would mean I can come up on Sunday evening if that's any good for you. That might change but fingers crossed it stays that way, Wendy: I was just thinking about you.. sat on my swing chair in the garden thinking you would really enjoy an evening here with a few bottles of wine and a decent steak on the barbi so yes Sunday would be great I can take Monday off as well xxx, John: If I wasn't working tomorrow I would be on my way now, I haven't had a good steak for a long time x x, Wendy: Me either... well you know its open invite here xx ",
       "output": [
-        " Stan wants to stay home because he has a test at school. Carol has let him stay once before, but now she refuses. She will pick him up at 3.20. "
+        " John most probably won't be working next Monday, so he can come to Wendy's place Sunday evening. Wendy can also take Monday off in that case. "
       ]
     },
     {
-      "id": "task1572-67b88fbed7aa4561a32becafb50839b5",
-      "input": " Jeffrey: i'm thinking about driving for uber :-D, Jeffrey: what do u think?, Shannon: i'm surprised you want to drive for uber!!! lol, Shannon: that's so unlike you, Shannon: why do you want to drive for uber?, Jeffrey: the extra money could come in handy, Jeffrey: i want a new flat screen tv and those are expensive :-/, Jeffrey: i think if i drive for uber for a couple of weeks i can make that money, Shannon: you don't mind putting mileage on your car?, Jeffrey: not really, Shannon: and having strangers in your card?, Jeffrey: no, i really don't, Shannon: then maybe uber driving it's a good idea, Jeffrey: yeah :-D i'll give it a try, Shannon: please let me know how it goes!, Shannon: i'm genuinely curious lol ",
+      "id": "task1572-4c55ef40ff804fe9bac64784e70827c3",
+      "input": " Rob: I've booked three hotels for our trip to Rome, Alex: Any good?, Rob: Log into our booking.com account and choose the one you like best, Alex: Ok!, Rob: They are all good location but I like Amore Roma best, Alex: Just a sec let me see, Rob: okok, Alex: Yeah, Amore Roma is best! ",
       "output": [
-        " Jeffrey is considering driving for Uber as he needs money to buy a new TV. Jeffrey doesn't mind putting mileage on his car or driving strangers. "
+        " Rob booked three hotels for his and Alex's trip to Rome, of which Amore Roma is the best. "
       ]
     },
     {
-      "id": "task1572-18203115d6274efdbbb4f1f2954dc035",
-      "input": " Charlie: Guys, I need some of you to help me with cleaning up the summer house after yesterday's party., Charlie: Dad said that we better do that today if we want to use the place for a party again in the future..., Daisy: I'll come, no worries, Charlie :), William: Everyone who enjoyed the party should help, I'm coming!, Freddie: I had a good time too, coming, Gabrielle: Couldn't come to the party... good luck guys xD ",
+      "id": "task1572-8ea9421d86aa4a139a2caebe3210ba39",
+      "input": " Jenny: Hey girl! What’s up?\nAudrey: hey you, I am doing great! And you?\nJenny: good, good. So Nadia is getting married in two months, and we need to organise an awesome bachelorette party for her 💃. Are you in to do it in the last week of June?\nAudrey: Oh yass!! That will be great if we can also gather the other girls. Do you have anything planned yet? \nJenny: well I though about organising a spa day with the girls, a nice restaurant afterwards…. And of course we can party all night long somewhere.\nAudrey: that sounds great, she loves pampering herself! So a day at a spa is PERFECT! \nJenny: yeah thought so too. \nAudrey: oh, we can buy some matching robes for us bridesmaids 😍and one in white for her… you know like the things we see on Instagram lol \nAudrey: <file_photo> \nJenny: oh yeah, these are so cute she would love them. And we will buy her a cute crown… gotta make her feel extra special. \nAudrey: haha 😹 yeah she’s so extra! ",
       "output": [
-        " Charlie asks guys present at yesterday's party for help in cleaning up the summer house. Daisy, William and Freddie will come and help Charlie. "
+        " Jenny enlists Audrey to help organise a hen party in the last week of June for Nadia who is getting married in two months. Jenny thinks about spending the day in a spa and going to a restaurant afterwards. Audrey suggests they buy matching outfits for them as bridesmaids and for the bride. "
+      ]
+    },
+    {
+      "id": "task1572-af535406e379428eb0e25ff13f84351f",
+      "input": " Maya: Chris, I'll be a little late, Christina: okay I'm waiting, Maya: sorry!, Christina: no prob ",
+      "output": [
+        " Maya will be late. Christina is waiting. "
+      ]
+    },
+    {
+      "id": "task1572-51921e5ba1f947a691ffe7847ebce10d",
+      "input": " Violet: hi! i came across this Austin's article and i thought that you might find it interesting, Violet: <file_other>, Claire: Hi! :) Thanks, but I've already read it. :), Claire: But thanks for thinking about me :) ",
+      "output": [
+        " Violet sent Claire Austin's article. "
+      ]
+    },
+    {
+      "id": "task1572-1510dbf777f14fa890a4f37dfb15c1c8",
+      "input": " Josh: rdy?, Zack: not yet, Josh: why?, Josh: it's time, Zack: had to finish something, Zack: give me 5 min, Josh: kk, Josh: we'll w8 ",
+      "output": [
+        " Zack needs 5 more minutes to get ready. Josh and they will wait for Zack. "
+      ]
+    },
+    {
+      "id": "task1572-dd28fba6207e4b9898860222e4f437b8",
+      "input": " Elijah: shoot, tomorrow we're going to the dinner at my parents' house right?, Eliza: yeah, that's right, Elijah: I have totally forgotten that Cindy had birthday yesterday!, Eliza: oops, me too!, Elijah: I've no idea what to give her :(, Eliza: hmm...what about those cups she was so thrilled with the last time? ",
+      "output": [
+        " Eliza and Elijah are going to the dinner at his parents' house. They have both forgotten that Cindy had birthday yesterday, and Eliza thinks of buying her the cups she was thrilled with last time. "
+      ]
+    },
+    {
+      "id": "task1572-1b15817eeb484a9c9b4f4f81abb34a71",
+      "input": " Alexandra: Hi, could you send me a photo of that grammar tasks for tomorrow?, Nicole: Sure. Wait a sec:), Alexandra: Great!, Nicole: Ok... Here it is, Nicole: <file_photo>, Nicole: Enjoyyy!, Alexandra: Ex 7-12, yes?, Nicole: Exactly:), Alexandra: Its pretty difficult :/ You did it??, Nicole: Not yet, Alexandra: Ok, Nicole: But it’s based on what is in our textbook:), Alexandra: Ok, many thanks :*, Nicole: Anytime:), Alexandra: :) ",
+      "output": [
+        " Nicole sent Alexandra a photo of grammar tasks for tomorrow. Nicole hasn't done them yet. "
+      ]
+    },
+    {
+      "id": "task1572-472f2539c16e44baaaf244252429ded6",
+      "input": " Jenny: Hey, anyone’s been to the lecture today?\nTom: Nope, sick all day\nFreddie: No teachers here, Tom ;)\nTom: I am sick, I’ve been puking for the entire morning\nKathy: So you’re not sick, just hangover :D\nJenny: Ekhm, guys, lecture?\nFreddie: I can send you the notes. Also, I think there must have been someone who was recording it.\nKathy: Me for example ;)\nJenny: Would you mind send me all you have?\nJenny: Middleton hates me enough, I don’t want to give him an excuse to kick me out.\nKathy: Sure, I’ll email it as soon as I get home.\nTom: CC me please?...\nJenny: Do we need to prepare something for next week? Did he say anything about the test?\nFreddie: Yeah, it’s probably going to be rescheduled, so in three weeks – more time to procrastinate :D\nTom: And you’re telling us now?!\nKathy: And we have an essay to write, due next week ;)\nJenny: Oh no no no no\nFreddie: It was supposed to be due in two weeks, but as he rescheduled the test, he said we should at least work on the essay.\nJenny: At least!\nTom: What a dickhead…\nKathy: Well, he assumed that everyone’s started already…\nJenny: Yeah, sure, two weeks before the deadline :D\nFreddie: Oh, are you telling me that you haven’t started yet, Jenny? :P\nJenny: Oh, only 50 pages down, another 100 to go :P\nTom: Uhm… what are we supposed to write about?\nKathy: The influence of Jane Austen’s prose on literature\nFreddie: Vague much, really creative\nTom: Is this even legal to change the deadline this late?\nKathy: Hahahaha\nJenny: I highly encourage you to bring up this issue, Tom ;) ",
+      "output": [
+        " Tom was sick in the morning, so he didn't go to the lecture today. Kathy will share her notes by email with Jenny and Tom. The deadline for the essay on the influence of Jane Austen’s prose on literature was shortened and it's due next week. The test will probably be in three weeks' time. "
+      ]
+    },
+    {
+      "id": "task1572-e137e9a77129460f8d3b1f94a0e56e02",
+      "input": " Ricardo: is there any place you can imagine living after the PhD?\nAnca: Canada, I think Montreal, but I haven't been there yet\nKamil: I'd love to stay in Italy, I feel happy here\nHenning: but it's not really possible, is it?\nKamil: I think it's not\nRicardo: Will you come back to Germany Henning?\nHenning: I think this is a very possible scenario\nKamil: would you like it?\nHenning: I won't mind it ",
+      "output": [
+        " Anca has never been to Canada before, but she'd like to live in Montreal after the PhD. Kamil would love to stay in Italy, but it's rather impossible. Henning won't mind coming back to Germany. "
+      ]
+    },
+    {
+      "id": "task1572-171888cfc4574286980304cf55cc3bfd",
+      "input": " Ellen: recommend a movie, Mira: hmmm, Mira: what genre?, Ellen: idk, sth entertaining!, Mira: superheroe movies included?, Ellen: yup, Mira: have you seen Thor?, Ellen: I think so, the one from like 8 years ago?, Mira: and Thor: ragnarok?, Ellen: nope!, Mira: it's on netflix now :), Ellen: sounds good!!, Mira: and you can watch it with Sam :P, Ellen: that's another plus, thanks!!, Mira: no prob :* ",
+      "output": [
+        " Mira recommends Ellen the movie Thor: Ragnarok. "
+      ]
+    },
+    {
+      "id": "task1572-728338b992214a24877f2abb5bc11dd5",
+      "input": " Leda: Ok, so first Homo Faber., Gaby: I've already booked the tickets., Ivan: Where is it exactly?, Leda: Isola San Giorgio., Gaby: They say it's really worth it. It's for free, but you need to register on their site., Marc: OK, what about Giardini or Arsenale? I think we won't make it to see both., Leda: Well, the ticket is valid for both. We can ask around., Gaby: I'm for Arsenale!, Ivan: Me too. We can also go different places... There are a lot of satelliti, the installations from other countries., Marc: OK. , Leda: <file_gif> excited!, Gaby: What about the transportation? Same ticket as 2 years ago?, Marc: I heard there is some kind of monthly ticket that is cheaper., Ivan:?, Marc: I'll ask Ale, he knows best. ",
+      "output": [
+        " Leda, Gaby, Ivan and Marc are deciding which shows to see. They are also deciding on the mode of transportation they're going to use.  "
+      ]
+    },
+    {
+      "id": "task1572-b9db95f0cbb64f50a9eb0e96b513458d",
+      "input": " Noah: I’m driving to Leeds for the music festival on Friday evening and have two spaces left in the car. Who’s up to it?, Karen: Who’s coming with you?, Noah: Tom and John, Karen: so no thank you! Haha!, Noah: haha! Not getting.., Charlie: count me in!, Noah: great!, Noah: one space left anyone?!, Benjamin: When are you coming back?, Noah: sunday afternoon, Benjamin: can you pick me up from work on friday?, Noah: where is it? The city centre?, Benjamin: yeah, next to the mall, Noah: no problem! I’ll pick you up! Can’t wait guys!, Charlie: great! See you on friday, Benjamin: cheers mate!  ",
+      "output": [
+        " Noah is driving to Leeds for the music festival on Friday evening. He's taking Tom and John. He will also take Charlie and Benjamin. They are coming back on Sunday afternoon.  "
+      ]
+    },
+    {
+      "id": "task1572-f8dc9a40d96745b3acde211fe2ce3be9",
+      "input": " Kim: 5 season of black mirror coming soon, Hannah: Yep, i know, Hannah: Lisa told me, Kim: I can't wait, Kim: And this whole 'choose your adventure' thing, Sydney: ?, Kim: Interactive episode, Sydney: Aaaaah, Sydney: Yes, that interesting, Kim: I'm very curious about it, Hannah: Here's an update, Hannah: <file_other>, Kim: *.* ",
+      "output": [
+        " Kim and Hannah can't wait for black mirror coming soon. Sydney and Kim find interesting the interactive episode. "
+      ]
+    },
+    {
+      "id": "task1572-40eface8b2fe4bae9c0b2ea7fd4b9c45",
+      "input": " Bo: what for dinner?, Mom: potato soup, Bo: bleh, i wanted pizza ",
+      "output": [
+        " Bo and Mom have potato soup for dinner. "
       ]
     }
   ],

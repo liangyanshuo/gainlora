@@ -56,703 +56,1403 @@
   ],
   "Instances": [
     {
-      "id": "task591-611d499f73db497d889e77a6eb587d50",
-      "input": "In eukaryotes, the cell cycle consists of a long preparatory period, called __________ before undergoing cell division.",
+      "id": "task591-a52c8b3aa4de4334bbc1d0105aabfc66",
+      "input": "Quantities have two parts: the number (how many) and what else?",
       "output": [
-        "interphase"
+        "he unit"
       ]
     },
     {
-      "id": "task591-5e0c0b0e18ae4584b28fee07a3fa7c0e",
-      "input": "Vibrating electric and magnetic fields make up what kinds of waves?",
+      "id": "task591-ae0f03b69e1d4d97afbbd8724d4a8800",
+      "input": "What is the name of the organelle that helps make and transport proteins and lipids?",
       "output": [
-        "electromagnetic"
+        "endoplasmic reticulum"
       ]
     },
     {
-      "id": "task591-95754829aeba4b84ae9035d289ab3167",
-      "input": "Hair is a component of which bodily system?",
+      "id": "task591-836b003b1dc04f119871b269ebfaa200",
+      "input": "Geysers are created when what is heated beneath the earth's surface?",
       "output": [
-        "integumentary system"
+        "water"
       ]
     },
     {
-      "id": "task591-0c72daf82d74423492f86ad007e4d2eb",
-      "input": "What causes light to refract?",
+      "id": "task591-0c5246286ecd4fdbb4271472d836f87b",
+      "input": "Dentists occasionally use metallic mixtures called amalgams for what?",
       "output": [
-        "slowing down"
+        "fillings"
       ]
     },
     {
-      "id": "task591-03b84efb1f1b4d5e87c8bd85444493a5",
-      "input": "If the frequency of the electromagnetic wave is the same as the natural frequencies of the system, the transfer of what is much more efficient?",
+      "id": "task591-31d9d60ce70946a8bb0a87fa83515787",
+      "input": "What is the study of ecosystems?",
+      "output": [
+        "ecology"
+      ]
+    },
+    {
+      "id": "task591-39f36f1fad504564af0a124946f85366",
+      "input": "What is the upper-most atmosphere known as?",
+      "output": [
+        "thermosphere"
+      ]
+    },
+    {
+      "id": "task591-68dc5060cc8441da8dfa711b77df4502",
+      "input": "Elements with magic numbers of what tend to have more stable isotopes?",
+      "output": [
+        "protons"
+      ]
+    },
+    {
+      "id": "task591-ee4bfe4954a9420c9227475a05a3c3c0",
+      "input": "Psip can be positive or negative relative to what kind of pressure?",
+      "output": [
+        "atmospheric"
+      ]
+    },
+    {
+      "id": "task591-99f91f674daa426b9818cf5530ca6b8e",
+      "input": "A basic function of cells includes obtaining what from glucose?",
       "output": [
         "energy"
       ]
     },
     {
-      "id": "task591-1e4f12ece40c46738c47cfb9b66fa0f7",
-      "input": "The force that blood exerts upon the walls of the blood vessels or upon the chambers of the heart is known as blood what?",
+      "id": "task591-c2895aae75f644b9adb3911548adea6f",
+      "input": "What type of blood cells transport oxygen to the tissues so they can function?",
       "output": [
-        "pressure"
+        "red blood cells"
       ]
     },
     {
-      "id": "task591-69d2e02d7a6c4cca920f365dbc422eb4",
-      "input": "Glands release what substance into the blood?",
+      "id": "task591-397c36a68ab24ed497b1441d8bf0938e",
+      "input": "What is the enlarged tip of the penis called?",
       "output": [
-        "hormones"
+        "glans penis"
       ]
     },
     {
-      "id": "task591-c497abeb45d74e5ea76b81fc162d55f3",
-      "input": "How is a reaction described when the given conditions favor formation of products?",
+      "id": "task591-1695bc0891fe4ee1912624562dcb187b",
+      "input": "Carbon, hydrogen, nitrogen, oxygen, phosphorus and sulfur are basic elements that form what type of compounds, which are vital to life?",
       "output": [
-        "spontaneous"
+        "organic compounds"
       ]
     },
     {
-      "id": "task591-6cdc636c4976492bb1adc6efd1a84362",
-      "input": "What kind of molecule is made from one or more long chains of amino acids?",
+      "id": "task591-53e608a4a1284e1dad8b2d9e6082e169",
+      "input": "What protein is produced when a plasma cell is stimulated by antigens?",
       "output": [
-        "protein molecule"
+        "immunoglobulin"
       ]
     },
     {
-      "id": "task591-72ef336fa9104c71893e360dd65153f2",
-      "input": "What is the force of attraction that holds together positive and negative ions?",
+      "id": "task591-7602dfee255c4e3681b1b3e035d891d1",
+      "input": "What do we call the major artery carrying recently oxygenated blood away from the heart?",
       "output": [
-        "ionic bond"
+        "aorta"
       ]
     },
     {
-      "id": "task591-fc0ff17baa47444ea8f283ca606f409c",
-      "input": "Which type of tree loses its leaves each fall and remains leafless in the winter?",
+      "id": "task591-ab4a1f9387924a9eb6373ad5f612b94f",
+      "input": "What is the name of the formation that regulates sleep and arousal?",
       "output": [
-        "deciduous"
+        "reticular formation"
       ]
     },
     {
-      "id": "task591-2996ff42780e455689609d8d99ab0e00",
-      "input": "What type of scale is the richter scale?",
+      "id": "task591-e054bc78afb34e60b26714a4a5bcf35c",
+      "input": "What are groups of atoms that behave as a single unit called?",
       "output": [
-        "logarithmic"
+        "molecules"
       ]
     },
     {
-      "id": "task591-ecc9940c32964535a6e763d2a3684a9c",
-      "input": "What is another term for all eukaryotic organisms that are neither animals, nor plants, nor fungi?",
-      "output": [
-        "protists"
-      ]
-    },
-    {
-      "id": "task591-6a18418dcade4391acb552da49088032",
-      "input": "Sickle cell anemia is what type of disorder?",
-      "output": [
-        "autosomal recessive disorder"
-      ]
-    },
-    {
-      "id": "task591-1ee6ef35d47e47e3a73767b655f6099e",
-      "input": "An oxy-acetylene torch is an effective way to cut what?",
-      "output": [
-        "metal"
-      ]
-    },
-    {
-      "id": "task591-163e4a35e95f410baa09c1052f941ac4",
-      "input": "What is the ability of an atom to emit, or give off, charged particles and energy from the nucleus?",
-      "output": [
-        "radioactivity"
-      ]
-    },
-    {
-      "id": "task591-61f50ed002e9424bb87567e9fd74a1fd",
-      "input": "In preparation for phagocytosis, a portion of the inward-facing surface of the plasma membrane becomes coated with a protein called clathrin, which stabilizes this section of what?",
-      "output": [
-        "membrane"
-      ]
-    },
-    {
-      "id": "task591-316d6d0450814bc4bcaf251252716e4b",
-      "input": "Atoms of different elements can combine in simple whole number ratios to form what?",
-      "output": [
-        "chemical compounds"
-      ]
-    },
-    {
-      "id": "task591-9c59b8febf06409d8dec4f5532797497",
-      "input": "More common in developing countries, parasitic diseases caused by roundworms often result from poor practice of what?",
-      "output": [
-        "personal hygiene"
-      ]
-    },
-    {
-      "id": "task591-14e0df800edc4933ab1f9fbf388fcb42",
-      "input": "What type of bacteria stains red?",
-      "output": [
-        "gram-negative bacteria"
-      ]
-    },
-    {
-      "id": "task591-91796716ac3245db9b651f43dca772a3",
-      "input": "What is the common term for water in its solid state?",
-      "output": [
-        "ice"
-      ]
-    },
-    {
-      "id": "task591-eb2cc3e4540647e48853a5007de00822",
-      "input": "What type of behavioral rhythms are linked to the yearly cycle of seasons?",
-      "output": [
-        "circannual"
-      ]
-    },
-    {
-      "id": "task591-3032b724d2344b389c489c786f6801eb",
-      "input": "What substance is created when a copper turns from reddish brown to greenish brown?",
-      "output": [
-        "copper oxide"
-      ]
-    },
-    {
-      "id": "task591-93e5231014ce48b897f559efbb2bfc37",
-      "input": "What two things determine how much kinetic energy an object has?",
-      "output": [
-        "its mass and velocity"
-      ]
-    },
-    {
-      "id": "task591-643e63f7109743b7b8b924f7876404f5",
-      "input": "How many types of tissue are found in animals?",
-      "output": [
-        "four"
-      ]
-    },
-    {
-      "id": "task591-8fd376f5b35f44339528f6f10a097dc0",
-      "input": "Making a specific prediction based on a general principle is known as what type of reasoning?",
-      "output": [
-        "deductive reasoning"
-      ]
-    },
-    {
-      "id": "task591-87e5861a1389436d9b0af672e6e6374c",
-      "input": "What is the name of the two metalloids in the carbon group called?",
-      "output": [
-        "silicon and germanium"
-      ]
-    },
-    {
-      "id": "task591-9ccf90664d984e38bb3175215322cf91",
-      "input": "Glucagon and insulin are produced in what organ?",
-      "output": [
-        "pancreas"
-      ]
-    },
-    {
-      "id": "task591-16c7c14865804cf9895684cc92647e2f",
-      "input": "Where do producers in an ecosystem generally get their energy from?",
-      "output": [
-        "the sun"
-      ]
-    },
-    {
-      "id": "task591-e2595729765b4496be6e0fa65d527e51",
-      "input": "Changing the shape of an elastic material gives it what type of energy?",
-      "output": [
-        "potential"
-      ]
-    },
-    {
-      "id": "task591-27058ef263414698a424204faff27a01",
-      "input": "Of the three basic types of radioactive emissions, what particle is the most penetrating?",
-      "output": [
-        "gamma"
-      ]
-    },
-    {
-      "id": "task591-94c9622a548642219d80caebceaf88db",
-      "input": "The rate of evaporation depends only on the surface area of the liquid and is essentially constant. the rate of condensation depends on the number of molecules in the vapor phase and increases steadily until it equals the rate of this?",
-      "output": [
-        "evaporation"
-      ]
-    },
-    {
-      "id": "task591-b56936a64a504c84ae1fff7ab2d3612e",
-      "input": "Single-celled eukaryotes that share some traits with animals are also called?",
-      "output": [
-        "eukaryotes"
-      ]
-    },
-    {
-      "id": "task591-8393a2f8f77549ddaefe4d69f92d200b",
-      "input": "When animals get rid of their gaseous waste, what is exhaled through their mouth and nose?",
-      "output": [
-        "carbon dioxide"
-      ]
-    },
-    {
-      "id": "task591-6796205c243749d7b59d379147279949",
-      "input": "Which particle of an atom has a positive electric charge?",
-      "output": [
-        "proton"
-      ]
-    },
-    {
-      "id": "task591-df61450719224c918394917a9d81460b",
-      "input": "What system of the body is responsible for producing hormones?",
-      "output": [
-        "endocrine system"
-      ]
-    },
-    {
-      "id": "task591-f12a4399b806444287de263e0f8df01a",
-      "input": "The properties of the alkali metals are similar to each other as expected for elements in the same what?",
-      "output": [
-        "family"
-      ]
-    },
-    {
-      "id": "task591-fa18a8f187a34b86a259c3ee54741647",
-      "input": "The pancreatic hormones insulin and glucagon maintain glucose homeostasis by tightly regulating the synthesis and breakdown of what?",
+      "id": "task591-517322767dc342d88f4e5eec83b83f50",
+      "input": "What is made and stored primarily in the cells of the liver and muscles?",
       "output": [
         "glycogen"
       ]
     },
     {
-      "id": "task591-bb2385f3470f4f75aec67118a8850d4f",
-      "input": "Ultimately, the fluid that is lost from the blood vessels is returned through what system?",
+      "id": "task591-25b3d3ba57c64fadbe7656bf66a766b8",
+      "input": "In what year was the hardy-weinberg theorem formulated?",
       "output": [
-        "lymphatic"
+        "1908"
       ]
     },
     {
-      "id": "task591-c449abf8e24a4deb813fc585b8abcdc2",
-      "input": "Which type of cell can carry out more functions, eukaryotic cells or prokaryotic cells?",
+      "id": "task591-16d23e0c3cf94be3b90a6792718992e3",
+      "input": "Life span is distinct from what, which means the sequence of stages a plant goes through from seed germination to seed production of the mature plant?",
       "output": [
-        "eukaryotic cells"
+        "life cycle"
       ]
     },
     {
-      "id": "task591-6ac685654b8e488bb500d1ad345e160e",
-      "input": "Dissolved oxygen in seawater is critical for sea creatures, but as the oceans warm, oxygen becomes less what?",
+      "id": "task591-939c866f9a064ff386ecf7e4c00f90ff",
+      "input": "What noble gas follows hydrogen on the periodic table?",
       "output": [
-        "soluble"
+        "helium"
       ]
     },
     {
-      "id": "task591-d059a4dc5c18428ba7fba83a3f98070b",
-      "input": "Some protists hunt their food or act as what?",
+      "id": "task591-e9cdeaafe89d49a893d1337971f09ece",
+      "input": "What cage composed of 12 pairs of ribs, with their costal cartilages and the sternum, protects the heart and lungs?",
       "output": [
-        "parasites"
+        "thoracic"
       ]
     },
     {
-      "id": "task591-24039696a6634a04b691f4ab82060620",
-      "input": "What do you call the fragments of cells involved in the clotting process that are suspended in blood plasma?",
+      "id": "task591-c6ab1cc76e454d8c80d333d3d697db42",
+      "input": "What type of chemistry is the study of chemicals containing carbon called?",
       "output": [
-        "platelets"
+        "organic chemistry"
       ]
     },
     {
-      "id": "task591-387fbbfc85574c65a4a842109b7c2c8a",
-      "input": "What is a type of plant tissue consisting of undifferentiated cells that can continue to divide and differentiate?",
+      "id": "task591-a074365d65b9496683674bfaf5d80264",
+      "input": "How do leaves export sugar to roots and other nonphotosynthetic parts of the plant?",
       "output": [
-        "meristem"
+        "veins"
       ]
     },
     {
-      "id": "task591-2afb76a238544a00b0864a008f2c1eaf",
-      "input": "What are compounds composed of only two elements called?",
+      "id": "task591-38795e7a5b044197a79470f4f32a368b",
+      "input": "The movement of ice causes glaciers to have cracks referred to as?",
       "output": [
-        "binary compounds"
+        "crevasses"
       ]
     },
     {
-      "id": "task591-9584c62e23d14e6da67748039e80e60c",
-      "input": "In contrast to mammals and birds, freshwater fishes produce large volumes of very dilute what?",
+      "id": "task591-37b514b2566349979900db58cf2aa04d",
+      "input": "What do you call the fast-moving air currents high in the troposphere?",
       "output": [
-        "urine"
+        "jet streams"
       ]
     },
     {
-      "id": "task591-2d34025fc22448adae09c86d75b2e4c4",
-      "input": "What is emitted by nuclei in alpha, beta, and gamma decay?",
+      "id": "task591-334f3eae0c9b493694766173789185e6",
+      "input": "What is the outer layer of skin, consisting almost entirely of epithelial cells?",
       "output": [
-        "radiation"
+        "epidermis"
       ]
     },
     {
-      "id": "task591-a928fadfa9aa4b57b71ece7388a86162",
-      "input": "Thomson’s plum pudding model shows the structure of what?",
+      "id": "task591-0bf2e5c8c8ec415ca7b94fa1403a6d38",
+      "input": "Emissions of what gas into the atmosphere from fossil fuel burning have been rising for the past several decades?",
       "output": [
-        "atom"
+        "carbon dioxide"
       ]
     },
     {
-      "id": "task591-7bb728149c774d938ff6c2deac7b2683",
-      "input": "Lampreys possess a large round sucker, lined with teeth, that surrounds the mouth and is used to feed on what?",
+      "id": "task591-73e14eb57fa74fdcb4d9ca9178ae4ddb",
+      "input": "The vestibulocochlear nerve is responsible for the senses of hearing and what else?",
       "output": [
-        "blood"
+        "balance"
       ]
     },
     {
-      "id": "task591-a754c52ef5cd479d8e745fbcd4c8b9bc",
-      "input": "What is the scientific name for the human species?",
+      "id": "task591-28af31a7af7543ccb3d1b7a16a8b2dce",
+      "input": "Small crustaceans exchange gases across thin areas of the cuticle; larger species have what to accomplish this?",
       "output": [
-        "homo sapiens"
+        "gills"
       ]
     },
     {
-      "id": "task591-8db8cb3c87ef4bf88fc5fc88b13e7abc",
-      "input": "Gene therapy is a type of what kind of engineering?",
+      "id": "task591-dc166eb5e0094e2c80aa9f2786779af3",
+      "input": "The ability for a plasma membrane to only allow certain molecules in or out of the cell is referred to as what?",
       "output": [
-        "genetic engineering"
+        "selective permeability"
       ]
     },
     {
-      "id": "task591-ee976d88f633430ca2d2559d85e32d4c",
-      "input": "All atoms have equal numbers of what two particles?",
+      "id": "task591-f5ba99a3b6ef4efea288d953fe6502b3",
+      "input": "White blood cells called what travel to areas of the body that are inflamed?",
       "output": [
-        "electrons and protons"
+        "phagocytes"
       ]
     },
     {
-      "id": "task591-25a230d99ddd4beebd038d7f41c604c0",
-      "input": "What is located at the center of our solar system?",
+      "id": "task591-71fb5360f38c4c558cbfe55ddc4b8484",
+      "input": "Hardness, density, color, and melting and boiling points are all considered what types of properties?",
       "output": [
-        "the sun"
+        "physical"
       ]
     },
     {
-      "id": "task591-52be66cf4c2c49fb9374b1df67edfbb5",
-      "input": "What causes holes in bread?",
+      "id": "task591-3428de176f1e49d29b83d15aa6879c6f",
+      "input": "What is generated when a heart ventricle contracts?",
       "output": [
-        "yeast fermentation"
+        "blood pressure"
       ]
     },
     {
-      "id": "task591-4f68d212c401447db322bc00aabbc3db",
-      "input": "Electromagnetic radiation behaves like particles as well as what?",
+      "id": "task591-86415731bee343cfa98092e09ec8908b",
+      "input": "What has high surface tension because of extensive hydrogen bonding?",
       "output": [
-        "waves"
+        "water"
       ]
     },
     {
-      "id": "task591-7f94dc45180f4d7580a4612b539ab9ef",
-      "input": "What term is used to describe the sequence of elementary steps that together comprise an entire chemical reaction?",
+      "id": "task591-b7ae96c2baf44c6ba0a18cb612f6670c",
+      "input": "When pumping blood, the hearts of animals with very long necks must overcome what force?",
       "output": [
-        "reaction mechanism"
+        "gravity"
       ]
     },
     {
-      "id": "task591-8def31bc44c447f1bcad230c8751a8f6",
-      "input": "In science, coefficients are used to balance what kind of equations?",
+      "id": "task591-432ad77727714ae3bff72e2d494dea13",
+      "input": "The single circular dna chromosome of bacteria is not enclosed in what, but instead occupies a specific location called the nucleoid within the cell?",
       "output": [
-        "chemical"
+        "nucleus"
       ]
     },
     {
-      "id": "task591-ff01117196614133adc3d8ee3ba64fb8",
-      "input": "The posterior pituitary releases which hormone, which stimulates uterine contractions during childbirth?",
+      "id": "task591-f4e22ee0ff264757a2747c9b6d540eba",
+      "input": "What do you call it when adult fish of the same species come together in a group and release gametes into the water at the same time?",
       "output": [
-        "oxytocin"
+        "spawning"
       ]
     },
     {
-      "id": "task591-eb0a526125ff48c9953628cb848adc83",
-      "input": "About one-third of the human cerebral cortex is dedicated to analyzing and perceiving information related to what sense?",
+      "id": "task591-4a55f9628bdc43e0bff87a107deadee4",
+      "input": "Asci are used by mycelia for what kind of reproduction?",
       "output": [
-        "vision"
+        "sexual"
       ]
     },
     {
-      "id": "task591-28dc6aaa48a44244916cdc2bfc87108f",
-      "input": "What can all living things sense and respond to in their environment?",
-      "output": [
-        "stimuli"
-      ]
-    },
-    {
-      "id": "task591-6c5c39c6a3964e9bb8a949d09f7df39b",
-      "input": "What instrument made it possible to study pressure quantitatively?",
-      "output": [
-        "barometer"
-      ]
-    },
-    {
-      "id": "task591-b923cbeed1e84917a33ce3a1ba6bb6fc",
-      "input": "Crowding and resource limitation can have a profound effect on the rate of what?",
-      "output": [
-        "population growth"
-      ]
-    },
-    {
-      "id": "task591-b005d6824c544e3e9056248aa1973c05",
-      "input": "What organism is the most disruptive towards the diversity of other species?",
-      "output": [
-        "humans"
-      ]
-    },
-    {
-      "id": "task591-6f9f8bd95900472fbef4ac708046acd5",
-      "input": "What regulates the cell cycle only when they are tightly bound to cdks?",
-      "output": [
-        "cyclins"
-      ]
-    },
-    {
-      "id": "task591-9dbd9a5e5b1442c89a8ca4a12334f594",
-      "input": "What cell structures are like storage centers and tend to be larger in plant cells?",
-      "output": [
-        "vacuoles"
-      ]
-    },
-    {
-      "id": "task591-e2a74624e1974d0fa0fe8ca44256dd7c",
-      "input": "In sexual reproduction, what is the name of the gamete cell the male must contribute?",
-      "output": [
-        "sperm"
-      ]
-    },
-    {
-      "id": "task591-c4d76ef0ec204209adfb0a20d217374e",
-      "input": "In what season are temperature inversions more common?",
-      "output": [
-        "winter"
-      ]
-    },
-    {
-      "id": "task591-c2364aadc6314b9b9fa71fe9b7c23841",
-      "input": "What is the diffusion of water through a semipermeable membrane according to the concentration gradient of water across the membrane",
-      "output": [
-        "osmosis"
-      ]
-    },
-    {
-      "id": "task591-84ae5e5e5bbd4669b01af2c21e086830",
-      "input": "What is the process of removing wastes and excess water from the body called?",
-      "output": [
-        "excretion"
-      ]
-    },
-    {
-      "id": "task591-4c01043d48db4e5f882c7e241a30b614",
-      "input": "In most crustaceans, what two structures fuse to form a cephalothorax?",
-      "output": [
-        "head and thorax"
-      ]
-    },
-    {
-      "id": "task591-834a998b9fa9484982c5425c3b8135e9",
-      "input": "What do you call the heat below earth’s surface that can be used to produce electricity?",
-      "output": [
-        "geothermal energy"
-      ]
-    },
-    {
-      "id": "task591-a0e2d83ff0a143e4b81efcb90df4d1e0",
-      "input": "A non-bony skeleton that forms outside of the body is known as a what?",
-      "output": [
-        "exoskeleton"
-      ]
-    },
-    {
-      "id": "task591-65e9fa58801e4c179d3c90eb78576fea",
-      "input": "Materials that are good conductors of thermal energy are called?",
-      "output": [
-        "thermal conductors"
-      ]
-    },
-    {
-      "id": "task591-85be4124aa9f4b439348d48ff4d86b31",
-      "input": "Individual nucleotides can be linked together through their phosphate groups to form?",
-      "output": [
-        "nucleic acid polymers"
-      ]
-    },
-    {
-      "id": "task591-784e1ba48ba448e18ef77744b7721b6d",
-      "input": "What are reactions that can occur only in one direction called?",
-      "output": [
-        "irreversible"
-      ]
-    },
-    {
-      "id": "task591-58ecd7b41a7049fdaef7646b4374f674",
-      "input": "Tuna have been shown to contain high levels of what metal?",
-      "output": [
-        "mercury"
-      ]
-    },
-    {
-      "id": "task591-c5c3286a677f460188a42ab0c38353ad",
-      "input": "Where does mechanical digestion begin?",
-      "output": [
-        "mouth"
-      ]
-    },
-    {
-      "id": "task591-d36159989b264c9e852eaeb9f7d35afa",
-      "input": "Unlike prokaryotic cells, dna and rna synthesis in eukaryotic cells occurs in a separate compartment from synthesis of what?",
-      "output": [
-        "protein"
-      ]
-    },
-    {
-      "id": "task591-99f133a679544c8c9c7f0e9c5a71ed4b",
-      "input": "Which disease does the bacteria salmonella cause in humans?",
-      "output": [
-        "food poisoning"
-      ]
-    },
-    {
-      "id": "task591-de7fb6cbdec841c2af364223bf3e70f9",
-      "input": "When a solution freezes, only what particles come together to form a solid phase, while the presence of solute particles interferes with that process?",
-      "output": [
-        "solvent"
-      ]
-    },
-    {
-      "id": "task591-7ceed2768e9a43a599aca5a380284d96",
-      "input": "The direction of the force of gravity is in what direction?",
-      "output": [
-        "straight line"
-      ]
-    },
-    {
-      "id": "task591-26014e956f3d4f62a7d8722c37209343",
-      "input": "Farsightedness, or hyperopia, is the condition in which distant objects are seen clearly, but nearby objects are?",
-      "output": [
-        "blurry"
-      ]
-    },
-    {
-      "id": "task591-b91463f726de4f46bf9ebc0976fa92ca",
-      "input": "What organ protects the body from injury, water loss, and microorganisms?",
-      "output": [
-        "skin"
-      ]
-    },
-    {
-      "id": "task591-9ff48b57fcb24a749bdc8bd0d9671881",
-      "input": "Arteries and veins are two of the three types of blood vessels, what is the third?",
-      "output": [
-        "capillaries"
-      ]
-    },
-    {
-      "id": "task591-b2114e80381f4ac0a082bd72e09d189c",
-      "input": "Where does most geological activity takes place?",
-      "output": [
-        "at plate boundaries"
-      ]
-    },
-    {
-      "id": "task591-fecea9eebefe4c509a95c296f5292475",
-      "input": "What is the term of a phase change if solid water has it's average kinetic energy increased to change it to liquid water?",
-      "output": [
-        "melting"
-      ]
-    },
-    {
-      "id": "task591-c19f4585a67f4f909a2e81ea6fe1c402",
-      "input": "What do scientist's believe mercury's core is mostly made of?",
-      "output": [
-        "melted iron"
-      ]
-    },
-    {
-      "id": "task591-3a97d60e8df7419a9b369d18cc4dd177",
-      "input": "The ordovician-silurian extinction event is the first recorded mass extinction and the second largest. during this period, about what percent of marine species went extinct?",
-      "output": [
-        "85 percent"
-      ]
-    },
-    {
-      "id": "task591-12ba4cdba72042f6a4aec798769a9865",
-      "input": "What important aspect of the scientific method is a suggested explanation for an event, which can be tested?",
-      "output": [
-        "hypothesis"
-      ]
-    },
-    {
-      "id": "task591-90dce3e843904735be715108d352ab6c",
-      "input": "Solar cells create voltages directly from light, while thermoelectric devices create voltage from differences in what?",
+      "id": "task591-e58488546dd94bdc82a7b25160633638",
+      "input": "In physics, what is defined as the average kinetic energy of the particles of matter?",
       "output": [
         "temperature"
       ]
     },
     {
-      "id": "task591-7e35b277f02647fc8ea9b4d49db01fdd",
-      "input": "What distinguishing feature predates the branching of mammals from other vertebrates?",
+      "id": "task591-2274fd154a7e4491afd729bd05815996",
+      "input": "Water is an oxide of what element?",
       "output": [
-        "backbone"
+        "hydrogen"
       ]
     },
     {
-      "id": "task591-7835c0c4ea8b400ca3a1d816deee25c4",
-      "input": "What is another term for the early larval stage of a frog?",
+      "id": "task591-7c4d818bc10540e0bd004a90197284c8",
+      "input": "When warm air rises up to the tropopause, where does it flow?",
       "output": [
-        "tadpole"
+        "north or south"
       ]
     },
     {
-      "id": "task591-a8193fead74a4a9e86e5911da2fde850",
-      "input": "The reaction of calcium oxide with carbon dioxide forms what?",
+      "id": "task591-1eb247a25e2d4e75b35be2736ebac916",
+      "input": "Through which organ do hookworm larvae enter the human body?",
       "output": [
-        "calcium carbonate"
+        "through the skin"
       ]
     },
     {
-      "id": "task591-6c6689d286df4289b96dd70b9a3e3126",
-      "input": "One seismogram indicates the distance to the what?",
+      "id": "task591-303744e4b4d846d1bd3cc354672768a5",
+      "input": "The ph scale is a scale used to express the concentration of hydrogen ions in solution. a neutral solution, neither acidic nor basic, has a ph of what?",
       "output": [
-        "epicenter"
+        "7"
       ]
     },
     {
-      "id": "task591-2f8e661cb85b44f8972e14b5c92fc61d",
-      "input": "Why do birds need a light-weight body?",
+      "id": "task591-d3928ac8d5094b56a31431e11cdcdf37",
+      "input": "What is the result when two monosaccharides are bound together?",
       "output": [
-        "to stay aloft"
+        "disaccharide"
       ]
     },
     {
-      "id": "task591-c7214df6a35a412c8e730a1cfd2e3044",
-      "input": "Atoms that have gained electrons and become negatively charged are called what?",
+      "id": "task591-c8fc5dba51af4ef2afd5ecda055a456f",
+      "input": "What forces the fetus out of the uterus?",
       "output": [
-        "negative ions"
+        "continuous strong contractions"
       ]
     },
     {
-      "id": "task591-d579f550ed7d47c7970a680182e276ad",
-      "input": "Synthesis, decomposition, replacement, and combustion are all types of what reaction?",
+      "id": "task591-83c8d468f69a4bf5936a1a0e7746070a",
+      "input": "What is the name of muscular blood vessels that carry blood away from the heart?",
       "output": [
-        "chemical"
+        "arteries"
       ]
     },
     {
-      "id": "task591-8ffad4ba76ad4120ad541a923554564e",
-      "input": "According to early accounts, newton was inspired to make the connection between falling bodies and astronomical motions when he saw an apple fall from a tree and realized that if the gravitational force could extend above the ground to a tree, it might also reach this?",
+      "id": "task591-7c4f4b62b2ac4331aae48101171e7c3a",
+      "input": "All eukaryotic cells have mitochondria, but not all eukaryotic cells have what?",
+      "output": [
+        "chloroplasts"
+      ]
+    },
+    {
+      "id": "task591-d387a8292b5b446cb1a11e36022e3569",
+      "input": "How many underlying principles does the science of biology have?",
+      "output": [
+        "four"
+      ]
+    },
+    {
+      "id": "task591-dcb4281de8b74781845a92bfe73bad01",
+      "input": "What is the term for learning by watching and copying the behavior of someone else?",
+      "output": [
+        "observational learning"
+      ]
+    },
+    {
+      "id": "task591-25e103b8161e411b89b5ee68577c23d4",
+      "input": "The scale that is used to measure the loudness of sound measures their loudness in what?",
+      "output": [
+        "decibels"
+      ]
+    },
+    {
+      "id": "task591-e9305f537e904c559549b5fbe6d29642",
+      "input": "Amphibians have permeable skin which allows for the exchange of oxygen and carbon dioxide, what is this \"breathing called?\"",
+      "output": [
+        "cutaneous respiration"
+      ]
+    },
+    {
+      "id": "task591-3f269eee50c447478b03d62a618a947a",
+      "input": "Platinum and gold are useful materials for constructing circuits because of their ability to resist what?",
+      "output": [
+        "oxidation"
+      ]
+    },
+    {
+      "id": "task591-fd65e9a41d4641779aff19ceb3604251",
+      "input": "What is the smallest unit capable of life known as?",
+      "output": [
+        "a cell"
+      ]
+    },
+    {
+      "id": "task591-2e5a18e733b64d5abeb74e4d0784a188",
+      "input": "What force provides resistance whenever two surfaces are in contact?",
+      "output": [
+        "friction"
+      ]
+    },
+    {
+      "id": "task591-828f461c4b61405aa2ed8200d32054be",
+      "input": "In autosomal dominant inheritance only one \"affected\" what is necessary to result in an \"affected\" phenotype?",
+      "output": [
+        "allele"
+      ]
+    },
+    {
+      "id": "task591-de2d1d074b2a43908b3257d2e0286172",
+      "input": "What amazing machines smash particles that are smaller than atoms into each other head-on?",
+      "output": [
+        "particle accelerators"
+      ]
+    },
+    {
+      "id": "task591-b40a4ec3eba34c0e9d6d17997b7abb4d",
+      "input": "Like bacteria, archaea can have what to assist with movement?",
+      "output": [
+        "flagella"
+      ]
+    },
+    {
+      "id": "task591-1bfd3f6955f74e068cdb41bee33d75e6",
+      "input": "What are the tiny packets of energy the sun gives off called?",
+      "output": [
+        "photons"
+      ]
+    },
+    {
+      "id": "task591-135f0167fb39450abdb5d386b503825d",
+      "input": "What functions like a flexible coat of armor, preventing the protist from being torn or pierced without compromising its range of motion?",
+      "output": [
+        "pellicle"
+      ]
+    },
+    {
+      "id": "task591-1afeef9a10a44fff8b6512bf3f0b935c",
+      "input": "Both fats and oils are made up of long chains of carbon atoms that are bonded together. what are these chains called?",
+      "output": [
+        "fatty acids"
+      ]
+    },
+    {
+      "id": "task591-656ad0f7e12d4db1bf34ec545b93df1d",
+      "input": "Even though tellurium does indeed have a greater average atomic mass than iodine, it is properly placed before iodine in the?",
+      "output": [
+        "periodic table"
+      ]
+    },
+    {
+      "id": "task591-928b7cbcf7984c4fbdb57b692c85797f",
+      "input": "The cytoskeleton is a cellular \"scaffolding\" or \"skeleton\" that crisscrosses what?",
+      "output": [
+        "cytoplasm"
+      ]
+    },
+    {
+      "id": "task591-2be5ca35250e47a2889aad96d0d589f5",
+      "input": "The high points of a transverse wave are called what?",
+      "output": [
+        "crests"
+      ]
+    },
+    {
+      "id": "task591-dc302bb351174787b62f011b3cd8b07b",
+      "input": "The word antibiotic comes from the greek anti, meaning “against,” and bios, meaning this?",
+      "output": [
+        "life"
+      ]
+    },
+    {
+      "id": "task591-5a12f9430006474d8f87c08277ec56db",
+      "input": "What produces microspores that develop into pollen grains containing male gametophytes?",
+      "output": [
+        "stamens"
+      ]
+    },
+    {
+      "id": "task591-cca6bb2706784faf8e924a1fee054c47",
+      "input": "What is pressure times area equal to?",
+      "output": [
+        "force"
+      ]
+    },
+    {
+      "id": "task591-a4ddf252ed704f33929ce51b686d83aa",
+      "input": "What is named after the type of enzyme they interact with in the cell?",
+      "output": [
+        "receptor proteins"
+      ]
+    },
+    {
+      "id": "task591-b51afbf207564abf82ff9c5ab36019ff",
+      "input": "Fission is a type of radioactivity in which large nuclei spontaneously break apart into what?",
+      "output": [
+        "smaller nuclei"
+      ]
+    },
+    {
+      "id": "task591-6e5b062f1e6b4225b81cc24995f4b0f2",
+      "input": "What type of charge do electrons have?",
+      "output": [
+        "negative"
+      ]
+    },
+    {
+      "id": "task591-ca82723c673b4c78b329a29d9a746e29",
+      "input": "Biodiversity hot spots are prime candidates for protection because they are prone to what species fate?",
+      "output": [
+        "extinction"
+      ]
+    },
+    {
+      "id": "task591-7dba460eef4e42b78fcce4b88d631c51",
+      "input": "What is a condition where plants are grown in mineral solutions without soil called?",
+      "output": [
+        "hydroponics"
+      ]
+    },
+    {
+      "id": "task591-d13ce43028fe4f07aa82f33da9b31a71",
+      "input": "Ice caps are found only in greenland and which other place?",
+      "output": [
+        "antarctica"
+      ]
+    },
+    {
+      "id": "task591-2c92257214424e1aa6865c8e5209d800",
+      "input": "Which continent is the only one that reptiles don't inhabit?",
+      "output": [
+        "antartica"
+      ]
+    },
+    {
+      "id": "task591-4a37a1285904438da9f7301dbfc09632",
+      "input": "From what do tubeworms found deep in the galapagos rift get their energy from?",
+      "output": [
+        "chemosynthetic bacteria"
+      ]
+    },
+    {
+      "id": "task591-3ceee01a6f8548c2902768ad37c9eca7",
+      "input": "What is used to measure air pressure?",
+      "output": [
+        "barometer"
+      ]
+    },
+    {
+      "id": "task591-261ba3bd6df74434b36220bca968245c",
+      "input": "Late adulthood begins in the mid-60s and continues until?",
+      "output": [
+        "death"
+      ]
+    },
+    {
+      "id": "task591-5c3a963c8a244aaa982a7ccf7c1e84d8",
+      "input": "At what time of the year can tornadoes occur?",
+      "output": [
+        "any"
+      ]
+    },
+    {
+      "id": "task591-05f017c196274a008a60b4ac96f9eae3",
+      "input": "What is the term for species evolving together?",
+      "output": [
+        "coevolution"
+      ]
+    },
+    {
+      "id": "task591-ca3c14c5477347a58ece6e4883eb2254",
+      "input": "When this forms underground, volcanoes rise?",
+      "output": [
+        "magma"
+      ]
+    },
+    {
+      "id": "task591-4bb5ecacb66e4cc39400c24683fff7ea",
+      "input": "An unknown genotype can be determined by observing what, the term for characteristics of the resulting offspring?",
+      "output": [
+        "phenotypes"
+      ]
+    },
+    {
+      "id": "task591-09b67fe7226440d3bb0829b0d311f03b",
+      "input": "What usually causes fractures on a bone?",
+      "output": [
+        "excessive bending stress"
+      ]
+    },
+    {
+      "id": "task591-791061ed439043f589c9db49e5531908",
+      "input": "In chemical reactions, what substances can act like metals or nonmetals, depending on their number of electrons?",
+      "output": [
+        "metalloids"
+      ]
+    },
+    {
+      "id": "task591-35e163de8ad24d4b8933b79ebbbc1994",
+      "input": "Hyperparathyroidism results from an overproduction of what?",
+      "output": [
+        "parathyroid hormone"
+      ]
+    },
+    {
+      "id": "task591-80101f3a46b14c8e84c7cd2881e9b075",
+      "input": "What female flower structure, which is part of the pistil, receives the pollen grains and passes them to the ovary?",
+      "output": [
+        "stigma"
+      ]
+    },
+    {
+      "id": "task591-f9f04d8933274d22990d3b1cce8dedc8",
+      "input": "Why are exotic species also called invasive species?",
+      "output": [
+        "threaten other species"
+      ]
+    },
+    {
+      "id": "task591-1babb8a7e3584a5aa64062c8e0048f3b",
+      "input": "Which property changes when a glass breaks?",
+      "output": [
+        "its physical property"
+      ]
+    },
+    {
+      "id": "task591-2811948f62564a599ac07f10c559fbe7",
+      "input": "Porifera are parazoans that exhibit simple organization and lack true what?",
+      "output": [
+        "tissues"
+      ]
+    },
+    {
+      "id": "task591-13b3915e8ab440b4a6086701038ca24b",
+      "input": "Acid rain may be caused by what?",
+      "output": [
+        "air pollution"
+      ]
+    },
+    {
+      "id": "task591-1c53ca9d0bff47c5a88b1ab9db330ca0",
+      "input": "What is the general name for a wave that travels along the surface of a medium?",
+      "output": [
+        "surface wave"
+      ]
+    },
+    {
+      "id": "task591-293d06206c0445cf91f086ea80472982",
+      "input": "What forms when there is a difference in temperature between the land and the air?",
+      "output": [
+        "fog"
+      ]
+    },
+    {
+      "id": "task591-4e9955edbaf549dab57db3545c6041e0",
+      "input": "What do carnivores eat?",
+      "output": [
+        "animals"
+      ]
+    },
+    {
+      "id": "task591-53e100415f644aa3ac07c961208f89dd",
+      "input": "A statement is considered what if it is open to being falsified?",
+      "output": [
+        "hypothesis"
+      ]
+    },
+    {
+      "id": "task591-2f022389d6f340b48e3da97340e4b2e7",
+      "input": "What are chemical bonds between atoms of nonmetals that share valence electrons called?",
+      "output": [
+        "covalent bonds"
+      ]
+    },
+    {
+      "id": "task591-a7811b4a660345be9c69aa92c253b341",
+      "input": "The basal forebrain contains what that are important in learning and memory?",
+      "output": [
+        "nuclei"
+      ]
+    },
+    {
+      "id": "task591-2019caea8e0c4463b9ed9fe606a6a493",
+      "input": "During the scientific revolution, who proposed that the sun, not earth, is the center of the solar system?",
+      "output": [
+        "copernicus"
+      ]
+    },
+    {
+      "id": "task591-f9a4bd8196bb4a84b14d26a8d7f4b9c8",
+      "input": "What kind of material that might otherwise go to a landfill can serve as the source of biomass power?",
+      "output": [
+        "organic waste"
+      ]
+    },
+    {
+      "id": "task591-2cc29e95f2494542a2551e1dbacdeec8",
+      "input": "The pull of the moon’s gravity on earth is the main cause of what water phenomenon?",
+      "output": [
+        "tides"
+      ]
+    },
+    {
+      "id": "task591-62a2f6f31c2c400daa78108e2ef89622",
+      "input": "What are small organelles and are the site of protein synthesis called.",
+      "output": [
+        "ribosomes"
+      ]
+    },
+    {
+      "id": "task591-5ed0ad12407742b3b706de3f79324862",
+      "input": "On the atomic level, the dissolution of an ionic compound occurs when water interacts with the what in the crystal lattice?",
+      "output": [
+        "ions"
+      ]
+    },
+    {
+      "id": "task591-203fd8e7d2de4c8a83a3c4785df70736",
+      "input": "What do you call egg-shaped galaxies, which are reddish to yellowish in color because they contain mostly old stars?",
+      "output": [
+        "elliptical galaxies"
+      ]
+    },
+    {
+      "id": "task591-c1a0104073d34f90a0d04591bccabaac",
+      "input": "What pair of tubes that extends toward the ovaries features a fringelike structure that sweeps eggs inside?",
+      "output": [
+        "fallopian tubes"
+      ]
+    },
+    {
+      "id": "task591-830d1f88ea8b4373af78673449e80fc2",
+      "input": "What is a branded polymer that serves as energy storage in animal?",
+      "output": [
+        "glycogen"
+      ]
+    },
+    {
+      "id": "task591-737bee024a894c9b8532970bcbcb06db",
+      "input": "After ovulation occurs, the moving “fingers” of what nearby structure sweep the egg into its tube?",
+      "output": [
+        "fallopian tube"
+      ]
+    },
+    {
+      "id": "task591-27906b65904b4c2dbff1a5a35833be57",
+      "input": "Which measure indicates the number of electrons in a given sublevel?",
+      "output": [
+        "superscripts"
+      ]
+    },
+    {
+      "id": "task591-ec6b913db0c5495799bb685f1a23429a",
+      "input": "Different colors of light differ in terms of which important attribute?",
+      "output": [
+        "wavelengths"
+      ]
+    },
+    {
+      "id": "task591-748fa0c84c8c4854929e65576725e9c4",
+      "input": "In what group of animals several forms of asexual reproduction are found?",
+      "output": [
+        "invertebrates"
+      ]
+    },
+    {
+      "id": "task591-979af98d3b474ab786ff94e083513e8d",
+      "input": "What phenomenon is essential in order for evolution to occur because it increases genetic variation and the potential for individuals to differ?",
+      "output": [
+        "mutation"
+      ]
+    },
+    {
+      "id": "task591-9254b39c72464005897709b1860205dc",
+      "input": "What group of animals has permeable skin that makes them vulnerable to pollution?",
+      "output": [
+        "amphibians"
+      ]
+    },
+    {
+      "id": "task591-96ca045d6d0b4c2e8113683c49f28f18",
+      "input": "Veins subdivide repeatedly and branch throughout what?",
+      "output": [
+        "mesophyll"
+      ]
+    },
+    {
+      "id": "task591-ef1edf3630e54760bee0d1525d925d1d",
+      "input": "What term is used for the difference in the placement of an object from one time to another?",
+      "output": [
+        "displacement"
+      ]
+    },
+    {
+      "id": "task591-784a640bbc754bff969bd4a584449f64",
+      "input": "The ostrich, kiwi, rhea, cassowary, and moa are examples of what kind of birds?",
+      "output": [
+        "flightless"
+      ]
+    },
+    {
+      "id": "task591-8bb4e9e7785244ccac22cc69126f1d0f",
+      "input": "Pressure and vibration are examples of what type of stimuli?",
+      "output": [
+        "physical"
+      ]
+    },
+    {
+      "id": "task591-8a6f21d403cb42bbae57d1519c4cde6a",
+      "input": "What is the mass of one mole of any given substance?",
+      "output": [
+        "molar mass"
+      ]
+    },
+    {
+      "id": "task591-83d310152b6747b8ab89850b2e771d8a",
+      "input": "Which is one of the most complicated parts of gene regulation in eukaryotic cells?",
+      "output": [
+        "start of transcription"
+      ]
+    },
+    {
+      "id": "task591-f1f7ddf98a7f4143a73f133dbf1e2120",
+      "input": "What is formed when water vapor in the air condenses into tiny droplets?",
+      "output": [
+        "fog"
+      ]
+    },
+    {
+      "id": "task591-0d9b5514d17f49249103bb986249a414",
+      "input": "While normal light microscopes can magnify objects up to about 1,500 times, what advanced instruments can magnify objects up to 1,000,000 times?",
+      "output": [
+        "electron microscopes"
+      ]
+    },
+    {
+      "id": "task591-04b4cf9727354700a1099eb7acc246b5",
+      "input": "What do the planets orbit around in the solar system?",
+      "output": [
+        "the sun"
+      ]
+    },
+    {
+      "id": "task591-7541a0f93e8a4be09bdb7dcbcb2093dd",
+      "input": "The speed of a particle in what state is directly proportional to the temperature of the system?",
+      "output": [
+        "gas"
+      ]
+    },
+    {
+      "id": "task591-e86f8581f78944e7af755a0f3f628beb",
+      "input": "A circuit that consists of two loops is called a what?",
+      "output": [
+        "parallel circuit"
+      ]
+    },
+    {
+      "id": "task591-eb114f06a863411e8042e7d157393d13",
+      "input": "Which gas moves from the blood in the capillaries into the air?",
+      "output": [
+        "carbon dioxide"
+      ]
+    },
+    {
+      "id": "task591-e915535253fd435b869b7b4a18dcc890",
+      "input": "What are large vesicles derived from the endoplasmic reticulum and golgi apparatus?",
+      "output": [
+        "vacuoles"
+      ]
+    },
+    {
+      "id": "task591-07756b008a8b46478f31d91e01bcf770",
+      "input": "When is the rate of the forward reaction equal to the rate of the reverse reaction?",
+      "output": [
+        "at equilibrium"
+      ]
+    },
+    {
+      "id": "task591-ba84cf87499d47e29d35a2606b32799f",
+      "input": "What do atoms make by rearranging their chemical bonds in a reactant?",
+      "output": [
+        "products"
+      ]
+    },
+    {
+      "id": "task591-f50ef1332e19442fad5375964cdc866c",
+      "input": "What stimulates the changes of pubery?",
+      "output": [
+        "sex hormones"
+      ]
+    },
+    {
+      "id": "task591-e43e4942f7034f1ba57b96469e921f7c",
+      "input": "Zinc is what kind of metal.?",
+      "output": [
+        "active transition metal"
+      ]
+    },
+    {
+      "id": "task591-9e1693a59bbe478fb9d2e2f15b2abc0d",
+      "input": "Energy comes in discrete packages called what?",
+      "output": [
+        "quanta"
+      ]
+    },
+    {
+      "id": "task591-778b587c260642f89c3abc2c777568d0",
+      "input": "Wind is one method for dispersal of what, ensuring a new generation?",
+      "output": [
+        "seeds"
+      ]
+    },
+    {
+      "id": "task591-3e5bc37360044ac992239b38734f8d97",
+      "input": "In a displacement graph, the slope of the line is the average what?",
+      "output": [
+        "velocity"
+      ]
+    },
+    {
+      "id": "task591-508631ba448f4153ae4c6273679f02f7",
+      "input": "Ocean water has what property because water dissolves minerals out of rocks?",
+      "output": [
+        "salty"
+      ]
+    },
+    {
+      "id": "task591-8f21a60acaff40f4aa85ffb460340ad6",
+      "input": "What type of young do scorpions produce?",
+      "output": [
+        "live"
+      ]
+    },
+    {
+      "id": "task591-e75b12a84c424b53a3bb9257d2a6c663",
+      "input": "Where does most of our food come from?",
+      "output": [
+        "angiosperms"
+      ]
+    },
+    {
+      "id": "task591-b58df393ae95473681f97c79bdec35d7",
+      "input": "Oversecretion of insulin can cause what?",
+      "output": [
+        "hypoglycemia"
+      ]
+    },
+    {
+      "id": "task591-f39211bc1eb44dfb953d195bbe94d117",
+      "input": "Is wind power renewable or non renewable?",
+      "output": [
+        "renewable"
+      ]
+    },
+    {
+      "id": "task591-16225ba992cf4cdd9791b8660f2ec01f",
+      "input": "What organs secrete hormones that help maintain homeostasis?",
+      "output": [
+        "the kidneys"
+      ]
+    },
+    {
+      "id": "task591-40217eb1dbef486e934ee17397e3c8bd",
+      "input": "What happens to the rate of chemical reactions in higher temperatures?",
+      "output": [
+        "they increase"
+      ]
+    },
+    {
+      "id": "task591-65f0d94475aa42b1ab2c251e08b283a8",
+      "input": "What kinds of acids are proteins made out of?",
+      "output": [
+        "amino acids"
+      ]
+    },
+    {
+      "id": "task591-d625e5e8c2c4401c9f9d7e3a9cfcce60",
+      "input": "What term describes a specific statement that is thought to be never violated by the entire natural universe?",
+      "output": [
+        "scientific law"
+      ]
+    },
+    {
+      "id": "task591-f990e6974382480dabe49ee692b9f7e8",
+      "input": "Processing of filtrate in the proximal tubule helps maintain what level in body fluid?",
+      "output": [
+        "ph"
+      ]
+    },
+    {
+      "id": "task591-3a8bbe3437a2412287e217640933c427",
+      "input": "How many types of mechanical waves are there?",
+      "output": [
+        "three"
+      ]
+    },
+    {
+      "id": "task591-f95749afe4e24530a68382f3d30ddf21",
+      "input": "The two main types of phagocytic cells in the mammalian body are neutrophils and what other?",
+      "output": [
+        "macrophages"
+      ]
+    },
+    {
+      "id": "task591-48c9dd2c6cb54082a191946d0e41661e",
+      "input": "What is a thick, dark brown or black liquid found in rock layers of the earth's crust?",
+      "output": [
+        "oil"
+      ]
+    },
+    {
+      "id": "task591-9ca92f06e29046a3bfecc1b914726fe2",
+      "input": "What consists of two or more elements and forms as a result of a chemical reaction?",
+      "output": [
+        "compound"
+      ]
+    },
+    {
+      "id": "task591-860d0e8f70ef4820956155a7fd4a3623",
+      "input": "What is the study of energy and how it interacts with matter?",
+      "output": [
+        "physics"
+      ]
+    },
+    {
+      "id": "task591-aa26a9cee9b44f3e8b6eb784c3cc5532",
+      "input": "What single-celled organism can be either a predator, decomposer, herbivore, or parasite in the food chain?",
+      "output": [
+        "protozoa"
+      ]
+    },
+    {
+      "id": "task591-c549a817a82d469e95082bb29fe5af59",
+      "input": "What can lead to a loss of genetic variation within populations?",
+      "output": [
+        "genetic drift"
+      ]
+    },
+    {
+      "id": "task591-987f75ffbd2f40a3af3256795d03f935",
+      "input": "What is manufactured and added to foods to preserve freshness?",
+      "output": [
+        "trans fat"
+      ]
+    },
+    {
+      "id": "task591-4ce1e1a4e2b54f24be2c5507c455fa2d",
+      "input": "Where does the earth gets its energy from?",
       "output": [
         "sun"
       ]
     },
     {
-      "id": "task591-9ed68529113241b8a739ae8f63494d99",
-      "input": "Microwaves are converted into what kind of energy in a microwave oven?",
+      "id": "task591-72862566963641f4b1e2245288f0d474",
+      "input": "What type of creature is a scallop?",
       "output": [
-        "thermal energy"
+        "mollusk"
       ]
     },
     {
-      "id": "task591-03f1573116314936a7e88544a898ae6b",
-      "input": "Particulates cause lung diseases. they can also increase the risk of heart disease and the number of what?",
+      "id": "task591-89c5bd1aa7e54044bac4efa621d0956e",
+      "input": "What are negative electrons attracted to?",
       "output": [
-        "asthma attacks"
+        "positive protons"
+      ]
+    },
+    {
+      "id": "task591-e45d58b57bf84ecfa8ff62f8f8c2a6c9",
+      "input": "Cells that undergo cell division continue to have their telomeres shortened, thus telomere shortening is associated with what life process?",
+      "output": [
+        "aging"
+      ]
+    },
+    {
+      "id": "task591-db38ceae5a4d4c4bbaf4afe110d44dce",
+      "input": "What occurs when hot magma transforms rock that it contacts?",
+      "output": [
+        "contact metamorphism"
+      ]
+    },
+    {
+      "id": "task591-1f49e9df761741d9a22d30304de6a0ce",
+      "input": "Corals build hard exoskeletons that grow to become what?",
+      "output": [
+        "coral reefs"
+      ]
+    },
+    {
+      "id": "task591-bde135d1205949a9bda55db71c49a4ac",
+      "input": "What is a type of solid that lacks an ordered internal structure?",
+      "output": [
+        "an amorphous solid"
+      ]
+    },
+    {
+      "id": "task591-49140292c30b4f97a77a0d78499667ac",
+      "input": "Different interatomic distances produce different lattice what?",
+      "output": [
+        "energies"
+      ]
+    },
+    {
+      "id": "task591-2dcf61fc0c064a48a25df99753d049fa",
+      "input": "Chemical reactions always involve what?",
+      "output": [
+        "energy"
+      ]
+    },
+    {
+      "id": "task591-32e3c6289b1844dcbf6975bc3f361815",
+      "input": "What part of a bird is adapted for the food it eats?",
+      "output": [
+        "beak"
+      ]
+    },
+    {
+      "id": "task591-9baa9e6e1ab445c381ad8320f6f9467b",
+      "input": "What organelles are known as the energy \"powerhouses\" of the cells?",
+      "output": [
+        "mitochondria"
+      ]
+    },
+    {
+      "id": "task591-35041e144995488284b79414766cc4f8",
+      "input": "When do female reproductive organs mature?",
+      "output": [
+        "at puberty"
+      ]
+    },
+    {
+      "id": "task591-f4d8a7526c3140ccbe90291517112c72",
+      "input": "What is at the surface of a cell, arranged in similar bilayer?",
+      "output": [
+        "phospholipids"
+      ]
+    },
+    {
+      "id": "task591-2594b4a0e5e649738c1212f5bfeb8ba2",
+      "input": "Some compounds form rigid frameworks called what?",
+      "output": [
+        "crystals"
+      ]
+    },
+    {
+      "id": "task591-3a1fd27159894df58080c208046f0e2a",
+      "input": "Continuous-flow reactors are chemical reaction vessels in which the what are mixed and allowed to react as they flow along a tube?",
+      "output": [
+        "reactants"
+      ]
+    },
+    {
+      "id": "task591-f8fb024670ef4b2b822a6abc9156eb89",
+      "input": "The three layers of protective coverings of the spinal cord is called what?",
+      "output": [
+        "meninges"
+      ]
+    },
+    {
+      "id": "task591-3b7db572b1d44cd1b2fc16bee74d295f",
+      "input": "Sepals, petals, pistils, and stamens are contained in all what, which are actually modified leaves or sporophylls organized around a central stalk?",
+      "output": [
+        "flowers"
+      ]
+    },
+    {
+      "id": "task591-3f84f9f37f9843fe8cb1be0aff7d5393",
+      "input": "In science, what is a bit of information that is true?",
+      "output": [
+        "a fact"
+      ]
+    },
+    {
+      "id": "task591-c74a57298f0549d8a70694fe19b4dff2",
+      "input": "What delivers power to the chemical factory chloroplasts?",
+      "output": [
+        "the sun"
+      ]
+    },
+    {
+      "id": "task591-61542cb9d4284c31be6425a1f7eac3b3",
+      "input": "An electrical motor changes electrical energy into what?",
+      "output": [
+        "mechanical energy"
+      ]
+    },
+    {
+      "id": "task591-4da5b2d120fc43978b2cf3c6fa2d80f2",
+      "input": "What are the \"levels\" in a food chain or web called?",
+      "output": [
+        "trophic"
+      ]
+    },
+    {
+      "id": "task591-f16ebe3f17be493abd36aed3532b8699",
+      "input": "What of most species are resistant cells that can survive harsh conditions?",
+      "output": [
+        "zygotes"
+      ]
+    },
+    {
+      "id": "task591-362c9fdb00ff424c8cbd2fb0783629f9",
+      "input": "Which two gases make up the bulk of earth's atmosphere?",
+      "output": [
+        "nitrogen and oxygen"
+      ]
+    },
+    {
+      "id": "task591-919cca8b14c8462181e816c888006ca0",
+      "input": "What is a mixture of eroded rock, minerals, partly decomposed organic matter, and other materials called?",
+      "output": [
+        "soil"
+      ]
+    },
+    {
+      "id": "task591-2650b88c048248408b647428e46ea747",
+      "input": "Light from a distant galaxy can travel different paths to the earth because it is bent around an intermediary galaxy by what?",
+      "output": [
+        "gravity"
+      ]
+    },
+    {
+      "id": "task591-cdf7a2e4db7c4673a8ad36f06f34142f",
+      "input": "What prohibits knocking out genes?",
+      "output": [
+        "ethical considerdations"
+      ]
+    },
+    {
+      "id": "task591-2d931e332c0b47ac9ea20ad913ecbe82",
+      "input": "What branch of science aims to understand all about our planet and its environments?",
+      "output": [
+        "earth science"
+      ]
+    },
+    {
+      "id": "task591-effadb050a6c43d3b5395135316f2bfd",
+      "input": "What is used to record seismic waves?",
+      "output": [
+        "seismograph"
+      ]
+    },
+    {
+      "id": "task591-dc44d996a7d64188bd23965a828b1874",
+      "input": "What changes water vapor to liquid water?",
+      "output": [
+        "condensation"
+      ]
+    },
+    {
+      "id": "task591-c616c6a8a83d41fc859dbc346f9e49c6",
+      "input": "What type of disease occurs when the immune system fails to recognize the body's own molecules?",
+      "output": [
+        "autoimmune"
+      ]
+    },
+    {
+      "id": "task591-07781f1113914e3f999f3b4a63e7779a",
+      "input": "Which theory is the idea that the characteristics of living organisms are controlled by genes, which are passed from parents to their offspring?",
+      "output": [
+        "gene theory"
+      ]
+    },
+    {
+      "id": "task591-9736e749966a4dc6a7ce03db0d4b48b0",
+      "input": "Which group of metals in the periodic table include elements such as sodium and potassium?",
+      "output": [
+        "alkali metals"
+      ]
+    },
+    {
+      "id": "task591-606a95790ae34798865ed26fa5946a89",
+      "input": "Cellular respiration that proceeds in the presence of oxygen is known as what?",
+      "output": [
+        "aerobic respiration"
+      ]
+    },
+    {
+      "id": "task591-6da29c767a9a4cee949296c319759597",
+      "input": "Biceps brachii, brachialis, and brachioradialis work to flex what part of the body?",
+      "output": [
+        "forearm"
+      ]
+    },
+    {
+      "id": "task591-acc793e92cd44124b15b0b9aa21d42fa",
+      "input": "The negatively charged electrons are attracted to the positively charged what?",
+      "output": [
+        "nucleus"
+      ]
+    },
+    {
+      "id": "task591-23eb12d34c25462ab917185ed95e09b3",
+      "input": "What is the color of mercury oxide?",
+      "output": [
+        "red"
+      ]
+    },
+    {
+      "id": "task591-ef82a947d8e4461a8598aac401d43614",
+      "input": "What type of seeds come from plants that were traditionally grown in human populations, as opposed to the seeds used for large-scale agricultural production?",
+      "output": [
+        "heirloom seeds"
+      ]
+    },
+    {
+      "id": "task591-254ee0aff1724c6caf279a7dd01fc629",
+      "input": "What element is typically used to shield things from gamma rays?",
+      "output": [
+        "lead"
+      ]
+    },
+    {
+      "id": "task591-4148cf99741a44308f820661627e3a4f",
+      "input": "Makemake and pluto are classified as what type of celestial object?",
+      "output": [
+        "dwarf planets"
+      ]
+    },
+    {
+      "id": "task591-93ff9125ab72487e832e2613af74d877",
+      "input": "What kind of change occurs whenever matter changes into an entirely different substance with different chemical properties?",
+      "output": [
+        "chemical change"
+      ]
+    },
+    {
+      "id": "task591-3d39766d3f6b4a74b1fbadb0bcac5650",
+      "input": "Green cyanobacteria on a lake produce food through what process?",
+      "output": [
+        "photosynthesis"
+      ]
+    },
+    {
+      "id": "task591-3f447df72b484cfeb01cea3b622eb912",
+      "input": "What is the most common type of muscle in the human body?",
+      "output": [
+        "skeletal"
+      ]
+    },
+    {
+      "id": "task591-2bc4fabdb8284dc9ba683645b95616a2",
+      "input": "Veins are blood vessels that carry blood toward what?",
+      "output": [
+        "heart"
+      ]
+    },
+    {
+      "id": "task591-9664ed3e33714752993fa066eada576a",
+      "input": "What do you call a change in the dna or rna sequence?",
+      "output": [
+        "mutation"
+      ]
+    },
+    {
+      "id": "task591-214192b6231947f59d3d81601429b6f6",
+      "input": "Volcano chains form as an oceanic plate moves over what?",
+      "output": [
+        "hot spot"
+      ]
+    },
+    {
+      "id": "task591-9f8e93776b294a93b1f8b66fa68c157b",
+      "input": "What does the cell cycle do?",
+      "output": [
+        "divide and reproduce cells"
+      ]
+    },
+    {
+      "id": "task591-5715b259210340779247c5301f0bb08d",
+      "input": "What term given to animals like reptiles is a synonym for ectothermic, which means that their heat comes from their environment?",
+      "output": [
+        "cold-blooded"
+      ]
+    },
+    {
+      "id": "task591-f2124288281b417f91f4b7e083bb429a",
+      "input": "Where does evidence that magnetic reversals occur come from?",
+      "output": [
+        "rocks on ocean floor"
+      ]
+    },
+    {
+      "id": "task591-8fb37bf666844f178136cafd3a980e59",
+      "input": "What process is magnesium important to?",
+      "output": [
+        "photosynthetic"
+      ]
+    },
+    {
+      "id": "task591-ce2db56a881c444aaa5476d302580161",
+      "input": "What type of starch is used for long-term energy storage in animal cells?",
+      "output": [
+        "glycogen"
+      ]
+    },
+    {
+      "id": "task591-c46679ac2cdf4955a861372115e298ad",
+      "input": "What is the outer layer of an axon that acts like a layer of insulation, similar to the plastic that encases an electrical cord?",
+      "output": [
+        "myelin sheath"
+      ]
+    },
+    {
+      "id": "task591-e9e1b6e0d91d405eb088f1a409711843",
+      "input": "What do you call any force that makes something move in a circle?",
+      "output": [
+        "centripetal force"
+      ]
+    },
+    {
+      "id": "task591-179e9cbdafbe45cf881e1f4878c0b44e",
+      "input": "What causes waves to bring sand up onto the beach during summers?",
+      "output": [
+        "low energy"
+      ]
+    },
+    {
+      "id": "task591-a335bc213b0142059a4c962544145467",
+      "input": "What shapes, supports, and protects the cell?",
+      "output": [
+        "the cell wall"
       ]
     }
   ],

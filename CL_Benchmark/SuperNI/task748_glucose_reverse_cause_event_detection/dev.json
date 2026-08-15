@@ -55,729 +55,1450 @@
   ],
   "Instances": [
     {
-      "id": "task748-5ba93fb7bb9747e2bfec7e0607032b15",
-      "input": "story: Three days ago I brought a banana to school for lunch. I forgot the banana in my locker. Today I went to get the banana and it had turned black. I threw the banana away. I decided not to leave food in my locker ever again.\n selected sentence: Three days ago I brought a banana to school for lunch.",
+      "id": "task748-69f4d9211c6a41bf9e8e91f69847367d",
+      "input": "story: Michelle's dog had puppies. One puppy was brown with a black mask on her face, like a brown panda. When Michelle's dad said she could keep her, Panda became her name. As Panda grew, over time her mask faded away. When asked about her name, she smiled because it was their secret.\n selected sentence: As Panda grew, over time her mask faded away.",
       "output": [
-        "I bring a banana to school >Causes/Enables> I forget the banana in my locker"
+        "Panda grows >Causes/Enables> Her mask fades away",
+        "Panda's mask fades >Causes/Enables> Panda's mask disappears"
       ]
     },
     {
-      "id": "task748-2ee5cc8ffb3e453da8cec3189c851af6",
-      "input": "story: Francisco hadn't seen his mother in Years. He saved up money diligently for the flight to her home in Iowa. Finally the day had come for Francisco to fly to Iowa. He and his mother were very happy to see each other. Francisco promised he would never wait so long to see her again.\n selected sentence: Finally the day had come for Francisco to fly to Iowa.",
+      "id": "task748-4c6d490b71614a72b40125e200ed1316",
+      "input": "story: Lily was trying to fall asleep in bed. She felt Something itchy and scratchy on her legs. Then she noticed crumbs sprinkled all over the mattress. She brushed everything clean and then laid down. Luckily, she felt clean and fresh and ready to sleep.\n selected sentence: She brushed everything clean and then laid down.",
       "output": [
-        "Francisco flies home to to see his mother >Causes/Enables> His mother visits with his mother"
+        "She lays down >Causes/Enables> She goes to sleep"
       ]
     },
     {
-      "id": "task748-bf611caf752f4747b46b0b1d3c06df63",
-      "input": "story: Jane gave birth to a nine pound baby. Her baby was large for a newborn, and healthy. Jane then  came down with a cold, and gave the cold to the baby. The baby became sick and had to see the doctor. The doctor treated the baby, and it got well.\n selected sentence: The doctor treated the baby, and it got well.",
+      "id": "task748-8c0977e9750f42459d6ab7ba6d8e2512",
+      "input": "story: Susie had a dance coming up. She was afraid of getting asked. She was not sure if anyone would do it. But thankfully her friend Fred asked her. She was happy to have Fred ask her.\n selected sentence: Susie had a dance coming up.",
       "output": [
-        "The doctor treats the baby >Causes/Enables> The baby gets well",
-        "The baby gets well >Causes/Enables> The baby leaves the hospital"
+        "Susie has a dance coming up >Causes/Enables> Fred asks Susie to the dance"
       ]
     },
     {
-      "id": "task748-475521dba3ef46f0884d09239309d69f",
-      "input": "story: Billy has asked Santa for a sled for Christmas. So he was really hoping it would be a white Christmas. The weatherman was calling for snow when he went to bed. The next morning he woke up to snow on the ground. He had gotten his sled, too.\n selected sentence: He had gotten his sled, too.",
+      "id": "task748-bc89a25ed6b3429f8e7219488a44134d",
+      "input": "story: Ray gathered his friends to tell them a funny joke he heard. He started to tell the joke and realized he forgot how it ended. Ray tried to make up his own punchline to save his joke. All of his friends were confused and did not laugh. Ray tried to blame the friends for having no sense of humor.\n selected sentence: Ray tried to make up his own punchline to save his joke.",
       "output": [
-        "Billy gets a sled >Causes/Enables> Billy rides",
-        "Billy gets a sled >Causes/Enables> Billy goes sledding "
+        "Ray tries to make up a punchline >Causes/Enables> Ray makes up a punchline"
       ]
     },
     {
-      "id": "task748-8ee350c3a7e9478182354d1ad0b43a8e",
-      "input": "story: Tim had a bag of chips. He kept it to himself. Lee wanted some. Tim thought about it. Tim decided to share so that everyone was happy.\n selected sentence: Tim decided to share so that everyone was happy.",
+      "id": "task748-b2bc37ef661743b0afcd52e6a4007e78",
+      "input": "story: Bonnie begged her dad to take her fishing with him. When they got there, she started to put the line into the water. Her dad laughed, saying she had to put a worm on it first. There was no way she was touching a worm! Fortunately her did baited her hook for her.\n selected sentence: When they got there, she started to put the line into the water.",
       "output": [
-        "Tim shares his chips >Causes/Enables> Tim and Lee eat chips",
-        "Tim decides to share >Causes/Enables> Tim shares"
+        "Bonnie and her dad get to the fishing spot >Causes/Enables> Bonnie and her dad fish"
       ]
     },
     {
-      "id": "task748-b111fb9bac17416296a51e21118edd49",
-      "input": "story: Tom wanted to go on a trip with his friends. He asked his parents but they said no. His grades were too low. That week, he worked really hard to bring his grades up. When they improved, his parents let him go on the trip.\n selected sentence: His grades were too low.",
+      "id": "task748-7cf7e4d8a66a427c9dc5ac11156fa87d",
+      "input": "story: Fred wanted to start a joke shop. He did not have money. Luckily his friend, Harry, gave him some money. Fred opened the shop as soon as he could. Many people were very excited.\n selected sentence: Many people were very excited.",
       "output": [
-        "Tom has low grades >Causes/Enables> Tom brings his grades up"
+        "People are excited about the joke shop >Causes/Enables> People shop at the joke shop"
       ]
     },
     {
-      "id": "task748-1e28418cfcb14723aa6279519bcf6eff",
-      "input": "story: I went fishing with my dad when I was a kid. He taught me how to bait a hook and take off a fish. We caught a lot of fish and turned them loose. We went home with stories to tell. People are surprised to find out I can fish.\n selected sentence: We went home with stories to tell.",
+      "id": "task748-3fde8e0ec24b4e5da60e556030f6d819",
+      "input": "story: I had a favorite stuffed animal when I was younger. It was a tiger named Tigey. I always played with Tigey, but one day I forgot him outside. It rained that night and one of Tiger's eyes fell out. I learned to take care of my things If I want to keep them nice.\n selected sentence: I had a favorite stuffed animal when I was younger.",
       "output": [
-        "My father and I go home with stories to tell >Causes/Enables> we tell stories"
+        "I favor Tigey over other toys >Causes/Enables> I play with Tigey all the time",
+        "I have a favorite stuffed animal >Causes/Enables> I play with Tigey"
       ]
     },
     {
-      "id": "task748-787051adfc52461d94c3efd5dae3c6e6",
-      "input": "story: Sara's grandfather took her to a lake to go fishing. Her grandfather helped her hook a small worm onto her pole. Within minutes, Sara caught a tiny smallmouth bass. Her grandfather helped her unhook the fish. Sara waved goodbye as her grandfather tossed it back into the water.\n selected sentence: Sara's grandfather took her to a lake to go fishing.",
+      "id": "task748-fc359fb9b9d1480bb0b021dc9f703c89",
+      "input": "story: Zoey's mom told her they could go pick out a new dog today. Zoey was so excited she ran to the car. They got to the pet store in no time. Zoey found a beautiful French Bulldog that she loved. Zoey's mom paid for the French Bulldog and they took him home!\n selected sentence: Zoey was so excited she ran to the car.",
       "output": [
-        "Sara's grandfather takes her to go fishing >Causes/Enables> Sara goes fishing"
+        "Zoey runs to the car >Causes/Enables> Zoey goes to the pet store"
       ]
     },
     {
-      "id": "task748-6a76061a606f427a8f21e6ab77bcdb53",
-      "input": "story: It was forecast to rain that day. The kids were sad to stay indoors. Soon the rain began to fall and the wind began to blow. Quickly it was hailing and lightning and then the power went out. Soon it ended, but the power was still out for many hours that day.\n selected sentence: It was forecast to rain that day.",
+      "id": "task748-517391a0a80741d6a639b3d5beb57a41",
+      "input": "story: Tim was sick in bed. He had a cold. He didn't know what to do. His mother brought him soup. After that, he felt better.\n selected sentence: He didn't know what to do.",
       "output": [
-        "It is forecast to rain >Causes/Enables> It rains",
-        "Rain is in the forecast >Causes/Enables> The kids stay in the house"
+        "Tim doesn't know what to do >Causes/Enables> Tim's mother brings him soup"
       ]
     },
     {
-      "id": "task748-4cbcfab67c094b8db3dcaf4f6fb1abfd",
-      "input": "story: We all went to a haunted house last Halloween. A creepy clown jumped out at my friend Gary. Gary was so scared he screamed. We all think Gary wet himself. Gary ran home to change his pants.\n selected sentence: We all think Gary wet himself.",
+      "id": "task748-846fdc75ff0d469db8949ba3abb592ea",
+      "input": "story: Sam looked in the mirror. He thought he looked ugly. He didn't like what he saw. It turned out the mirror was dirty. He cleaned it and he looked great.\n selected sentence: It turned out the mirror was dirty.",
       "output": [
-        "We think Gary wet himself >Causes/Enables> We tease Gary",
-        "Gary himself >Causes/Enables> Gary changes his pants"
+        "The mirror is dirty >Causes/Enables> Sam cleans the mirror"
       ]
     },
     {
-      "id": "task748-ff392e2b692e434795520691159f0c61",
-      "input": "story: I was hungry one day and decided to make food. I went to my freezer and grabbed a bag of chicken nuggets. I put the chicken nuggets on a tray in the oven and waited. I was very bored while waiting and began to fall asleep. After sleeping I woke to my house filled with smoke from burning food.\n selected sentence: I put the chicken nuggets on a tray in the oven and waited.",
+      "id": "task748-fa86d7cefe414f5895324375c3616958",
+      "input": "story: There was a man named Josue. He wanted to go to a partay. He asked all his friends. They didn't know of any. So he held his own party.\n selected sentence: He wanted to go to a partay.",
       "output": [
-        "I put chicken nuggets in the oven >Causes/Enables> I burn the chicken nuggets",
-        "I put the nuggets in the oven >Causes/Enables> The nuggets cook",
-        "I wait >Causes/Enables> I get bored with waiting"
+        "He wants to go to a party >Causes/Enables> he asks his friends about a party"
       ]
     },
     {
-      "id": "task748-95e092c5e0bf4605a5c687f1c725d0a4",
-      "input": "story: Beth was a high school teacher. Her students would be very loud. One day she could not take it anymore. She accidentally screamed at them. The class was never loud again.\n selected sentence: One day she could not take it anymore.",
+      "id": "task748-f7f27dc6e92945b0898fed3dc0fde740",
+      "input": "story: Jill wanted to race Sara! They both met up in the park! They ran as fast as the could! They both tied! They laughed knowing that they were both great runners!\n selected sentence: They ran as fast as the could!",
       "output": [
-        "Beth can not take her student's noisiness anymore >Causes/Enables> Beth screams at her students"
+        "Jill and Sara run >Causes/Enables> Jill and Sara reach the finish line"
       ]
     },
     {
-      "id": "task748-2cf591ba11c44872a9a5d7aed907ab5d",
-      "input": "story: Stewart's dad built a treehouse for him in the back yard. Stewart and his friends had great fun with the tree house. Stewart grew older and eventually had a son of his own. There were no large trees in Stewart's back yard. Instead of a tree house, Stewart built a fort for his son.\n selected sentence: There were no large trees in Stewart's back yard.",
+      "id": "task748-d512a330ab3c4e8e8b27da48bca9dcaf",
+      "input": "story: Boris went to the drive-in with his friends on Wednesday. He saw an old sci-fi movie. About half-way through, he bought some popcorn. He thought the cashier was cute, so he asked for his number. Boris is going to the drive-in again, tonight, with his new date.\n selected sentence: About half-way through, he bought some popcorn.",
       "output": [
-        "No trees are in Stewart's backyard >Causes/Enables> Stewart can't make a tree house"
+        "Boris buys some popcorn >Causes/Enables> Boris eats the popcorn"
       ]
     },
     {
-      "id": "task748-ff03a657f37441ffa45a0c1211f82e9e",
-      "input": "story: I told Frankie to go to the store and get groceries. He put on his jacket and went on his way. After fifteen minutes I heard a knock on the door. I wasn't expecting Frankie for another hour but there he was. When I asked him how he came and went so fast he said he ran!\n selected sentence: After fifteen minutes I heard a knock on the door.",
+      "id": "task748-81a18569096b44fc96fa091de0a51443",
+      "input": "story: I decided to have popcorn last night. While making it, there was a knock at the door. I went to the window and looked out. A raccoon was holding a rock and hitting the door. I'm not sure raccoons can knock but this one did.\n selected sentence: I decided to have popcorn last night.",
       "output": [
-        "I hear a knock on the door >Causes/Enables> I answer the door"
+        "I decide to have popcorn >Causes/Enables> I have popcorn"
       ]
     },
     {
-      "id": "task748-1effe96adaed4513bf64f0315540ce2f",
-      "input": "story: My friend Rupert was carrying a long mirror to his room. I told him a broken mirror is 7 years bad luck. He set the mirror down just fine. We looked at our faces, making funny smiles and toothy grins. The mirror fell forward and broke, giving us both bad luck.\n selected sentence: He set the mirror down just fine.",
+      "id": "task748-754621657cdc48a29c33f9445ea8d397",
+      "input": "story: Matthew was not happy to be going shopping with his mother. The grocery store was no fun but then they went next door. It was a new pet shop filled with mice, birds, and fish! To a delighted Matthew, it was like a zoo. His mother let him pick his first pet, a goldfish with black spots.\n selected sentence: It was a new pet shop filled with mice, birds, and fish!",
       "output": [
-        "The mirror is set down >Causes/Enables> The mirror falls over"
+        "The pet shop has fish >Causes/Enables> Matthew gets a fish"
       ]
     },
     {
-      "id": "task748-bda4e91b8da34ceab1a5a6ed8c0b09c9",
-      "input": "story: Gary bumped the hot sauce jar. It spilled and moved all over the floor. My mom smelled Something and came outside. She asked who did it and I was quiet. My brother told her that I did it and she got mad.\n selected sentence: My mom smelled Something and came outside.",
+      "id": "task748-e3f90ff9425e44f0b1041ebac870ac41",
+      "input": "story: I looked out my window and saw that my grass was getting tall. I decided that the grass needed to be mowed. I went outside and got the lawn mower from the shed. I worked for an hour cutting the grass. I sat on the porch and was proud of how good the grass looked.\n selected sentence: I sat on the porch and was proud of how good the grass looked.",
       "output": [
-        "My mom smells Something and comes outside >Causes/Enables> My mom asks who spilled the hot sauce"
+        "I sit >Causes/Enables> I get up"
       ]
     },
     {
-      "id": "task748-94c60c802d774d4cbadd38227d4e975a",
-      "input": "story: Sloane was taking an important test at school. The room was silent. Her pencil broke. The sharpener grated loudly. Everyone in the room gave Sloane dirty looks.\n selected sentence: Sloane was taking an important test at school.",
+      "id": "task748-67dfed95de4e4335992bdad0883a8f24",
+      "input": "story: The large truck was stuck in the sand by the lake. The tide was coming in and the water was over the truck's tires. Brian ran to a nearby farm and asked for help. The farmer got his tractor and drove it to the truck. The farmer pulled the truck out of the water with the tractor.\n selected sentence: The farmer pulled the truck out of the water with the tractor.",
       "output": [
-        "Sloane has an important test at school >Causes/Enables> Sloane broke her pencil"
+        "The farmer pulls the truck out of the water >Causes/Enables> The truck comes out of the water"
       ]
     },
     {
-      "id": "task748-87392f81362249f3bafe2334ed9e7fea",
-      "input": "story: Suzie lived down the road from the ATM. She needed some money. She put on shoes and went outside. Then, she walked down to the ATM. Finally, she got her money.\n selected sentence: Suzie lived down the road from the ATM.",
+      "id": "task748-b9d7544940ec470e9962ce64cd3beb8d",
+      "input": "story: William has a macbook. It started messing up for him. He went to the apple store. They could not fix it for him. He had to buy a new one.\n selected sentence: William has a macbook.",
       "output": [
-        "Suzie's home is by the ATM >Causes/Enables> Suzie goes to the ATM"
+        "William has a macbook >Causes/Enables> The macbook started messing up"
       ]
     },
     {
-      "id": "task748-5f8a6a77cea244508ccf3fda9cce2117",
-      "input": "story: Tim was driving to work. A car sped past him. Tim kept driving. A mile later the car had been pulled over by a cop. Ha ha, Tim thought.\n selected sentence: A car sped past him.",
+      "id": "task748-a6372ccdce4e4d3481f34a176eacb8d9",
+      "input": "story: Molly was trying to enjoy a movie. Her stomach started to hurt. She tried to ignore it but it got worse. Finally, she had to leave the movie. Her stomach kept hurting for the rest of the day.\n selected sentence: Her stomach started to hurt.",
       "output": [
-        "A car sped past Tim >Causes/Enables> Tim kept driving",
-        "The car speeds past Tim >Causes/Enables> The car is ahead of Tim",
-        "A car sped by Tim. >Causes/Enables> The car is pulled over by a cop."
+        "Molly's stomach starts to hurt >Causes/Enables> Molly's stomach continues to hurt",
+        "Her stomach starts to hurt >Causes/Enables> She tries to ignore it"
       ]
     },
     {
-      "id": "task748-80f558b7b64148979a9f307c3a6865c6",
-      "input": "story: Susie got a puppy. One day she lost it. She looked everywhere. Finally she found it. It was under her bed.\n selected sentence: She looked everywhere.",
+      "id": "task748-73f26e8668a4447ab6d39405d1ddfdee",
+      "input": "story: Britney had to get ready for school. She got out of bed and changed into her school clothes. Then she went to the kitchen to eat breakfast. After breakfast she brushed her teeth. When she was done the buss was waiting outside.\n selected sentence: She got out of bed and changed into her school clothes.",
       "output": [
-        "Susie looks everywhere for her lost puppy >Causes/Enables> Susie finally finds the puppy"
+        "She changes into her school clothes >Causes/Enables> She is wearing her school clothes"
       ]
     },
     {
-      "id": "task748-4bb32544f3804e22a3dcc22b336f0acb",
-      "input": "story: It was raining outside and Kelly needed some new boots. She drove over to the Burberry store to buy some. She picked up the first ones she saw. She ended up loving them. Thankfully they worked great.\n selected sentence: She ended up loving them.",
+      "id": "task748-f150e89ce4ba4da0bfc4728819fcd735",
+      "input": "story: Debby bought her husband a chocolate bar to be nice. By the time she got home, though, it was all melted. She secretly stuck the bar in the fridge. Later she went to get it but it was gone. Her husband had found it and eaten it already.\n selected sentence: She secretly stuck the bar in the fridge.",
       "output": [
-        "Kelly loves the boots >Causes/Enables> Kelly wears the boots"
+        "Debby puts the bar in the fridge >Causes/Enables> Debby's husband removes the bar from the fridge"
       ]
     },
     {
-      "id": "task748-11b9014275b34b81a542e1addefe6644",
-      "input": "story: Mark is watching Mrs Debbie's dog, Ralf, when she's gone for the week. On the last day, Ralf escapes through the back door! Mark spends all day looking for Ralf. When he gives up, he finds Ralf waiting for him back at the house. Mark decides he doesn't get paid enough for this job.\n selected sentence: Mark decides he doesn't get paid enough for this job.",
+      "id": "task748-24b77b3637ac41b5a31661ac3b1fb8a7",
+      "input": "story: Abby loved school because she loved to read. She went to the library after school to find some new books. When she got there she couldn't find a book she hasn't read! So she went to the store to get a magazine. Abby now loves magazines more than books.\n selected sentence: Abby now loves magazines more than books.",
       "output": [
-        "He decides he doesn't get paid enough for this job >Causes/Enables> He quits doing this job"
+        "Abby loves magazines more than books >Causes/Enables> Abby chooses magazines instead of books",
+        "Abby loves magazines >Causes/Enables> Abby reads magazines"
       ]
     },
     {
-      "id": "task748-6daf0f0f7b5040bca840e3c13419bed6",
-      "input": "story: Kelly was happy the new phones just came out for Apple. She really wanted a pink one. Unfortunately the pink ones were all sold out. They told her she would have to wait a month for the pink one. She decided to get the gold instead.\n selected sentence: Kelly was happy the new phones just came out for Apple.",
+      "id": "task748-8631a227b6ec446fabd7c8a6821a0e8d",
+      "input": "story: Janet fell down the stairs at work one day. For many months her knee was in pain. She didn't think it was a big deal. Janet finally went to the doctor to get her knee checked out. She needed emergency surgery on her knee.\n selected sentence: For many months her knee was in pain.",
       "output": [
-        "Kelly is happy with the phones >Causes/Enables> Kelly buys a phone"
+        "Janet's knee is in pain for many months >Causes/Enables> Janet goes to a doctor to have her knee checked out"
       ]
     },
     {
-      "id": "task748-16d8dc83d7aa4912a459e989568f785b",
-      "input": "story: John took the day off of work today. He wanted to meet up with some old friends. He said they had a great time catching up. They went to see a ballgame. They ended the day with dinner.\n selected sentence: John took the day off of work today.",
+      "id": "task748-1b9b594d650e421891c10fa422dc6752",
+      "input": "story: Jimmy arrived to the ocean with his fishing equipment. He took out his fishing rod and walked towards the dock. Unfortunately, one of the wooden boards from the dock broke. He ended up falling in the water. Another fisher managed to get him out of the water.\n selected sentence: Jimmy arrived to the ocean with his fishing equipment.",
       "output": [
-        "John takes the day off of work >Causes/Enables> They go to a ballgame"
+        "Jimmy arrives at the ocean with his fishing equipment >Causes/Enables> Jimmy takes out his fishing rod"
       ]
     },
     {
-      "id": "task748-93e590e6f12544fcb3f47bca22cd91c7",
-      "input": "story: Jeremy was going to the shooting range with his dad. It was his first time getting to go. His dad had been very strict about him knowing all the rules. Jeremy was very careful and followed all of his dad's instructions. He had a great time with his dad at the range that day.\n selected sentence: His dad had been very strict about him knowing all the rules.",
+      "id": "task748-478b270652d44560aa83d47ef3307a09",
+      "input": "story: James hated his boring glasses. He wanted a new pair before school started. He went online and picked a pair out. It arrived in the mail a couple of weeks later. He loved how the new glasses looked.\n selected sentence: James hated his boring glasses.",
       "output": [
-        "Jeremy's dad is strict >Causes/Enables> Jeremy is careful"
+        "James hates the glasses >Causes/Enables> James gets new glasses"
       ]
     },
     {
-      "id": "task748-d74170385a8a4aa6ba2a7419b0d6bbdd",
-      "input": "story: Tim was going to the club with friends. There was a long line outside. The wait was about half an hour. Tim's friends wanted to wait. Tim didn't and went home.\n selected sentence: Tim was going to the club with friends.",
+      "id": "task748-b577a601381d42458c718a0bed939be6",
+      "input": "story: Jenny was starting Kindergarten today. She told her mom she was excited, but Jenny was shaking. She wouldn't leave the van, but her mom made her. One Jenny got to school she was very shy. Eventually she opened up, and made lots of friends on her first day.\n selected sentence: She wouldn't leave the van, but her mom made her.",
       "output": [
-        "Tim is going to the club >Causes/Enables> Tim arrives at the club"
+        "Jenny's mom makes her leave >Causes/Enables> Jenny leaves"
       ]
     },
     {
-      "id": "task748-2d3c7ea4c22f497bac2b38df2e00b118",
-      "input": "story: Jeff loved his dog Cindy. One day he was taking her for a walk. She saw a squirrel. Cindy ran off her leash so she could get the squirrel. Jeff lost his dog Cindy.\n selected sentence: Jeff loved his dog Cindy.",
+      "id": "task748-19c73ce1bb18492faba26b888c81a22a",
+      "input": "story: Anna's car was running a little rough. She knew it was overdue for an oil change. She had been putting it off because it was expensive. But she decided she had to care for her car. After the oil change, it ran much better!\n selected sentence: She knew it was overdue for an oil change.",
       "output": [
-        "Jeff loves Cindy >Causes/Enables> Jeff treats Cindy well"
+        "Anna's car needs an oil change >Causes/Enables> Anna gets an oil change"
       ]
     },
     {
-      "id": "task748-0c8bb563856c4f77853b391bd9a983a7",
-      "input": "story: Callie couldn't figure out how the open the door. Her lock was new and weird so she called me for help. I told Callie how to unlock the door and she was extremely grateful. Later that day Callie got stuck again! She called me up and I changed the locks for her.\n selected sentence: Callie couldn't figure out how the open the door.",
+      "id": "task748-0e8e9d03314b484f97e207f47d49e0a8",
+      "input": "story: Walter got stuck in the rainy on his way home from work. He accidentally stepped in a puddle and soaked his shoes. After getting home he took them off and relaxed to forget about it. The next morning he went to get ready for work. His shoes were still wet but it was too late to do anything about it.\n selected sentence: Walter got stuck in the rainy on his way home from work.",
       "output": [
-        "Callie doesn't know how to open the door >Causes/Enables> Callie calls me for help",
-        "Callie can't open the door >Causes/Enables> Callie calls me for help"
+        "walter got stuck in rain >Causes/Enables> walter stepped in puddle"
       ]
     },
     {
-      "id": "task748-026d6747fe2f41ffb82d6677ec88cf3f",
-      "input": "story: Sam loved to go to the cabin. His family went there every summer. This summer when they arrived at the cabin. Sam seen there was a hole in the wall. He cut down a tree and fixed it.\n selected sentence: This summer when they arrived at the cabin.",
+      "id": "task748-98fbfcd22a79464cad7d2ee1c8b48bed",
+      "input": "story: Carter slept in his crib. In the morning, he climbed out of it. His dad transitioned the bed into a toddler bed. Carter discovered that he could just get into his bed without climbing. Carter now sleeps in his toddler bed.\n selected sentence: Carter slept in his crib.",
       "output": [
-        "Sam's family arrive at the cabin >Causes/Enables> Sam sees a hole in the wall"
+        "Carter sleeps in his crib >Causes/Enables> Carter climbs out of the crib"
       ]
     },
     {
-      "id": "task748-79665fbdfc5b4449b1b2ad8f63e61cd6",
-      "input": "story: Adam was so excited to start preschool this year. On his first day he wore his favorite Spiderman hat. He was so excited that we got there early. I was a little sad but Adam didn't hesitate to run into the school. After school he was so happy to tell me about his day.\n selected sentence: I was a little sad but Adam didn't hesitate to run into the school.",
+      "id": "task748-a307c71b6bed4d9b86bd33b8ec666d89",
+      "input": "story: Sam needed new shoes. Sam went to an Adidas store. He doesn't like Adidas shoes. Sam went to a Nike store. Sam loves Nike shoes and bought three pairs!\n selected sentence: Sam needed new shoes.",
       "output": [
-        "Adam runs into school >Causes/Enables> Adam leaves school"
+        "Sam needs new shoes >Causes/Enables> Sam gets new shoes"
       ]
     },
     {
-      "id": "task748-2c93ee77face4a14aa5d6defd4a6f8b6",
-      "input": "story: I got tired of having eggs and potatoes for breakfast every day. So I got some pancake mix to make pancakes. I combines the mix, an egg, some milk, and a bit of oil. I mixed all those up really well, but not too much. And this morning I made three really fantastic pancakes.\n selected sentence: I got tired of having eggs and potatoes for breakfast every day.",
+      "id": "task748-a49cdeec1d1b4e4aa7da3254cd807d21",
+      "input": "story: Jamie had signed up for Secret Santa. It was getting close to Christmas and she had no money. She realized that she couldn't afford to buy a gift. She let one of the admins know. Luckily, they were able to help her out.\n selected sentence: She realized that she couldn't afford to buy a gift.",
       "output": [
-        "I get tired of having eggs and potatoes for breakfast every day >Causes/Enables> I make pancakes"
+        "Jamie realizes she can't buy a gift >Causes/Enables> Jamie doesn't buy a gift",
+        "She realizes she can't afford to buy a gift >Causes/Enables> She tells one of the admins",
+        "Jamie can't buy a gift for secret santa >Causes/Enables> Jamie lets an admin know"
       ]
     },
     {
-      "id": "task748-e47d1a3b02954980969ed6b83509b790",
-      "input": "story: Tim really liked Cindy. In class one day, he wrote her a note. The note asked Cindy for a date. Cindy read it and wrote him a note back. Cindy's note said yes!\n selected sentence: Cindy's note said yes!",
+      "id": "task748-4d931d4b910549a0a38ba29ffb5373b6",
+      "input": "story: Janie had a dog named Max. Max was a very needy dog who never liked to be left alone. Every day when Janie went to work, Max would get very sad. Max would sit by the door all day long until Janie got home. When she finally got home, Max the needy dog would be happy again.\n selected sentence: Janie had a dog named Max.",
       "output": [
-        "Cindy's note says yes >Causes/Enables> She and Tim go on a date"
+        "Janie has a dog named Max >Causes/Enables> Max sits by the door until Janie gets home"
       ]
     },
     {
-      "id": "task748-35e204bef9b945bd9fe9877b0035a917",
-      "input": "story: Tyler was riding his four wheeler. He was on a trail behind his house. The four wheeler got stuck in the mud. Tyler walked back to his house. He asked his dad to help him out.\n selected sentence: Tyler was riding his four wheeler.",
+      "id": "task748-63fbf97341154ca2a4d99f7f683e0849",
+      "input": "story: Brian wanted a beard long enough to braid. He grew it out for two years. It wasn't long enough to braid. He decided to shave it off. Now he looks weird.\n selected sentence: It wasn't long enough to braid.",
       "output": [
-        "Tyler drives >Causes/Enables> Tyler's truck stops"
+        "Brian's beard was not long enough to braid >Causes/Enables> Brian shaved off his beard "
       ]
     },
     {
-      "id": "task748-61191c885b874f1e9d0a16a98fad8539",
-      "input": "story: Kathy had just had a new baby. She was home with him when the doorbell rang. When she answered the door she saw her friend. They were holding a casserole dish. Kathy thanked her friend for bringing her food.\n selected sentence: Kathy had just had a new baby.",
+      "id": "task748-4fdfa32817284520833b4f5a2edd1b95",
+      "input": "story: Bob and Karen weren't sure what to do on a Fall Friday evening. Since the big game was the next day, they wanted an early night. They decided to check out downtown to see what was happening. At their surprise, there were a ton of cars downtown! There wound up being a huge event downtown for them to do!\n selected sentence: They decided to check out downtown to see what was happening.",
       "output": [
-        "Kathy has a baby >Causes/Enables> Kathy brings home the baby"
+        "They check out downtown >Causes/Enables> There winds up being a huge event downtown"
       ]
     },
     {
-      "id": "task748-e75fa3ff66b64d7dadeb6fb8122f6549",
-      "input": "story: It was Sunday. So John and his family were going to church. But John knew he would be bored. So John bought his phone. And he played games on it while at church.\n selected sentence: And he played games on it while at church.",
+      "id": "task748-51a832ed72af4fc89ace34c78d90cfe1",
+      "input": "story: Hal bought a new jacket last week. When he went to put it on today, he noticed a button was missing. He asked his wife to fix it. She found a matching button and sewed it on. Hal's can now wear his jacket again.\n selected sentence: He asked his wife to fix it.",
       "output": [
-        "John played games on his phone while at church >Causes/Enables> John got into trouble with his parent's "
+        "Hal asks his wife to fix >Causes/Enables> Hal's wife fixes"
       ]
     },
     {
-      "id": "task748-6705d09937e3477fa53d6bd01f00c0d4",
-      "input": "story: Tom wanted to become healthier. He also did not want an expensive gym membership. He decided to take up running. He ran every other day. He became much healthier.\n selected sentence: He decided to take up running.",
+      "id": "task748-9d1749a1dde84ea28d0e4b54eff00a16",
+      "input": "story: I have two adorable cats. They wake me up each day to let me know they want to eat breakfast. If I don't get out of bed quickly, they stand on my body and meow. When I finally get out of bed they run to the kitchen. I meet them in the kitchen and feed them tuna.\n selected sentence: They wake me up each day to let me know they want to eat breakfast.",
       "output": [
-        "Tom decides to take up running >Causes/Enables> Tom becomes much healthier"
+        "My cats wake me up each day next to let me know they want to eat breakfast >Causes/Enables> I meet them in the kitchen and feed them tuna"
       ]
     },
     {
-      "id": "task748-706e0bf206644ddfbbd547f7563f32d2",
-      "input": "story: Charlie loved collecting rare record albums. He found an out-of-the-way store that had tons of oldies. He spent hours looking through the stacks of rare albums. Charlie spent several hundred dollars there on some great finds. At home, he spent the day listening to his collection's new additions.\n selected sentence: Charlie spent several hundred dollars there on some great finds.",
+      "id": "task748-e215cba709ad4dc5987320e00c1a7184",
+      "input": "story: There was a boy named Jesse. He could read people's lips One day, his friend Michael whispered Something to another person. He tried to read the lips but it was too hard. That day he gave up on reading lips.\n selected sentence: He tried to read the lips but it was too hard.",
       "output": [
-        "Charlie buys records >Causes/Enables> Charlie listens to the records"
+        "It is too hard >Causes/Enables> Jesse fails"
       ]
     },
     {
-      "id": "task748-87cbbf046ba34594adc4b16831faf8cc",
-      "input": "story: Ben's friend got  a puppy for his birthday. Ben had lots of fun playing with his friend's new pet. Ben decided to ask his parents if they would get him a puppy. He was upset when his parent's told him they need time to decide. They decided to get Ben a puppy for his birthday a month later.\n selected sentence: They decided to get Ben a puppy for his birthday a month later.",
+      "id": "task748-5ab54104d40b4c5db99cb464abb19555",
+      "input": "story: The snow fell outside all night. When we woke up the kids were so excited. We gathered the sleds. We drove to the snowy hill. Everyone had a wonderful time sledding down the hill.\n selected sentence: We gathered the sleds.",
       "output": [
-        "Ben's parents decide to get the puppy >Causes/Enables> Ben's parents get the puppy"
+        "We gather the sleds >Causes/Enables> We go sledding",
+        "We gather the sleds >Causes/Enables> We sled"
       ]
     },
     {
-      "id": "task748-43ab6f57af374183a503e652d2ad7c8d",
-      "input": "story: John took the day off of work today. He wanted to meet up with some old friends. He said they had a great time catching up. They went to see a ballgame. They ended the day with dinner.\n selected sentence: They went to see a ballgame.",
+      "id": "task748-fcee868e1c484b6aacaf93855ff11d29",
+      "input": "story: Kim moved into a new apartment. She kept hearing scary sounds. She was scared it might be a ghost or Something scary. One day she followed the sounds to an old pipe. A plumber fixed the problem and the sounds went away.\n selected sentence: A plumber fixed the problem and the sounds went away.",
       "output": [
-        "John goes to a ballgame >Causes/Enables> John has fun"
+        "The plumber fixes the problem >Causes/Enables> Kim pays the plumber",
+        "The plumber fixes the problem >Causes/Enables> The plumber gets paid"
       ]
     },
     {
-      "id": "task748-a818156862b94d4495c125033606abc1",
-      "input": "story: One year at the school dance they provided free pizza. I was never much of a dancer so I just hung out around the place. Towards the end of the dance I started to get fairly hungry. My friends and I decided that we wanted some pizza. When we got to it they were all out of pizza and we were upset.\n selected sentence: Towards the end of the dance I started to get fairly hungry.",
+      "id": "task748-9d37d748d8824f1b80e8a0b6cadebeb1",
+      "input": "story: Bob wanted to see his favorite band perform this weekend. Bob didn't have enough money or a ride to the show. His aunt heard about his problem and offered to provide both. Bob accepted happily and thanked his aunt. He went to the show and had the time of his life.\n selected sentence: Bob wanted to see his favorite band perform this weekend.",
       "output": [
-        "I am hungry >Causes/Enables> I decide to eat pizza",
-        "I get hungry >Causes/Enables> I try to get pizza",
-        "I started to get fairly hungry >Causes/Enables> I decided i wanted pizza"
+        "Bob wants to go to the performance >Causes/Enables> Bob goes to the performance"
       ]
     },
     {
-      "id": "task748-a07c372ff07248149d5612e83dd7820c",
-      "input": "story: Jan called and said her car didn't sound right. So I walked over to her place and drove her car around. It sounded to me like it needed a tune-up. So I gathered all my tools and the parts needed for a tune and did it. Now Jan tells me her car sounds and runs much better.\n selected sentence: So I walked over to her place and drove her car around.",
+      "id": "task748-7ec208eb9dc843e3b5bcc442b81f63e0",
+      "input": "story: Jerry was out to dinner with his girlfriend. Jerry was so in love with her. The two had been together for 2 years. Jerry got down on one knee and asked her to be his bride. She cried and told him it wasn't working out between the two.\n selected sentence: Jerry was so in love with her.",
       "output": [
-        "I go to Jan's place >Causes/Enables> I come home"
+        "Jerry is in love with his girlfriend >Causes/Enables> Jerry asks for his girlfriend to be his bride"
       ]
     },
     {
-      "id": "task748-7d9e6dc64e614166a6ece5867709659f",
-      "input": "story: Joan wanted a to buy her first car. Her parents told her she would have to pay for it herself. Joan picked out a car but it cost way more than her allowance. Joan got a job and saved for months. Joan went and bought her new car with her own money.\n selected sentence: Her parents told her she would have to pay for it herself.",
+      "id": "task748-f7c32e1928d94d7e9295407c7faf7be0",
+      "input": "story: Marlene wanted to make cookies but didn't know how. She asked her mom to show her. Marlene's mom got out the cookie dough and heated the oven. She helped Marlene form the dough into balls and put them on the tray. The cookies were so delicious when the came out of the oven hot.\n selected sentence: The cookies were so delicious when the came out of the oven hot.",
       "output": [
-        "Joan's parents tell her she has to pay >Causes/Enables> Joan pays"
+        "Marlene eats the cookies >Causes/Enables> The cookies are delicious"
       ]
     },
     {
-      "id": "task748-f16518efc8754d96a020d25bf345d712",
-      "input": "story: Kelly went to the chocolate store. At the store she saw some fudge. The fudge was very delicious. It was so good she made her own. She wanted to make it everyday.\n selected sentence: The fudge was very delicious.",
+      "id": "task748-27f84fa43dcf4e6c97514987200c6794",
+      "input": "story: Jason feels that his work chair is very uncomfortable. Jason asks his boss for a new chair. His boss agrees, but says Jason must go get it from the store. Jason drives to the store. He picks up the new chair for his office.\n selected sentence: Jason asks his boss for a new chair.",
       "output": [
-        "The fudge is tasty >Causes/Enables> Kelly eats the fudge",
-        "Kelly tries the delicious fudge >Causes/Enables> Kelly makes some fudge"
+        "Jason ask his boss for a new chair >Causes/Enables> His boss agrees",
+        "Jason asks his boss before a new chair >Causes/Enables> Jason's boss agrees"
       ]
     },
     {
-      "id": "task748-eabcb51925b94d1bb36ebe2a626ae811",
-      "input": "story: Katie loved to watch the beautiful ice skaters. One skater became her favorite. Katie was thrilled when the skater made the Olympic team. She watched the skater's performance nervously. When her competitors skated, Katie prayed they would fall.\n selected sentence: She watched the skater's performance nervously.",
+      "id": "task748-c46c8af460904f7a923965faca053f8d",
+      "input": "story: Kerry and Tony were on their way to work. Tony heard a loud buzzing noise in his ear. It was a bee! Kerry pulled the car over and they both got out. They stood there until the bee flew out the window.\n selected sentence: Kerry and Tony were on their way to work.",
       "output": [
-        "Katie watches the performance >Causes/Enables> Katie has fun"
+        "Kerry and Tony go to work >Causes/Enables> Kerry and Tony arrive at work"
       ]
     },
     {
-      "id": "task748-8bec7babad5f4a7dac6e59973c1f62d2",
-      "input": "story: Ned rode his bike to work everyday because he lived close. One day the weather turned bad so he decided to ride his car. On his way to work he got a flat tire. He was in the rainy fixing it and was late to work. Ned bought a raincoat and still rides his bike even in the rainy now.\n selected sentence: On his way to work he got a flat tire.",
+      "id": "task748-b7dd5f39e50b4450ad1c8e98359bd57a",
+      "input": "story: June's husband noticed that she vacuumed every day. He surprised her with a robot vacuum to do the job. June put up her trusty vacuum and let the robot go to work. But she soon realized she missed the daily chore. When her husband was at work, June short-circuited the robot.\n selected sentence: When her husband was at work, June short-circuited the robot.",
       "output": [
-        "Ned gets a flat tire on his way to work >Causes/Enables> Ned is late to work",
-        "Ned's car gets a flat tire >Causes/Enables> Ned changes the tire"
+        "June's husband is at work >Causes/Enables> June's husband leaves work"
       ]
     },
     {
-      "id": "task748-7995fb52f388498dba2a8f2125fa498c",
-      "input": "story: My father went to the store for eggs. While he was there they had a sale on butter. My father picked up eggs and butter. He also decided to get milk. He drove home and had scrambled eggs for breakfast.\n selected sentence: My father picked up eggs and butter.",
+      "id": "task748-986e73792a1a43f3bf3bfde210f1393d",
+      "input": "story: Tim was waiting for his brother to stop showering. He wanted to have his turn. Tim's brother took a really long time. By the time Tim got in there was no hot water left. Tim was upset with his brother.\n selected sentence: He wanted to have his turn.",
       "output": [
-        "My father gets eggs >Causes/Enables> My father cooks the eggs"
+        "Tim wants to use the shower >Causes/Enables> He is upset at his brother",
+        "Tom is want histurn for showering >Causes/Enables> tom waiting for hisbrother during showering"
       ]
     },
     {
-      "id": "task748-7f606f2f746b4e8fadf00d76fe244df3",
-      "input": "story: Susie was about to get her first kiss. She liked her friend Fred a lot. Fred leaned in and kissed her. But Susie did not like it. It was gross to her.\n selected sentence: Susie was about to get her first kiss.",
+      "id": "task748-04ac35ee3c1143efa71eda940fcf3fa9",
+      "input": "story: Tanner needed food fast. He grabbed the nearest thing. He opened the can of soup. He warmed it up. He ate it for dinner.\n selected sentence: He opened the can of soup.",
       "output": [
-        "Susie is about to get her first kiss >Causes/Enables> Fred gives her a kiss"
+        "He opens a can of soup >Causes/Enables> He warms it up"
       ]
     },
     {
-      "id": "task748-e7af6f7649dd4772bb2a7dfa6a670514",
-      "input": "story: Ed went outside to build a snowman. First he balled up the snow. Then he stacked three balls atop each other. He finished by adding the eyes and nose. Ed was very proud of his snowman!\n selected sentence: Then he stacked three balls atop each other.",
+      "id": "task748-9af14bd0f0214322be2c2265829a088e",
+      "input": "story: Dan loved to tease his sister, Alice. One day, Dan was delighted to find a plastic spider at a store. After purchasing it, he hurried home to place it on Alice's desk. He waited around the corner until she went to her desk. He found her screams hilarious!\n selected sentence: After purchasing it, he hurried home to place it on Alice's desk.",
       "output": [
-        "Ed starts building a snowman >Causes/Enables> Ed finishes building"
+        "Dan hurries to place the spider >Causes/Enables> Dan places the spider"
       ]
     },
     {
-      "id": "task748-72ebc45d89524be1b3416fa71be43d5d",
-      "input": "story: Preslie made the best Memphis BBQ around. Eventually, the health inspector realized Preslie wasn't using pork. Preslie would go down to the local horse stables. He would steal a horse. And then kill the horse to make his special BBQ.\n selected sentence: Preslie made the best Memphis BBQ around.",
+      "id": "task748-a897e4eef5b54177865284c0fae28dec",
+      "input": "story: The concert started when everyone came. The music artist began to sing and dance. Since I had front seat tickets, I was able to directly see her. She tried to reach out to me with her hand. I grabbed it and she pulled me on stage.\n selected sentence: I grabbed it and she pulled me on stage.",
       "output": [
-        "Preslie makes the best BBQ >Causes/Enables> People buy Preslie's BBQ"
+        "I grab the hand >Causes/Enables> I let go"
       ]
     },
     {
-      "id": "task748-cc5bccff06194984957e8ad843f5ff61",
-      "input": "story: The firemen heard the alarm. They dressed in their uniforms. They hurried to the fire. They put out the fire with their hoses. They were very proud of a job well done.\n selected sentence: The firemen heard the alarm.",
+      "id": "task748-f69949f1f66149a08bde9128fdb715f3",
+      "input": "story: Tom was drinking apple juice. But it spilled all over his shirt. He had to go to school. But he had no other shirt to wear. He had no choice but to wear his sister's dress.\n selected sentence: But he had no other shirt to wear.",
       "output": [
-        "The firemen hear the alarm >Causes/Enables> The firemen go to the fire"
+        "Tom has no other shirt to wear >Causes/Enables> Tom wears his sisters dress"
       ]
     },
     {
-      "id": "task748-8fe5790a12a0438a8099ea3fe18278fb",
-      "input": "story: I sat to eat an egg salad sandwich when I got a text. MY girlfriend told me she was coming over. So I scarf down my sandwich and just in the shower. I get out and notice a foul smell, egg salad. Right as I'm going for a spray she walks in, she thought it was me.\n selected sentence: MY girlfriend told me she was coming over.",
+      "id": "task748-44bc4bb27dc544128f7647cdc950e669",
+      "input": "story: Toby has a lot of friends in school and is very popular. Toby got invited to a birthday party with most of his friends. At the party, Toby ate Something bad and his stomach hurt a lot. He tried to find the restroom but there was a line that was too long. Toby ran home in a hurry to use the restroom.\n selected sentence: Toby has a lot of friends in school and is very popular.",
       "output": [
-        "My girlfriend told me she was coming over. >Causes/Enables> I jumped into the shower."
+        "Toby is very popular >Causes/Enables> Toby gets invited to a party"
       ]
     },
     {
-      "id": "task748-0cf2f05706b04587873e1a76691c71d9",
-      "input": "story: Anna loved gymnastics. She wanted to be a professional gymnast when she grew up. So she was eager to try out for her high school gymnastics team! She tried out and was happy to find she had made the team. Not only that - the other members had voted her team captain!\n selected sentence: So she was eager to try out for her high school gymnastics team!",
+      "id": "task748-7d3e68fa5cfd4b0487011b40ac2b15a2",
+      "input": "story: Anna wanted fruit. But she had none in her house! She went out to the backyard. There, she pulled a few bananas off the tree. Then she went in and ate her fruit.\n selected sentence: But she had none in her house!",
       "output": [
-        "Anna tries out >Causes/Enables> Anna makes the team"
+        "Anna doesn't have fruit in her house >Causes/Enables> Anna gets fruit from the backyard",
+        "Anna has no fruits >Causes/Enables> Anna goes to get fruits"
       ]
     },
     {
-      "id": "task748-f460aca1427845249985c0087173e500",
-      "input": "story: Daniel met a pretty girl named Sarah. He decided to talk to her. They talked for hours and hours. Daniel and Sarah both began to like each other. Daniel was glad that he made a new friend.\n selected sentence: They talked for hours and hours.",
+      "id": "task748-780ff11da8744126af337071c3d90fee",
+      "input": "story: Rita genuinely believed that there were forty-nine states in the USA. Her friends tried their hardest to talk some sense into her. Rita kept denying that Hawaii was a state. She insisted that it was a city. Her friends dropped it after a while, but it's still unbelievable.\n selected sentence: Her friends tried their hardest to talk some sense into her.",
       "output": [
-        "Daniel and Sarah talk for hours >Causes/Enables> Daniel and Sarah begin to like each other"
+        "Rita's friends try to correct Rita >Causes/Enables> She denies Hawaii is a state"
       ]
     },
     {
-      "id": "task748-7a47d673851a4fc982cc553ff37d9c59",
-      "input": "story: Bob's doctor told him he needs to stop eating red meat. His blood pressure was very high. Bob went out to eat and ordered a chicken sandwich. He never had one before but he liked it. Switching off of red meat was going to be easier than he thought.\n selected sentence: Bob's doctor told him he needs to stop eating red meat.",
+      "id": "task748-dad7ddfeba0747c7b3968cd6b4b30def",
+      "input": "story: Jake wanted to learn how to cook. He bought Tim Ferriss book \"The 4 hour Chef\". He read the entire book in one week. His first dish was steak and vegetables. His friends loved it so much they asked him to cook from now on.\n selected sentence: His first dish was steak and vegetables.",
       "output": [
-        "Bob's doctor tells him to stop eating red meat >Causes/Enables> Bob stops eating red meat"
+        "Jake cooks steak >Causes/Enables> Jake's friends love it"
       ]
     },
     {
-      "id": "task748-c88acb0d15764ee39933a8aab1955cf4",
-      "input": "story: Kate made a new friend named Jan at the library. They walked to the corner store to buy snacks. Jan bought a can of soda as well. Jan snorted when she laughed and soda came out of her nose. They both laughed as soda spilled out of her nose.\n selected sentence: They both laughed as soda spilled out of her nose.",
+      "id": "task748-3eddff0472ee49fb996ec45885bf6e28",
+      "input": "story: Rob bullied Jim every day at school. Sometimes, Rob would steal Jim's lunch money. Jim decided to bring his lunch so that Rob wouldn't steal it. Jim brought a peanut butter sandwich, but Rob stole the sandwich. Rob took a bite and died because he was allergic to peanuts.\n selected sentence: Jim brought a peanut butter sandwich, but Rob stole the sandwich.",
       "output": [
-        "Kate and Jan laugh >Causes/Enables> Kate and Jan stop laughing"
+        "Rob steals a peanut butter sandwich from Jim >Causes/Enables> Rob dies of a peanut allergy"
       ]
     },
     {
-      "id": "task748-8cc941f046fe4244a083a9a23a5f420e",
-      "input": "story: Someone sent me a new song to check out. I liked it so much that I turned the volume up. I must have turned the volume louder than I thought. The neighbors called the cops on me! I turned down the volume when they told me to.\n selected sentence: I liked it so much that I turned the volume up.",
+      "id": "task748-446fb322911d413bb1b329b2b678193d",
+      "input": "story: The Zimmy family loves animals. So they decided to go to the zoo. They went to the zoo as soon as it opened. They stayed at the zoo all day until it closed. The Zimmy family enjoyed the zoo very much.\n selected sentence: So they decided to go to the zoo.",
       "output": [
-        "I turn the volume up >Causes/Enables> I turn the volume up too high"
+        "The Zimmy family decided to go to the Zoo >Causes/Enables> They stayed at the Zoo all day "
       ]
     },
     {
-      "id": "task748-232601f9908a48f3871c5d6c563d5af5",
-      "input": "story: Amy was upset she lost her new watch. She looked everywhere she could think of and never found it. While in her mom's car she found her watch tucked deep in the seat. Amy realized she was wrong when she accused a classmate of taking it. The next day Amy apologized and gave the girl she accused a cookie.\n selected sentence: Amy was upset she lost her new watch.",
+      "id": "task748-f8fefcc28d1c450093a35e832683adf1",
+      "input": "story: We were driving through the Blue Ridge Mountains in the early spring. It was so beautiful, we decided to pitch our tent and spend the night. We had trouble starting our campfire, but finally got it going. We slept very well, in the fresh air, though we heard some odd noises. The next morning, the ranger told us that a bear had been spotted.\n selected sentence: We had trouble starting our campfire, but finally got it going.",
       "output": [
-        "Amy is upset >Causes/Enables> Amy cheers up"
+        "We get the fire going >Causes/Enables> We put out the fire"
       ]
     },
     {
-      "id": "task748-59d431ba1bc444668d4b256a5b20f0fd",
-      "input": "story: Brad was so much in love with his girlfriend. Brad had dated her for years. One day Brad was coming over to her house. He knocked on the door with flowers. She answered the door and tells him it's over.\n selected sentence: Brad was so much in love with his girlfriend.",
+      "id": "task748-694e443d3da74215a7cf2555d402be59",
+      "input": "story: Gina was very tired. She had not slept well in days. Gina decided to leave work to sleep. When she got home she laid down. Gina had never slept so well.\n selected sentence: Gina had never slept so well.",
       "output": [
-        "Brad is so in love with his girlfriend >Causes/Enables> Brad knocks on her door with flowers",
-        "Brad is in love with his girlfriend >Causes/Enables> Brad brings his girlfriend flowers"
+        "Gina sleeps >Causes/Enables> Gina wakes up"
       ]
     },
     {
-      "id": "task748-a1230e7419074c18b3980409d3d803ba",
-      "input": "story: I was lonely as a child. I was shy and afraid of people. I solved my problem by having imaginary friends. I am an adult now. I still think about my old friends.\n selected sentence: I am an adult now.",
+      "id": "task748-6b44118abf444973a03cea771b097d8b",
+      "input": "story: Ed went outside to build a snowman. First he balled up the snow. Then he stacked three balls atop each other. He finished by adding the eyes and nose. Ed was very proud of his snowman!\n selected sentence: First he balled up the snow.",
       "output": [
-        "I am an adult >Causes/Enables> I still think about my old friends",
-        "I am an adult >Causes/Enables> I think about my old friends"
+        "Ed begins building >Causes/Enables> Ed finishes building"
       ]
     },
     {
-      "id": "task748-b7126f0d510946618ce2c67657cfd85d",
-      "input": "story: Janet was very excited that it was Christmas so she could open gifts. She raced downstairs to take a look at the presents under the tree. To her delight, there were a dozen gifts with her name on them. Janet immediately opened every gift she could get her hands on. She was thrilled that she got everything she asked for the holidays.\n selected sentence: Janet was very excited that it was Christmas so she could open gifts.",
+      "id": "task748-e788cc9e705040e5a9dcb9a315b3a46f",
+      "input": "story: When I was a teenager, my mom and I were going on a shopping trip. I was really hungry, so I decided to make a snack before we left. I put a ham and cheese sandwich in the microwave, and asked how long. Mom thought I meant how long before we left, and said 10 minutes. I ended up burning my sandwich after putting it in for 10 minutes.\n selected sentence: When I was a teenager, my mom and I were going on a shopping trip.",
       "output": [
-        "Janet is excited for Christmas >Causes/Enables> Janet opens gifts"
+        "My mom and I go on a shopping trip >Causes/Enables> I make food before we go"
       ]
     },
     {
-      "id": "task748-54b8eedf3c2c42a7ba7e3292dfd2981b",
-      "input": "story: David was a college student. He did not have a lot of extra money. David saw a nice blue velvet couch on the curb with a free sign on it. David called a friend with a truck to help him move it to his house. David had a nice blue velvet couch.\n selected sentence: David was a college student.",
+      "id": "task748-20627930fb5e4d6ab67b81af302fe4da",
+      "input": "story: Stephen woke up to a cold morning. He walked outside. There was ice on the ground. A old woman was about to step on the ice. Stephen saved her from the fall.\n selected sentence: He walked outside.",
       "output": [
-        "David is a student >Causes/Enables> David goes to school"
+        "Stephen walks outside >Causes/Enables> Stephen sees ice on the ground"
       ]
     },
     {
-      "id": "task748-40c32726a3eb400b911909918cd1b07e",
-      "input": "story: It was Tim's birthday. He couldn't wait to see his presents. He got a new shirt. He got a new hat. His favorite gift was the radio that made him jump for joy!\n selected sentence: He got a new shirt.",
+      "id": "task748-f7dae10f9a6d493bb91e18cf4d437c72",
+      "input": "story: I went shopping with my grandmother today. We bought lots of fruit. But the apples were my favorite. She cut them up, and baked a pie with them! The pie was delicious.\n selected sentence: We bought lots of fruit.",
       "output": [
-        "Tim gets a shirt >Causes/Enables> Tim wears the shirt"
+        "We buy lots of fruit >Causes/Enables> We cut them up",
+        "My grandmother and I buy lots of fruit >Causes/Enables> We eat lots of fruit"
       ]
     },
     {
-      "id": "task748-26e1b21e462849048593b2fff8a006a9",
-      "input": "story: Sara was at her friend's house. They were jumping around and playing make believe. Suddenly, she fell on to the table. The leg snapped and the whole thing broke. Her friend's parents were so mad and sent her home.\n selected sentence: They were jumping around and playing make believe.",
+      "id": "task748-eddfcca683db43d09a7aa82cb38b4c54",
+      "input": "story: Silas wanted to find a new girlfriend. He used a dating service to make a blind date. His date did not show up. There was a girl there whose date did not show up too. They talked about their mutual problem, then began dating.\n selected sentence: His date did not show up.",
       "output": [
-        "Sara and her frirend were jumping around, playing make believe >Causes/Enables> Sara fell on a table "
+        "Silas's date doesn't show up >Causes/Enables> Silas talks to another girl"
       ]
     },
     {
-      "id": "task748-57388b8a81fa44acba39d0736de44618",
-      "input": "story: Ryan was a little boy and loved going to the picnic store. But his parents said that they couldn't afford anything from the store. Ryan decided to save his pocket money to go to the store. Ryan saved up enough pocket money to buy a picnic basket. Ryan's mum took him to his favourite place to get his basket.\n selected sentence: But his parents said that they couldn't afford anything from the store.",
+      "id": "task748-101298a4c54c4bbb930d9dc0725be667",
+      "input": "story: Bob asked Jane for some money. Jane said that she'd give it to him tomorrow. The next day Bob asked her for the money. She said that tomorrow is always a day away. And Bob punched her in the face.\n selected sentence: Bob asked Jane for some money.",
       "output": [
-        "Ryan's parents can't afford anything from the store >Causes/Enables> Ryan saves up money"
+        "Bob asks Jane for some money >Causes/Enables> Jane says she'd give it tomorrow"
       ]
     },
     {
-      "id": "task748-8c6bcf50a76b48b482320dea83c8ed58",
-      "input": "story: Susie saw Someone flying a kite at the park one day. She immediately asked her mom to buy her one. She even volunteered to do extra chores for a week. Susie's mom took her to pick out the kite she wanted. She decided on a purple one that looked like a giant squid.\n selected sentence: She even volunteered to do extra chores for a week.",
+      "id": "task748-88e5b2d30fe34e0881833ecb8da48342",
+      "input": "story: Taylor liked to feed the bears at the dump. His dad warned him not to do it. Taylor didn't care. One day the bears jumped on top of his car to get their treats. Taylor never came back to the dump again.\n selected sentence: His dad warned him not to do it.",
       "output": [
-        "Susie volunteers to do chores >Causes/Enables> Susie does chores"
+        "Taylor's dad warns Taylor not to do it >Causes/Enables> Taylor doesn't care"
       ]
     },
     {
-      "id": "task748-bddf902a17834384948e48f3c1d695c6",
-      "input": "story: Marissa was a finalist in her school's spelling bee. She was not sure how to spell her next word. To fool the judges, she mumbled one of the vowels. Her trick worked and she won the spelling bee. Even though she won, she is not proud of her victory.\n selected sentence: To fool the judges, she mumbled one of the vowels.",
+      "id": "task748-2b88342661ff47c794a538b2808ba174",
+      "input": "story: Jan checked to make sure no one was around. Her two older brothers had been sneaking around the garden lately. Being a curious child, Jan wanted to know what they were up to. She carefully opened the door to her brother's room. Inside the back of their closet, she found several jars with spiders.\n selected sentence: Being a curious child, Jan wanted to know what they were up to.",
       "output": [
-        "Marissa mumbled an answer >Causes/Enables> The judges were fooled",
-        "She fools the judges >Causes/Enables> She wins the spelling bee"
+        "Jan wants to know about their activities >Causes/Enables> She opens the door to their room",
+        "Jan wants to know what her brothers are up to >Causes/Enables> Jan goes to her brothers' room"
       ]
     },
     {
-      "id": "task748-93a8bb0f742c4ea781efe148580c9b19",
-      "input": "story: Maria was on her way to work. She was wearing white pants. When she stopped at a light, she took a drink of coffee. However, she missed her mouth and it dropped to her pants. Luckily she had stain remover.\n selected sentence: She was wearing white pants.",
-      "output": [
-        "Maria is wearing pants >Causes/Enables> Maria takes off the pants"
-      ]
-    },
-    {
-      "id": "task748-5554906c91dc4c9b9e16217a8be49a09",
-      "input": "story: Jimmy opened the door to go outside and play. But he left it open behind him. Soon, a flash of gold ran by - it was spot! The dog seemed hopelessly lost, but then a bark! The bark around the corner was spot, bringing a ball home!\n selected sentence: Jimmy opened the door to go outside and play.",
-      "output": [
-        "Jimmy opened the door to go outside >Causes/Enables> A dog ran in his house",
-        "Jimmy opens the door >Causes/Enables> Jimmy goes outside"
-      ]
-    },
-    {
-      "id": "task748-68c5fa9288d94a9d8fce08b4249773ba",
-      "input": "story: Tom's son wanted to watch a real car race. So Tom and his son went to a famous race course to watch one. It was a 200 lap race. And Tom's son quickly got bored. He felt was embarrassed for wanting to watch the race.\n selected sentence: It was a 200 lap race.",
-      "output": [
-        "It is a 200 lap race >Causes/Enables> Tim gets bored",
-        "Tom's son attends a 200 lap race >Causes/Enables> Tom's son gets bored"
-      ]
-    },
-    {
-      "id": "task748-901a584b663a409e9ac1e26f8f363c19",
-      "input": "story: Carl was playing videogames with a friend. His friend was a sore loser. Carl kept letting him win. At one point Carl beat him. Carl's friend became visibly upset over it.\n selected sentence: At one point Carl beat him.",
-      "output": [
-        "Carl is playing video games >Causes/Enables> Carl wins at the games",
-        "Carl beat his friend at a video game >Causes/Enables> Carl's friend became visibly upset"
-      ]
-    },
-    {
-      "id": "task748-76c24889ae574776b9dbad5c5716c449",
-      "input": "story: Tim was eating hard candy. His mother told him not to eat too much. Tim did not listen. After an hour, his teeth hurt really bad. Tim never ate hard candy again.\n selected sentence: Tim was eating hard candy.",
+      "id": "task748-68e93bad3e7843e38d4abd25c45c4b91",
+      "input": "story: Tim was eating alone in the cafeteria. He was lonely. He thought he would never make any friends. He then felt a tap on his shoulder. It was Jim, who wanted to invite Tim to eat with his friends.\n selected sentence: Tim was eating alone in the cafeteria.",
       "output": [
         "Tim eats >Causes/Enables> Tim finishes eating",
-        "Tim eats hard candy >Causes/Enables> His teeth hurt really bad"
+        "Tim eats alone in the cafeteria >Causes/Enables> Jim invites Tim to eat with his friends"
       ]
     },
     {
-      "id": "task748-4707af53251d4bd69e640ad3e5e298ea",
-      "input": "story: A little boy fell on the playground. People went to help. He showed his cut. The moms fixed it. They put a bandaid on it.\n selected sentence: He showed his cut.",
+      "id": "task748-05eb1b33f1654dd188b50ce550d5eac5",
+      "input": "story: Matthew was not happy to be going shopping with his mother. The grocery store was no fun but then they went next door. It was a new pet shop filled with mice, birds, and fish! To a delighted Matthew, it was like a zoo. His mother let him pick his first pet, a goldfish with black spots.\n selected sentence: Matthew was not happy to be going shopping with his mother.",
       "output": [
-        "He shows his cut >Causes/Enables> The moms fix it",
-        "The boy shows the cut to the moms >Causes/Enables> The moms put a band aid on the cut"
+        "Matthew goes shopping with his mother >Causes/Enables> The grocery store is no fun"
       ]
     },
     {
-      "id": "task748-4d69c67317ed499ca62e5bec6dcb0979",
-      "input": "story: Elena arrived to school. He took her books out of the back seat. While she wasn't looking a car knocked out her left tail light. Before Elena had the chance to see who did it, the car drove off. The police wasn't able to help since the driver fled.\n selected sentence: The police wasn't able to help since the driver fled.",
+      "id": "task748-c6ba33f99258488eab208d7394e25143",
+      "input": "story: We bought a kitten for my daughter. For weeks I tried to teach her to use the litter box. Instead the cat liked to pee in the laundry pile. I switched the laundry pile with the litter box. The next day she peed in the litter box three times.\n selected sentence: The next day she peed in the litter box three times.",
       "output": [
-        "The police can't help >Causes/Enables> The police don't help"
+        "The cat urinates in the litter box >Causes/Enables> Somebody needs to clean the litterbox"
       ]
     },
     {
-      "id": "task748-8f76a2d96583427e9c94413a40890d81",
-      "input": "story: Samuel liked the moon a lot. He liked how it provided light during the night. One day, he decided that he would go outside to see the moon. When he went outside, he saw a full moon in all of its beauty. Now, Samuel watches the moon every night before sleeping.\n selected sentence: When he went outside, he saw a full moon in all of its beauty.",
+      "id": "task748-70d86c9766a94cbea8a1292ab5ac8ae6",
+      "input": "story: Erin was always losing things in her room. Her room was very messy and disorganized. She always started to clean but never finished. One Saturday she decided to spend the whole day cleaning her room. She found at least ten things that she had been missing.\n selected sentence: One Saturday she decided to spend the whole day cleaning her room.",
       "output": [
-        "Samuel goes outside >Causes/Enables> Samuel sees the moon"
+        "Erin decides to clean her room >Causes/Enables> She cleans her room",
+        "Erin cleans her room >Causes/Enables> Erin finds at least ten thing that had been lost in her room"
       ]
     },
     {
-      "id": "task748-45d1d48dda7146d19ca160fea31a24f9",
-      "input": "story: The nights were getting longer. The temperature started to drop. All the leaves on the trees began to change color. The leaves began to die. It was the beginning of fall.\n selected sentence: All the leaves on the trees began to change color.",
+      "id": "task748-8d529d9923a24fd89b8d137123d30127",
+      "input": "story: I drove to Starbucks one morning to get coffee. When I got back to the car I saw it had a flat tire. I called my 12 year old son at home. He brought a pump, riding a skateboard. I was able to fill up the tire enough to drive to a gas station.\n selected sentence: I called my 12 year old son at home.",
       "output": [
-        "The leaves begin to change color >Causes/Enables> The leaves fall"
+        "I called my son at home >Causes/Enables> He arrived with a pump"
       ]
     },
     {
-      "id": "task748-d403a8dcc4b040b283f323c03d700303",
-      "input": "story: Two boys bought a tub of popcorn at the movie theater. Every time one boy grabbed some, the other would too. They each took turns eating the popcorn. They ended up eating the same amount each. The boys got a refill on popcorn and did it again.\n selected sentence: They each took turns eating the popcorn.",
+      "id": "task748-6d3676ff5ace48db9426ed608ad9e1a5",
+      "input": "story: A little toddler wanted to swing. He pulled his dad to the swing. The son got on the swing. The dad pushed him. The baby was so happy!\n selected sentence: He pulled his dad to the swing.",
       "output": [
-        "Two boys take turns eating popcorn >Causes/Enables> Two boys eat the same amount of popcorn"
+        "The toddler pulls his dad to the swing >Causes/Enables> The toddler swings while his dad pushes him"
       ]
     },
     {
-      "id": "task748-c2358cfc3dd8445499f6822e96627c61",
-      "input": "story: Billy was three years old. He loved to play with blocks. He only had one set to play with. His father bought him a new set to play with. He now has more blocks than he knows what to do with.\n selected sentence: He only had one set to play with.",
+      "id": "task748-ca5a846db65c4f2d89994ed17e28e352",
+      "input": "story: Joe dreamed of being the fastest kid in his 3rd grade class. His friends always held races during recess. Joe practiced constantly, striving to be the best. But when the races started that year, a girl named Lisa won the race. Joe was disappointed, but decided he would not stop trying.\n selected sentence: Joe was disappointed, but decided he would not stop trying.",
       "output": [
-        "Billy has only one set of blocks >Causes/Enables> Billy's father buys Billy a new set of blocks",
-        "Billy has blocks >Causes/Enables> Billy plays"
+        "Joe decides he would not stop trying >Causes/Enables> Joe doesn't stop trying"
       ]
     },
     {
-      "id": "task748-341aade4f0ee463898a1936c110a6da8",
-      "input": "story: Mike always thought drinking white wine was not for men. He made fun of his friends whenever they had white wine. One day Mike tried drinking it on his own. He loved the crisp, fresh flavor of white wine. From that day on, Mike loved white wine.\n selected sentence: From that day on, Mike loved white wine.",
+      "id": "task748-3016f4f31ccd4840995580a61e6d4c8e",
+      "input": "story: Sadie was on the volleyball team. She had the ball in her hands. She went to spike it over the net. Suddenly, the ball smacked another girl in the face. Sadie apologized but was asked to leave the court.\n selected sentence: She went to spike it over the net.",
       "output": [
-        "Mike loves wine >Causes/Enables> Mike drinks wine"
+        "Sadie spikes the ball >Causes/Enables> The ball smacks a girl"
       ]
     },
     {
-      "id": "task748-88eae6a8111f4172b48667f30a782e99",
-      "input": "story: I worked in a church for a while as a youth minister. The kids loved me, though they were a bit quiet and shy. We did things all summer, and had a fantastic time. Though, their parents didn't trust me because of my age. They had me fired, and I had to say goodbye to their kids.\n selected sentence: The kids loved me, though they were a bit quiet and shy.",
+      "id": "task748-7271c690a5fe46788075c55c174893a8",
+      "input": "story: I woke up late this morning. As soon as I got out of the shower I made myself a bowl of cereal. I forgot to put the milk away. After I got dressed I rushed into the kitchen looking for my car keys. My elbow hit the milk jug on the counter and it spilled all over.\n selected sentence: I woke up late this morning.",
       "output": [
-        "The kids love me >Causes/Enables> The kids spend time with me"
+        "I wake up late >Causes/Enables> I forget about the milk",
+        "I wake up late >Causes/Enables> I rush"
       ]
     },
     {
-      "id": "task748-584f245e1a6048b1bb40b11d3bb31641",
-      "input": "story: It was a very rainy day. I wanted to be safe so I drove extra slow. When I tried to step on the brakes they did not work. I was hydroplaning because I stepped on the brakes to hard and fast. I crashed into another car and hurt somebody.\n selected sentence: I was hydroplaning because I stepped on the brakes to hard and fast.",
+      "id": "task748-63fbe0ba39be4780b547e1b02d69e833",
+      "input": "story: Christian's dad made him go to bed early. He went to his room and lied his bed. He was not tired. He tossed and turned for over an hour trying to go to sleep. His dad brought him a glass of warm milk and he fell fast asleep.\n selected sentence: Christian's dad made him go to bed early.",
       "output": [
-        "I step on the brakes too hard and fast >Causes/Enables> The brakes do not work"
+        "Christian goes to bed >Causes/Enables> Christian falls asleep"
       ]
     },
     {
-      "id": "task748-f81fe192e0524154b94e04bda09484dc",
-      "input": "story: I saw the new Star Wars movie this month. My four year old neighbor Joe is a big fan. He hasn't seen the movies but knows all about them. I told him I saw the new movie. He surprised me by saying he knew Hans Solo was killed.\n selected sentence: I told him I saw the new movie.",
+      "id": "task748-f781df59924941a9a5661ecf1b531aa3",
+      "input": "story: Gina's 5th hour class was English. It was the first day so the teacher just talked for most of the class. Gina sat and bored waiting for class to end. When the bell rang she went to the hall looking for her friends. She gave up when the bell rang signalling the last class of the day.\n selected sentence: Gina sat and bored waiting for class to end.",
       "output": [
-        "I tell Joe I saw the movie >Causes/Enables> Joe tells me about the movie"
+        "Gina sits >Causes/Enables> Gina gets up",
+        "She waits for class to end >Causes/Enables> She listens for the bell"
       ]
     },
     {
-      "id": "task748-27ab6ce84edc4a0d98ab5528c71a6d8e",
-      "input": "story: One morning, two friends decided to go to a horse show. They weren't very experienced at riding but one day hoped to compete. They saw a wide variety of horses of different sizes and colors. The two friends had a lot of fun watching the different events. At the end of the day they left the show very excited about riding.\n selected sentence: They saw a wide variety of horses of different sizes and colors.",
+      "id": "task748-5ffe21288a6f410bbe1fe9184a912495",
+      "input": "story: Ben and his friends were sitting on top of a hill. Ben sat down on his skateboard and sped down the hill. When he reached the bottom his friends said they wanted to try too. His friend began to copy Ben but slipped off halfway down the hill. He hurt his arm badly and Ben and his friends called an ambulance.\n selected sentence: Ben sat down on his skateboard and sped down the hill.",
       "output": [
-        "Two friends see horses >Causes/Enables> Two friends have fun"
+        "Ben speeds down the hill >Causes/Enables> Ben reaches the bottom",
+        "Ben speeds down the hill >Causes/Enables> Ben reaches the bottom of the hill"
       ]
     },
     {
-      "id": "task748-0ce6ccbd7e3d45ffbdd4581c8b237b60",
-      "input": "story: Ray was forced to go back to his hometown. Ray thought the trip would be boring. When he got there he was surprised at what he saw. Memories flooded back into his mind of his childhood. Ray had the best weekend of his life!\n selected sentence: Memories flooded back into his mind of his childhood.",
+      "id": "task748-b30ef66f990444da839495a952a9cc4e",
+      "input": "story: I played some video games with friends. We played a very close game of NBA 2k16. The game went back and forth. I hit a buzzer beater to win the game. I dabbed in my friend's face.\n selected sentence: The game went back and forth.",
       "output": [
-        "Ray remembers his childhood at his hometown >Causes/Enables> He has a great weekend"
+        "The game goes back and forth >Causes/Enables> I win"
       ]
     },
     {
-      "id": "task748-332902e72eb6441d95f2bb7d727b9d43",
-      "input": "story: Rita was ready to board the train and go home. She checked to make sure she had all of her items. She realized that she did not have her train ticket! She ran home from the station to find the ticket. By the time she got back to the station, the train had left.\n selected sentence: Rita was ready to board the train and go home.",
+      "id": "task748-5d77ea5ae4354be9a1fcc97a7f3bc103",
+      "input": "story: Sally's two dogs love to ride in in her car. Since she had errands to run today, she took them along. The weather was very nice so Sally opened the windows for them. Both of the dogs put their heads out of the window to feel the air. Once the errands were done, the dogs were not happy to go back home.\n selected sentence: Sally's two dogs love to ride in in her car.",
       "output": [
-        "Rita is ready to board the train >Causes/Enables> Rita makes sure she has all her items",
-        "Rita is ready to board >Causes/Enables> Rita tries to board"
+        "Sally's two dogs love riding >Causes/Enables> Sally's two dogs ride"
       ]
     },
     {
-      "id": "task748-d961e5bb2fd34884976f80b69f6e4e5f",
-      "input": "story: I had a beautiful goldfish. One day it died. At first, I was sad. But, then I decided to eat him. My mom found out and grounded me for a month.\n selected sentence: One day it died.",
+      "id": "task748-08e28f8b335c44f7a7fce074a9d99645",
+      "input": "story: Tasha went to the movies with her friend Gordie. Tasha accidentally spilled the popcorn they were eating. Gordie offered to buy some more. Tasha remembered that her parents taught her to be polite. Tasha told Gordie it was her turn to buy the popcorn this time.\n selected sentence: Tasha accidentally spilled the popcorn they were eating.",
       "output": [
-        "My goldfish dies >Causes/Enables> I eat my goldfish"
+        "Tasha drops the popcorn >Causes/Enables> Tasha buys more popcorn"
       ]
     },
     {
-      "id": "task748-07ed167ba40941558c50fae4efa34e29",
-      "input": "story: Gina was hungry. Her grandmother was watching her TV shows and hadn't cooked. On the table was one slice of apple pie. She thought the last slice was saved for her. But her grandma was saving it for her grandpa.\n selected sentence: Her grandmother was watching her TV shows and hadn't cooked.",
+      "id": "task748-fb7d15f9c18f47f692bcbe6762eb85fb",
+      "input": "story: Ellen and her mom want to go out for frozen yogurt. They arrive at the store and there are so many choices of yogurt. They are allowed to try some and they choose the best ones. After filling up a cup of yogurt, they then have a choice of toppings. When they go to pay for the yogurt, they have to weigh the cups.\n selected sentence: Ellen and her mom want to go out for frozen yogurt.",
       "output": [
-        "Her grandma doesn't cook >Causes/Enables> Gina is hungry"
+        "Ellen and her mom want to go out for frozen yogurt >Causes/Enables> Ellen and her mom go to the frozen yogurt store",
+        "They go out for frozen yogurt >Causes/Enables> They arrive at the store"
       ]
     },
     {
-      "id": "task748-e99b00ffa2c545e3b02d6e0a3cb8dc00",
-      "input": "story: Al and Tara can't agree what to watch on TV. Al wants to watch soaps. Tara wants to watch the news. They play Paper, Rock, Scissors to decide. Tara wins and gets to watch what she wants.\n selected sentence: Tara wants to watch the news.",
+      "id": "task748-1b729a01cde94d46b0315369525dd8f8",
+      "input": "story: June got out of school in May. She went to Germany for a vacation. She met a handsome man. They fell in love. He moved back to the US with her.\n selected sentence: They fell in love.",
       "output": [
-        "Tara wants to watch the news >Causes/Enables> Tara watches the news",
-        "Tara wants to watch the news >Causes/Enables> Al and Tara play Paper, Rock, Scissors"
+        "June and the man fall in love >Causes/Enables> They get married"
       ]
     },
     {
-      "id": "task748-93c7c6fcfe0e41189b9d5432fc7c2013",
-      "input": "story: Ray got up to let the dog out but he was half asleep. While Rocky did his business Ray rubbed his eyes and yawned. Ray hated being awakened in the middle of the night. When Rocky didn't come back right away Ray called him. If Ray had been awake he would have noticed the bear on his porch.\n selected sentence: While Rocky did his business Ray rubbed his eyes and yawned.",
+      "id": "task748-acb61eaf64ec42c394105bf1601b2f6c",
+      "input": "story: My friends took me to the back of their house. Jeffrey pulled out a cigarette. He asked if I tried it before and I said no. He forced me to try it. When I took a puff, I started to cough.\n selected sentence: He forced me to try it.",
       "output": [
-        "Ray yawns >Causes/Enables> Ray goes to sleep"
+        "He forces me to try it >Causes/Enables> I take a puff"
       ]
     },
     {
-      "id": "task748-671df40162114d8b998781e3586da9dc",
-      "input": "story: My friend needed help with his homework assignment. Since class started in 10 minutes, I allowed him to copy my work. The next day, I forgot to bring my lunch to school. When my friend noticed, he was disappointed to. On the bright side, he shared some of his lunch with me.\n selected sentence: Since class started in 10 minutes, I allowed him to copy my work.",
+      "id": "task748-c0078f5914e649b18c1f22200968cb79",
+      "input": "story: Galen's father loved sailboats. Galen never had time to learn to sail. One day, he decided that he wanted to try it out. Galen asked his father to teach him to sail. He now has a new favorite hobby.\n selected sentence: One day, he decided that he wanted to try it out.",
       "output": [
-        "I let him copy my work >Causes/Enables> He copies my work"
+        "Galen decides to try >Causes/Enables> Galen tries"
       ]
     },
     {
-      "id": "task748-6da8f381eed74e448f96a1bfdb4bf441",
-      "input": "story: Amy and Beth were ready to start the 7th grade. They were over the summer and ready for school to start. They decided since they were adults to get their ears pierced. Amy's mother forbade it. Amy was so upset she didn't speak to her mom for a week.\n selected sentence: They were over the summer and ready for school to start.",
+      "id": "task748-71b51a5cb8914b1aa3afe0c1a958b370",
+      "input": "story: Jeff tried out for the high school football team. Jeff wanted to play quarterback. Three other quarterbacks tried out for the team as well. Jeff made the team and competed to be the starter. Jeff was named the starting quarterback.\n selected sentence: Jeff made the team and competed to be the starter.",
       "output": [
-        "Amy and Beth are ready to start school >Causes/Enables> Amy and Beth start school"
+        "Jeff competes to be the starter >Causes/Enables> Jeff is named the starting quarterback"
       ]
     },
     {
-      "id": "task748-68512d00202240a6b2cfd98543aeaa15",
-      "input": "story: Clara is getting tomorrow. She is very nervous. She stays awake all night. The next morning she jumps up. Clara runs out the door to get ready.\n selected sentence: She is very nervous.",
+      "id": "task748-be7515a86d3e40d19d29607beb1367f0",
+      "input": "story: The students heard the fire alarm. They were worried, but their teacher calmly lined them up at the door. They were led into a field. The students learned that the fire alarms was just a drill exercise. The students were relieved as they returned to class.\n selected sentence: The students were relieved as they returned to class.",
       "output": [
-        "Clara is nervous >Causes/Enables> Clara calms down"
+        "The students return to class >Causes/Enables> The students learn"
       ]
     },
     {
-      "id": "task748-ff49ba92a1644f28b427b63add8e8f39",
-      "input": "story: Our 2 year old granddaughter visited us in Boston this weekend. She lives in NYC. She was leaving on Monday. We tried to take a photo of her with us. She did not want a photo but we got one.\n selected sentence: Our 2 year old granddaughter visited us in Boston this weekend.",
+      "id": "task748-c826ac1a64ee49308ae9bc1df7f23030",
+      "input": "story: Fred was looking for his shoes. Fred found them underneath the bed. When Fred reached under the bed, he found Something else. He found a dirty magazine. Fred didn't leave the house on time.\n selected sentence: When Fred reached under the bed, he found Something else.",
       "output": [
-        "Our 2 year old granddaughter visits us >Causes/Enables> Our 2 year old granddaughter leaves"
+        "Fred finds the magazine >Causes/Enables> Fred reads the magazine"
       ]
     },
     {
-      "id": "task748-69be753efe3046cdbe1d87a325f105d0",
-      "input": "story: Jessica is on vacation in Hawaii. She loves everything about the island. She tells her parents she wants to stay forever. Her parents tell her she can stay if she likes. Jessica stays in Hawaii for the rest of her life.\n selected sentence: She tells her parents she wants to stay forever.",
+      "id": "task748-45d48f835fb94590b9fcaa050210d896",
+      "input": "story: Alison hates turtles. Allison's class went on a field trip to a zoo. They saw many turtles. Alison almost threw up from looking at the turtles. She was very glad when they left the zoo.\n selected sentence: Allison's class went on a field trip to a zoo.",
       "output": [
-        "She tells her parents she wants to stay forever >Causes/Enables> Her parents tell her she can stay if she likes"
+        "Allison's class goes to the zoo >Causes/Enables> Allison's class sees turtles"
       ]
     },
     {
-      "id": "task748-0ad258ffaf474b76ad94b39f83884ec3",
-      "input": "story: I had to go get a refill on my medication. I went to the pharmacy, but the pharmacist was out. I had to wait forever for him to return. When he returned, he was able to give me my medication. I'm glad I waited for him.\n selected sentence: I'm glad I waited for him.",
+      "id": "task748-ac6a447f4c5549c6918418ba08c673b6",
+      "input": "story: Howard had his first baseball game. He was very nervous. He ends up striking out. He left the game disheartened. His parents gave him cake to cheer him up.\n selected sentence: His parents gave him cake to cheer him up.",
       "output": [
-        "I'm glad I waited for the pharmacist >Causes/Enables> The pharmacist gave me my medication"
+        "Howard gets cake >Causes/Enables> Howard eats"
       ]
     },
     {
-      "id": "task748-d936a4ab6ebe43ca8eeae8f83874540f",
-      "input": "story: Angel got a big bonus for all of her hard work at her job. She decided to treat herself, but wasn't sure how. She chose to go shopping. She wanted new clothes anyhow. She went online and found a few outfits she liked and bought them.\n selected sentence: Angel got a big bonus for all of her hard work at her job.",
+      "id": "task748-7899b0c1e1164a0a8d465a0c76d74be0",
+      "input": "story: Amy rode the bus to work everyday. One day Amy left her bus card at home. She explained to the driver she had no card today. The driver suggested Any pay or go home and get the card. Amy was shocked the driver would be so rude after months of riding.\n selected sentence: One day Amy left her bus card at home.",
       "output": [
-        "Angel gets a bonus >Causes/Enables> Angel buys clothes"
+        "Amy leaves the card at home >Causes/Enables> Amy can't take the bus"
       ]
     },
     {
-      "id": "task748-0f9802c028184989b35c877e38268193",
-      "input": "story: Garrett got a flat tire. He pulled over. People asked him to help. He told them to keep driving. He fixed the tire himself.\n selected sentence: He told them to keep driving.",
+      "id": "task748-35947f084f7e4a1f96dfb10732d2e89b",
+      "input": "story: Joy was very pale. She wanted a tan. The sun didn't shine where she lived. But she had break from work. So she went on a beach vacation to California and got her tan.\n selected sentence: But she had break from work.",
       "output": [
-        "Garrett tells them to keep driving >Causes/Enables> They keep driving",
-        "Garrett turns down help from others >Causes/Enables> He fixes his tire by himself"
+        "Joy has a break from work >Causes/Enables> Joy goes on vacation"
       ]
     },
     {
-      "id": "task748-bba916dfcc434a07b4daa85923b64fe6",
-      "input": "story: We're trying to potty train our new kitty. We bought her a pretty pink litter box with a lid and sliding tray. We put her in it every time she eats to see if she will use it. So far she seems to be getting used to it. She likes to scratch the sand up behind her.\n selected sentence: So far she seems to be getting used to it.",
+      "id": "task748-1dc3eb90303e4c71905cedb6694e4ba3",
+      "input": "story: Jason started to feel awful. His body ached and he felt very tired. He stayed home from work, but wasn't getting any better. Jason went to the doctors. Jason learned that he had the flu.\n selected sentence: His body ached and he felt very tired.",
       "output": [
-        "The cat gets used to the litter box >Causes/Enables> The cat enjoys scratching the sand"
+        "Jason feels tired >Causes/Enables> Jason sleeps"
       ]
     },
     {
-      "id": "task748-29be198ce3484cb3bb67ae51a363a3c1",
-      "input": "story: Red was a good dog. He was very good at tracking. One time, Red tracked a cat for three hours. He found the cat and barked at me. I had to come rescue the cat before Red attacked it.\n selected sentence: He found the cat and barked at me.",
+      "id": "task748-4f647b0f9d064eb8861c846533d4a224",
+      "input": "story: When I was little I used to chew my fingernails as a habit. My mom told me if I continued doing this it would make me really fat. Her plan worked, as my fear of getting huge stopped my nasty habit. Well, one day we saw our neighbor in the store, being quite pregnant. I pointed at her belly, saying I knew what she had been doing!\n selected sentence: When I was little I used to chew my fingernails as a habit.",
       "output": [
-        "Red barks at me >Causes/Enables> I rescue the cat"
+        "I chew on my fingernails as a habit >Causes/Enables> My mom says chewing on fingernails will make me really fat",
+        "I did chew on my fingernails >Causes/Enables> my mother said to me that chewing my nails would make me fat"
       ]
     },
     {
-      "id": "task748-5f7c87052304420d9858ec0080502ca4",
-      "input": "story: Larry was trying to finish his book report before school. He wasn't done writing when the bus drove up. On the bus he continued working and didn't talk to his friends. With some difficulty he was even writing while walking up to the door. He put down the last period just as he entered the classroom.\n selected sentence: With some difficulty he was even writing while walking up to the door.",
+      "id": "task748-e8290755f1164315be35fd8129ab19ba",
+      "input": "story: Tom was on his middle school basketball team. He wanted to be on his high school team in the following year. He attended a summer basketball camp. He improved his skills at the camp. He made his high school basketball team.\n selected sentence: He wanted to be on his high school team in the following year.",
       "output": [
-        "Larry writes as he walks to the classroom >Causes/Enables> Larry finishes before he enters the room"
+        "Tom wants to join the team >Causes/Enables> Tom joins the team"
       ]
     },
     {
-      "id": "task748-4ad72249ec6b4826a91d853c5002cfe3",
-      "input": "story: Maria was so excited to finally get to go to the zoo. She had heard there was a lion there that you were allowed to pet. The lion was old, and it had been de-clawed. When she got to the zoo, she found the lion and waited in line. When her turn came, she hugged the lion.\n selected sentence: When she got to the zoo, she found the lion and waited in line.",
+      "id": "task748-9cf999edf80b4dba96a702df3a3e0b8b",
+      "input": "story: At work we ran out of gravy mix. I had to make gravy from scratch. I had never made gravy from scratch so I looked up a recipe. I followed the recipe as best as I could. However, I ended up burning the gravy.\n selected sentence: At work we ran out of gravy mix.",
       "output": [
-        "Maria finds the lion and waits in line >Causes/Enables> Maria hugs the lion"
+        "I ran out of gravy mix at work >Causes/Enables> I had to make gravy mix from scratch "
+      ]
+    },
+    {
+      "id": "task748-d8388a2069b24d0c8ad99f48dac80244",
+      "input": "story: There was a mess on the sidewalk. It was the soda her sister spilled. Ants were everywhere. Gina's father didn't care who made the mess. It was Gina's job to clean up.\n selected sentence: It was the soda her sister spilled.",
+      "output": [
+        "The mess on the ground is soda >Causes/Enables> Ants appear",
+        "Her sister spills soda on the sidewalk >Causes/Enables> The soda attracts ants"
+      ]
+    },
+    {
+      "id": "task748-cb752782da0d4ee881e68178ae978720",
+      "input": "story: Amy heard a noise. There was a kitten trapped in the sewer! She used a stick to grab ahold of it. The kitten was hungry and wet. Amy took it home and took care of it.\n selected sentence: She used a stick to grab ahold of it.",
+      "output": [
+        "Amy grabs the kitten >Causes/Enables> Amy takes the kitten home"
+      ]
+    },
+    {
+      "id": "task748-76eb9bd28d62456fb0164225a063d5f2",
+      "input": "story: Molly recently moved from California to Georgia. She moved during the winter and didn't realize how cold it would be. She didn't have a warm coat so her Mom let her borrow one. She has to wear the big heavy coat all the time now to keep warm. The cold Winter has made Molly miss California.\n selected sentence: She didn't have a warm coat so her Mom let her borrow one.",
+      "output": [
+        "Molly's mom lends Molly the coat >Causes/Enables> Molly wears the coat"
+      ]
+    },
+    {
+      "id": "task748-86db4461ee924f4a9b7b449df009bf94",
+      "input": "story: One day the Smither family decided to go on vacation to Hawaii. First they boarded the plane. Then the plane took them to Hawaii. When they got off they went to their hotel. They were ready to have fun!\n selected sentence: They were ready to have fun!",
+      "output": [
+        "The Smithers are ready to have fun >Causes/Enables> The Smithers have fun"
+      ]
+    },
+    {
+      "id": "task748-85d9035aede8421b90cbf796b28c53e8",
+      "input": "story: After a long day at work, Jim decided to treat his family. He decided to take them on a trip to Disney. They had never been so he thought it would be nice. When he went home to tell them, they were thrilled. The family went the next month.\n selected sentence: After a long day at work, Jim decided to treat his family.",
+      "output": [
+        "Jim decides to treat >Causes/Enables> Jim treats"
+      ]
+    },
+    {
+      "id": "task748-68661e3ebf2e4f9bac14505a947c652d",
+      "input": "story: Tara loved to bake. She made a batch of brownies for her kids. They were filled with caramel. The kids licked the bowl clean. They loved when their mom baked for them!\n selected sentence: She made a batch of brownies for her kids.",
+      "output": [
+        "Tara makes brownies for her kids >Causes/Enables> Tara's kids eat the brownies"
+      ]
+    },
+    {
+      "id": "task748-f8cdaca97e964adb9ef1716d18584f7c",
+      "input": "story: Dana wanted the sparkling red shoes she saw in the store window. Everyday after work, she would admire them from outside. When she saved enough money, she went in to buy them. The store clerk told her there was one pair left, a size too small. Dana walked out of the store painfully, wearing sparkling red shoes.\n selected sentence: Everyday after work, she would admire them from outside.",
+      "output": [
+        "Dana wanted sparkly red shoes >Causes/Enables> Dana visits sparkly red shoes at the store"
+      ]
+    },
+    {
+      "id": "task748-2e71fbd4ad2641c0b296031b7a1f4ee1",
+      "input": "story: We thought we would take the kids to mini golf. They were so excited to go. My seven year old was ready to hit the ball. I followed it as it went towards the hole. Then all of a sudden I saw it fall in the hole.\n selected sentence: My seven year old was ready to hit the ball.",
+      "output": [
+        "My seven year old is ready to hit the ball >Causes/Enables> My seven year old hits the ball"
+      ]
+    },
+    {
+      "id": "task748-b407061a1ba544fdbe3c6e0bcf3343dc",
+      "input": "story: Eric drove his knife into the deer. It tried to kick but it was on its last death throws. After it died, he prayed to the gods thanking them. He was happy to have the meat. He took it inside to smoke it later.\n selected sentence: It tried to kick but it was on its last death throws.",
+      "output": [
+        "The deer is in it's death throes >Causes/Enables> The deer dies"
+      ]
+    },
+    {
+      "id": "task748-9190b84346a9497ba6fd9d9b587ea90b",
+      "input": "story: Greg needed to wake up for school. He was so tired that he kept hitting snooze on his alarm. Suddenly, his mom burst into the room. He had missed the bus. His mom had to drive him to school, and Greg was in trouble.\n selected sentence: Greg needed to wake up for school.",
+      "output": [
+        "Greg needs to wake up for school  >Causes/Enables> Greg's mom burst into Greg's room to get him up "
+      ]
+    },
+    {
+      "id": "task748-3396de287a944f02bd057c7719c78626",
+      "input": "story: It was midnight. And Erin needed to take out the trash. She stepped outside and headed towards the garbage bin. When she opened it, a cat jumped out. Erin decided to never take out the trash at night again.\n selected sentence: Erin decided to never take out the trash at night again.",
+      "output": [
+        "Erin refuses to take the trash to the bin >Causes/Enables> The trash is overflowing"
+      ]
+    },
+    {
+      "id": "task748-6a2319e2c519435f829db5a23f51b1fc",
+      "input": "story: Teresa got a waitressing job. She was very happy to have a job. On her first day, she found out what hard work it was. However, at the end of the day, her tips were worth all that work. Teresa has learned to really enjoy waitressing.\n selected sentence: However, at the end of the day, her tips were worth all that work.",
+      "output": [
+        "Teresa's tips are worth all that work >Causes/Enables> Teresa learns to enjoy waitressing"
+      ]
+    },
+    {
+      "id": "task748-c9fc0fd774114e438edbb8972b2f9285",
+      "input": "story: When they got home, it was time to open gifts. It was the boy's 13th birthday. They gave him a new tv for his room. He said he couldn't wait to play games on it. He was very happy with his gifts.\n selected sentence: It was the boy's 13th birthday.",
+      "output": [
+        "The boy's 13th birthday is today >Causes/Enables> The boy opens gifts"
+      ]
+    },
+    {
+      "id": "task748-a418ad9f7de74f99b58eda45fc61f311",
+      "input": "story: Tom was at a party. Everybody was dancing but him. He didn't know how to dance. A cute girl took him by the hand and made him dance. Tom started to dance with her and liked it.\n selected sentence: Everybody was dancing but him.",
+      "output": [
+        "Everyone else at the party is dancing except for Tom >Causes/Enables> A cute girl makes Tom dance with her",
+        "Tom doesn't dance at the party >Causes/Enables> A girl makes Tom dance"
+      ]
+    },
+    {
+      "id": "task748-83cafe9ee07d4217aa861ee178fa60d5",
+      "input": "story: I needed to buy some new clothes. I decided to take a trip to dillard's. After I go tthere, I picked out some new pants. After checking out, I went home. Once home, I put them on and was very happy.\n selected sentence: After checking out, I went home.",
+      "output": [
+        "I go home >Causes/Enables> I put on the pants"
+      ]
+    },
+    {
+      "id": "task748-b1dadc03eb68424ca30ec0b124242e2a",
+      "input": "story: Seth was a very respectful boy who always did the right thing. At school, the teachers and students all loved him. One day, the worst boy in school decided he wanted to be his friend. The worst boy got Seth in trouble all the time. Seth decided he would stop being his friend and go back to being good.\n selected sentence: One day, the worst boy in school decided he wanted to be his friend.",
+      "output": [
+        "A bad boy is friends with Seth >Causes/Enables> Seth gets in trouble"
+      ]
+    },
+    {
+      "id": "task748-58026faade024e63adbd44d544bc464a",
+      "input": "story: Tim got a job as a cashier. His first day was rough. His drawer was 30 dollars short. Tim tried really hard that week. After a month he was the best cashier at his job.\n selected sentence: Tim got a job as a cashier.",
+      "output": [
+        "Tim gets a job >Causes/Enables> Tim works"
+      ]
+    },
+    {
+      "id": "task748-446d006f8955488f8079d7fe6d705e95",
+      "input": "story: Rob bullied Jim every day at school. Sometimes, Rob would steal Jim's lunch money. Jim decided to bring his lunch so that Rob wouldn't steal it. Jim brought a peanut butter sandwich, but Rob stole the sandwich. Rob took a bite and died because he was allergic to peanuts.\n selected sentence: Sometimes, Rob would steal Jim's lunch money.",
+      "output": [
+        "Rob steals Jim's lunch money >Causes/Enables> Jim can't buy lunch"
+      ]
+    },
+    {
+      "id": "task748-3b44feb7b29c4f4788185341fb447ccf",
+      "input": "story: I drove my car to the grocery store today. I got my reusable bags out of the back of my car. I went inside the store to grocery shop. I went down each aisle looking for items I needed. I paid the cashier for all my groceries.\n selected sentence: I paid the cashier for all my groceries.",
+      "output": [
+        "I buy groceries >Causes/Enables> I eat"
+      ]
+    },
+    {
+      "id": "task748-b1ab0673fb014fcdadd7fd07c3ecf0cb",
+      "input": "story: Lisa and her friend Molly loved to make mud pies. They would mix the mud with water and shape it. Then they would decorate it with moss and stones. One day Lisa took a big bite out of one of them. She had forgotten they were made of mud!\n selected sentence: Then they would decorate it with moss and stones.",
+      "output": [
+        "Lisa and Molly decorate >Causes/Enables> Lisa and Molly have fun"
+      ]
+    },
+    {
+      "id": "task748-d6daca62e99e425785c84c08b1c34733",
+      "input": "story: Elizabeth couldn't wait for her son Sam to take his first steps. She was determined to capture the moment on camera. She wanted to make sure she remembered it perfectly forever. But when Sam finally took his first steps, the camera wasn't charged. Elizabeth didn't mind that much - she knew she'd remember anyway.\n selected sentence: Elizabeth didn't mind that much - she knew she'd remember anyway.",
+      "output": [
+        "Elizabeth knows she will remember >Causes/Enables> Elizabeth remembers"
+      ]
+    },
+    {
+      "id": "task748-6596687b873a4f6a867cbe47d59f319a",
+      "input": "story: It was Christmas morning! I rushed downstairs to open my present. It was a Playstation. I got angry because I wanted an Xbox. My parents grounded me for getting angry.\n selected sentence: It was Christmas morning!",
+      "output": [
+        "Christmas is here >Causes/Enables> I get a present"
+      ]
+    },
+    {
+      "id": "task748-2322474b1baf4ab583978c80cd24f140",
+      "input": "story: I went for a haircut two weeks ago. It was my first time going to this barber. I described the style I was looking for to the barber. He ended up cutting off far more hair than I had asked for. I won't be going back to that barber shop!\n selected sentence: He ended up cutting off far more hair than I had asked for.",
+      "output": [
+        "He cuts off too much hair >Causes/Enables> I don't go back to that barber shop"
+      ]
+    },
+    {
+      "id": "task748-ba1ff64c48124ad38db4bc8d32714867",
+      "input": "story: One morning we woke up and was hungry for waffles. We decided to get in the car to go to our favorite breakfast place. We had to drive over 80 miles to get there. It was worth the drive. I would happily make the drive for waffles every weekend.\n selected sentence: We decided to get in the car to go to our favorite breakfast place.",
+      "output": [
+        "We drive to to our favorite breakfast place >Causes/Enables> We arrive at our favorite breakfast place after 80 miles"
+      ]
+    },
+    {
+      "id": "task748-ee0fc4f687804575a0ad23da8338df97",
+      "input": "story: The man put on his watch. His watch was not running. He took his watch off. He shook the watch. The watch started running again.\n selected sentence: His watch was not running.",
+      "output": [
+        "His watch is not running >Causes/Enables> He takes it off"
+      ]
+    },
+    {
+      "id": "task748-7422b0fb70c644a283c3a9bc80e9a3eb",
+      "input": "story: She left the bag in the bathroom. She had set it on the floor. She forgot where she put it. She looked everywhere for it. She finally found it.\n selected sentence: She finally found it.",
+      "output": [
+        "She found the bag >Causes/Enables> She went back to the concert"
+      ]
+    },
+    {
+      "id": "task748-828214595014460d82f7e3d30bf123aa",
+      "input": "story: My dishwasher is broken. I hate to hand wash dishes. The dirty dishes have piled up in the sink. Soon, I won't have any clean ones left. I force myself to wash them all.\n selected sentence: Soon, I won't have any clean ones left.",
+      "output": [
+        "I dirties all the dishes >Causes/Enables> I wash the dishes",
+        "I am running out of clean dishes >Causes/Enables> I wash the dishes"
+      ]
+    },
+    {
+      "id": "task748-1c814126af854376bd579ce83da6811e",
+      "input": "story: Anna saw a quarter on the ground. She bent to pick it up. But she couldn't. The quarter was glued to the ground! Someone had placed it there as a trick.\n selected sentence: The quarter was glued to the ground!",
+      "output": [
+        "The quarter is glued to the ground >Causes/Enables> Anna can't pick up the quarter"
+      ]
+    },
+    {
+      "id": "task748-cdc0e46e74434e70ac0fcfff4d00b1a3",
+      "input": "story: Erin was always losing things in her room. Her room was very messy and disorganized. She always started to clean but never finished. One Saturday she decided to spend the whole day cleaning her room. She found at least ten things that she had been missing.\n selected sentence: Her room was very messy and disorganized.",
+      "output": [
+        "Erin's room is messy >Causes/Enables> She spends the whole day cleaning her room",
+        "Erin's room is disorganized >Causes/Enables> Erin loses things"
+      ]
+    },
+    {
+      "id": "task748-101566dcc3e3452886b14066bb0a0e0b",
+      "input": "story: Evan wanted a pair of jean shorts for the summer. He shopped around, but every store was too expensive. Then he decided to try to make his own. He carefully cut the legs off an old pair of jeans. Soon he had a homemade new pair of jean shorts!\n selected sentence: Evan wanted a pair of jean shorts for the summer.",
+      "output": [
+        "Evan wants jean shorts >Causes/Enables> Evan goes shopping"
+      ]
+    },
+    {
+      "id": "task748-4ffa840822cf4351bc16447ade0025e8",
+      "input": "story: My son has a small stuffed bear. He sleeps with it at night. The bear had a small rip in its back. It lost some of its stuffing. I sewed it back together.\n selected sentence: It lost some of its stuffing.",
+      "output": [
+        "My son's bear loses some stuffing >Causes/Enables> I sew my son's bear back together"
+      ]
+    },
+    {
+      "id": "task748-93625f5859244c5fa45dbd0a15c898f5",
+      "input": "story: I woke up late today. I started getting ready and fell. Then I missed the bus to school. My mom had to drive me in her car. I made it to school a little late.\n selected sentence: Then I missed the bus to school.",
+      "output": [
+        "I miss the bus >Causes/Enables> I arrive late"
+      ]
+    },
+    {
+      "id": "task748-224c026c1ead400198d9c8e1683c246d",
+      "input": "story: Katrina was making apple pie. First she had to peel the apples. She washed them. Then, she peeled them. She did this until they were all peeled.\n selected sentence: Katrina was making apple pie.",
+      "output": [
+        "Katrina is making apple pie >Causes/Enables> Katrina peels apples"
+      ]
+    },
+    {
+      "id": "task748-25aaee4cb24c45c3bba6d69c24017915",
+      "input": "story: I decided to clean out all the closets. I got a rag and a trash bag. I went into the closets and picked through the old clothing. After throwing out the old stuff, I started cleaning. I wiped down all the shelves and doors.\n selected sentence: After throwing out the old stuff, I started cleaning.",
+      "output": [
+        "I start cleaning >Causes/Enables> I finish cleaning"
+      ]
+    },
+    {
+      "id": "task748-d4360ee509f44680b5605d67f0f9bdb6",
+      "input": "story: Last week I tried to run up the stairs. I tripped and fell. Somehow I twisted my ankle rather badly. I have to have a cast on it now. It makes it even harder to go up the stairs.\n selected sentence: I tripped and fell.",
+      "output": [
+        "I fall >Causes/Enables> I get up"
+      ]
+    },
+    {
+      "id": "task748-3167df65384e4004934632f9ab9ab8b8",
+      "input": "story: My Father brought home 6 fishes. One fish for each of his children. My brother flushed mine down the toilet. So I threw his down the drain. Dad was so upset.\n selected sentence: My brother flushed mine down the toilet.",
+      "output": [
+        "My brother flushes my fish down the toilet >Causes/Enables> I throw my brother's fish down the drain"
+      ]
+    },
+    {
+      "id": "task748-58dd8dfe6db74592aba50632f41e0bbd",
+      "input": "story: Ann had never been on an airplane. Her family was going on vacation next month to Florida. She was scared the plane was going to fall down. Her friend told her there was nothing to worry about. Ann got on the plane, and the plane landed safely.\n selected sentence: Ann had never been on an airplane.",
+      "output": [
+        "Anna never goes on an airplane >Causes/Enables> Anna is scared to go on an airplane"
+      ]
+    },
+    {
+      "id": "task748-6441a7ec76fc49d79b370ec513e59cc0",
+      "input": "story: Bill broke his phone. He didn't have money to get it fixed. He put flyers in all the mailboxes on his street. He would mow any size lawn for $25. He made enough to get his phone fixed in just one weekend.\n selected sentence: He would mow any size lawn for $25.",
+      "output": [
+        "Bill offers to mow >Causes/Enables> Bill mows"
+      ]
+    },
+    {
+      "id": "task748-9f57a1cb4b46468aaf1e18f648ca1523",
+      "input": "story: Kelsey packed a lunch for the field trip. When they got to the museum, she realized she forgot her drink. Kelsey asked her friend if she had a drink. Her friend had brought extras. She shared with her friend.\n selected sentence: Kelsey packed a lunch for the field trip.",
+      "output": [
+        "Kelsey packs lunch >Causes/Enables> Kelsey eats"
+      ]
+    },
+    {
+      "id": "task748-33e567e1f8304197a0b7633a58004bf8",
+      "input": "story: Pat had a song stuck in her head all day. She tried to ignore it but it wouldn't go away. When her mind when blank she heard the song. She tried to listen to the radio until the song was flushed out. After a few country songs she forgot all about the first one.\n selected sentence: When her mind when blank she heard the song.",
+      "output": [
+        "Pat hears the song when her mind is blank >Causes/Enables> Pat listens to the radio to flush out the song"
+      ]
+    },
+    {
+      "id": "task748-1db59a62ca514e7a86163212289e40ff",
+      "input": "story: Tim got in the car. He started the car. He turned out of his street. He saw a red light. He stopped.\n selected sentence: He saw a red light.",
+      "output": [
+        "Tim sees a red light >Causes/Enables> Tim stops his car",
+        "Tim sees a red light >Causes/Enables> Tim stops"
+      ]
+    },
+    {
+      "id": "task748-50be320889a248f0a750baec787653d8",
+      "input": "story: Allen was at the mall with his friends. He was waiting in line for the photo booth. All of sudden a girl with blonde hair and ripped jeans stepped out. Allen fell in love instantly as she walked past. He was so starstruck he couldn't even say hi as she walked away.\n selected sentence: All of sudden a girl with blonde hair and ripped jeans stepped out.",
+      "output": [
+        "A blonde girl steps out of the photo booth >Causes/Enables> Allen falls in love with the blonde girl",
+        "An attractive woman is near Allen at the mall >Causes/Enables> Allen falls in love with the woman",
+        "A girl steps out of a photo booth >Causes/Enables> Allen is starstruck"
+      ]
+    },
+    {
+      "id": "task748-5ba123ce889045b5a26aaf50e9e4b24d",
+      "input": "story: Kate wanted to play with Jane. She called Jane to ask her if she could. Jane thought it was a good idea. They met at the park. The girls had a lot of fun playing together.\n selected sentence: Kate wanted to play with Jane.",
+      "output": [
+        "Kate wants to play with Jane >Causes/Enables> Kate and Jane have a lot of fun playing together"
+      ]
+    },
+    {
+      "id": "task748-05e4d64432344546a504d39219b6950b",
+      "input": "story: Todd wanted a boat. He decided to build one. He cut down a tree. Next he cut up the tree. Last he nailed the together.\n selected sentence: He cut down a tree.",
+      "output": [
+        "Todd cuts down a tree >Causes/Enables> The tree falls"
+      ]
+    },
+    {
+      "id": "task748-c15bf4fb9b5049bf9982636de934dabd",
+      "input": "story: We would go to my grandpas property every summer. We would play baseball with our cousins. We would spend all afternoon out there. It was so much fun even though it was 2 on 2. It is one of my favorite childhood memories.\n selected sentence: We would play baseball with our cousins.",
+      "output": [
+        "We play >Causes/Enables> We have fun"
+      ]
+    },
+    {
+      "id": "task748-f2d8a2ccd5bd47449c9fcd6c4d57337e",
+      "input": "story: Charlie loved to play catch with his dad. He decided to try out for the school baseball team. When he got to the tryouts he realized he forgot his glove. Charlie still did well even without a glove. He made the team and made sure to bring his glove to practice.\n selected sentence: Charlie still did well even without a glove.",
+      "output": [
+        "Charlie does well >Causes/Enables> He makes the team",
+        "Charlie does well >Causes/Enables> Charlie makes the team"
+      ]
+    },
+    {
+      "id": "task748-c9ce7136dbd647dc82f7c3e3a546e0f2",
+      "input": "story: Jane woke up one morning and felt like her skin was too pale. So she packed up her beach bag and drove to the beach. She laid out her towel on the sand and laid down under the sun. However, she was so comfortable that she fell asleep. When she woke up, instead of being tanned, she was burnt to a crisp!\n selected sentence: Jane woke up one morning and felt like her skin was too pale.",
+      "output": [
+        "Jane felt like her skin was too pale >Causes/Enables> Jane laid down under the sun",
+        "Jane feels her skin is too pale >Causes/Enables> Jane drives to the beach to tan"
+      ]
+    },
+    {
+      "id": "task748-18a7d6cfaeff4878845085fc82a94a4c",
+      "input": "story: A cardboard box fell out of the sky and onto Kyle's head. The box fell out of a window, three stories above him. Kyle was going to return the box but was bitter about the event. He opened the box to see what was inside. It was a helmet.\n selected sentence: He opened the box to see what was inside.",
+      "output": [
+        "Kyle opens the box >Causes/Enables> Kyle finds a helmet in the box"
+      ]
+    },
+    {
+      "id": "task748-5f6622da2e124110a7dbc6c085478f9c",
+      "input": "story: There are a lot of deer in the town where I live. As we were driving to school, one walked out in front of us. We almost hit him with our car. He walked away like he didn't even notice us. I was so scared, but he wasn't even bothered!\n selected sentence: We almost hit him with our car.",
+      "output": [
+        "We almost hit the deer with our car >Causes/Enables> The deer walked away"
+      ]
+    },
+    {
+      "id": "task748-160dce904fe2463a803eac15269131a2",
+      "input": "story: A man went to the park to feed the ducks. He threw some bread into the water and ducks came. A large swan swam over to join the ducks. The man threw in more bread to keep the swan around. The swan honked with excitement.\n selected sentence: A man went to the park to feed the ducks.",
+      "output": [
+        "The man goes to feed the ducks >Causes/Enables> The man feeds the ducks",
+        "The man goes to the park to feed the ducks >Causes/Enables> The man throws bread to the ducks"
+      ]
+    },
+    {
+      "id": "task748-d2983a5c2bd6410c89c134e78cbbefce",
+      "input": "story: Harry wore socks a lot. People thought he was weird. He got holes in them all the time. He would look online for new ones. He bought some.\n selected sentence: Harry wore socks a lot.",
+      "output": [
+        "Harry wears socks a lot >Causes/Enables> People thinks he is weird"
+      ]
+    },
+    {
+      "id": "task748-0acbe34a3a4944c3b18d0ffbbba817bc",
+      "input": "story: Pete was on a shore of a beach. He saw children playing in the sand in front of him. All of a sudden, a large wave began to rush towards the shore. Pete ran over, grabbed the kids, and ran from the coast. Just as Pete made it to higher ground, the wave swallowed the beach.\n selected sentence: Pete was on a shore of a beach.",
+      "output": [
+        "Pete is at the beach >Causes/Enables> Pete leaves"
+      ]
+    },
+    {
+      "id": "task748-769ae063190d42e58895074449d98ae4",
+      "input": "story: Nevin was fed up with his couch. He went to the store to get a new one. The salesman was very nice to him. Nevin got a great deal. Nevin is very happy with his new couch.\n selected sentence: He went to the store to get a new one.",
+      "output": [
+        "Nevin goes to get a couch >Causes/Enables> Nevin gets a couch",
+        "Nevin goes to the store >Causes/Enables> The salesman is nice to Nevin"
+      ]
+    },
+    {
+      "id": "task748-9ae0c936b0fe41fc83d00acdf7e52ba3",
+      "input": "story: One day, the third grade class got to take a field trip. They got on a big, yellow bus and drove to an art museum. The students saw lots of paintings, and many different kinds of art. They even got to eat lunch in a sculpture garden outside! After lunch, the children went home.\n selected sentence: One day, the third grade class got to take a field trip.",
+      "output": [
+        "The third grade class gets to take a field trip >Causes/Enables> The third grade class takes a field trip"
+      ]
+    },
+    {
+      "id": "task748-ee6638af22854f0a80ab8d95187296f9",
+      "input": "story: Sam was riding her bike. She was going really fast down the sidewalk. A dog jumped out in front of her. Sam flipped over her handlebars. Sam broke her wrist.\n selected sentence: A dog jumped out in front of her.",
+      "output": [
+        "The dog jumps in front of Sam >Causes/Enables> The dog leaves"
+      ]
+    },
+    {
+      "id": "task748-fa11d4c4233e4726b2b01eaf534a495e",
+      "input": "story: Florence went to Library one afternoon. As she was reading she over hears her name. Florence looks around frantically. She hears her name again. There happened to be another Florence in the Library.\n selected sentence: Florence went to Library one afternoon.",
+      "output": [
+        "Florence goes to the library >Causes/Enables> Florence reads",
+        "She goes to the library >Causes/Enables> She hears her name"
+      ]
+    },
+    {
+      "id": "task748-f6d17a566af745738b8663f17376298b",
+      "input": "story: Last night we played truth or dare. It was my turn and I picked a dare. Rick dared me to jump in the lake. I was about to jump in the lake and I heard Something. I looked in the water and their was a big alligator.\n selected sentence: Last night we played truth or dare.",
+      "output": [
+        "They play Truth or dare >Causes/Enables> Rick plays his turn"
+      ]
+    },
+    {
+      "id": "task748-0e33cc8e6b4440e7acdc3f92e60f8f50",
+      "input": "story: The little girl was cleaning her room. She seen a small item on the floor. She picked it up. She read it. Then she unwrapped it and ate it.\n selected sentence: She read it.",
+      "output": [
+        "She reads it >Causes/Enables> She unwraps it",
+        "She reads it >Causes/Enables> She knows what it is"
+      ]
+    },
+    {
+      "id": "task748-acda8218d31a4805be51424d3c23815e",
+      "input": "story: My brother was mad at me. He waited till I was hanging upside from a tree branch. He smacked me in the head with a broom and made me fall. I had a really bad bump from the fall on my head. He was grounded for a whole month!\n selected sentence: My brother was mad at me.",
+      "output": [
+        "My brother was mad at me >Causes/Enables> My brother made me fall"
+      ]
+    },
+    {
+      "id": "task748-9df521605b7b4648a1de2999e197ebed",
+      "input": "story: Renee has a baby. One day, Courtney asked to hold the baby. Courtney did not know how to hold Renee's baby. Renee showed her how to hold the baby. Courtney was happy to learn how to hold a baby.\n selected sentence: One day, Courtney asked to hold the baby.",
+      "output": [
+        "Courtney asks to hold the baby >Causes/Enables> Courtney holds the baby"
+      ]
+    },
+    {
+      "id": "task748-ae16a1ac42e349938c81d57f38d619b8",
+      "input": "story: Tim had the soccer ball. He ran fast with it. The other team couldn't catch him. He shot the ball. He scored.\n selected sentence: The other team couldn't catch him.",
+      "output": [
+        "The other team can't catch Tim >Causes/Enables> Tim scores a goal"
+      ]
+    },
+    {
+      "id": "task748-2c92dd91d08648c58ae8dc7c69e10977",
+      "input": "story: June fell out of her tree house. Her arm really hurt. Her mom drove her to the hospital. They did an x-ray. They could see that she had a broken arm.\n selected sentence: Her arm really hurt.",
+      "output": [
+        "June's arm hurts >Causes/Enables> Her mom drives June to the hospital",
+        "June's arm hurts after a fall >Causes/Enables> June's mom drives June to the hospital "
+      ]
+    },
+    {
+      "id": "task748-8e867282adb34e54a06975b6778dbceb",
+      "input": "story: Lucy was helping her grandma on the garden. At first she hated it. The longer she helped the less bored she was. She picked out a large zucchini as her own. As they ate the zucchini for dinner, she realized she liked gardening.\n selected sentence: She picked out a large zucchini as her own.",
+      "output": [
+        "Lucy picks out a zucchini >Causes/Enables> Lucy eats a zucchini ",
+        "Lucy picks out a zucchini >Causes/Enables> Lucy eats"
+      ]
+    },
+    {
+      "id": "task748-b518ab7f77c847daaa284551daf7ac6b",
+      "input": "story: Asher loves to eat pancakes. He eats them piled with syrup. He puts whipped cream on them too. For a 4 year old, he can eat five pancakes in one sitting. He loves them for every meal.\n selected sentence: He loves them for every meal.",
+      "output": [
+        "He loves them >Causes/Enables> He eats a lot of  pancakes",
+        "Asher loves pancakes >Causes/Enables> Asher eats pancakes"
+      ]
+    },
+    {
+      "id": "task748-6fd94e8799db41b68066088028efb827",
+      "input": "story: Billie was a girl with a boy's name. She had always been made fun of because she had short hair. Billie's dad made her get a haircut every month. One day she told her dad about the bullying. Billie's father felt so bad he never made her cut her hair again.\n selected sentence: She had always been made fun of because she had short hair.",
+      "output": [
+        "Billie is bullied >Causes/Enables> Billie tells her dad about the bullying"
+      ]
+    },
+    {
+      "id": "task748-685a396b6e234060a618b6ddea6848a4",
+      "input": "story: We all went to a haunted house last Halloween. A creepy clown jumped out at my friend Gary. Gary was so scared he screamed. We all think Gary wet himself. Gary ran home to change his pants.\n selected sentence: Gary ran home to change his pants.",
+      "output": [
+        "Gary goes home >Causes/Enables> Gary leaves home",
+        "Gary changes his pants >Causes/Enables> Gary cleans his pants"
+      ]
+    },
+    {
+      "id": "task748-6345cd261fc64a4ab9761d3fa5442d01",
+      "input": "story: I was swimming in Pensacola beach. It was a clear, sunny day with calm waters. I happened to look off in the distance, and I saw a shark fin. I screamed \"Shark,\" and everyone cleared out of the ocean. My whole family and I ran and left the beach.\n selected sentence: I screamed \"Shark,\" and everyone cleared out of the ocean.",
+      "output": [
+        "Everyone leaves the ocean >Causes/Enables> Everyone goes home"
+      ]
+    },
+    {
+      "id": "task748-b66ba12ce582419689186e40bfc991e9",
+      "input": "story: Gina's mom promised they would go home in 3 days. But 4 days had passed. She asked her mother again. Her mother yelled at her for asking. She was tired of being asked when they were leaving.\n selected sentence: She asked her mother again.",
+      "output": [
+        "Gina asks her mother again >Causes/Enables> Her mother yells at Gina"
+      ]
+    },
+    {
+      "id": "task748-06127ce47313459693c2b9c18435fc4d",
+      "input": "story: I was cooking for a party. My friend had an idea for a great treat. He said to mix apples and scrambled eggs. I tried it just to see what it was like. The smell was so bad that people ran out of the party.\n selected sentence: My friend had an idea for a great treat.",
+      "output": [
+        "My friend has an idea >Causes/Enables> I try his idea"
+      ]
+    },
+    {
+      "id": "task748-9d041d931f564dcbab7e8226e85ee98d",
+      "input": "story: Sarah had a birthday recently. She asked her parents for a puppy for her present. On her birthday, she received a box with holes in it and a red ribbon. She opened the box to find a puppy labrador inside. Sarah was so happy to get her birthday wish.\n selected sentence: She asked her parents for a puppy for her present.",
+      "output": [
+        "Sarah asks for a puppy >Causes/Enables> Sarah gets a puppy"
+      ]
+    },
+    {
+      "id": "task748-ddecafe4bec1401ab12a813983d1fe1e",
+      "input": "story: Terry's life long dream was to meet Joey Logano. He went to Nascar's Daytona Race Track. He paid for a VIP Pit Pass. Once on Pit Row, he looked everywhere for Joey Logano. He met him and got his autograph.\n selected sentence: He paid for a VIP Pit Pass.",
+      "output": [
+        "Terry buys a VIP Pit Pass >Causes/Enables> Terry enters Pit Row"
+      ]
+    },
+    {
+      "id": "task748-0fdafff865cb4651aa17e67e3e0c6956",
+      "input": "story: Matt was scared. He had been challenged to a fight after school. He did not want to be known as a coward, so he showed up. He was afraid, though, that he would get beat up. But to his surprise, his opponent never even showed up!\n selected sentence: He was afraid, though, that he would get beat up.",
+      "output": [
+        "Matt is afraid >Causes/Enables> Matt calms down"
+      ]
+    },
+    {
+      "id": "task748-0369981ce0464f82998b7031b9033aee",
+      "input": "story: I awoke very tired. I got dressed and grabbed my wallet. I walked over to the coffee shop and ordered a coffee. I sat down and drank my coffee. After I was done, I felt much better.\n selected sentence: I awoke very tired.",
+      "output": [
+        "I awake tired >Causes/Enables> I drink coffee"
+      ]
+    },
+    {
+      "id": "task748-7128f907b85c4269b0ab6056aceb45be",
+      "input": "story: Matt's family decided to move to the other side of the country. He tried to hold back the tears as he said goodbye to his best friend. Matt told his parents it wasn't fair. When they got to their new home, his parents had a surprise. Matt now texts his best friend on his very own smartphone.\n selected sentence: Matt's family decided to move to the other side of the country.",
+      "output": [
+        "Matt's family decide to move to the other side of the country >Causes/Enables> Matt says goodbye to his best friend",
+        "Matt's family are moving far away >Causes/Enables> Matt cried"
+      ]
+    },
+    {
+      "id": "task748-df3bed8aacf14c21ba77210ee4ecc3c3",
+      "input": "story: Becca really wanted a kitten for Christmas. She wrote a letter to Santa saying a new kitten was all she wanted. She hinted about a kitten to her parents every day. Becca even drew pictures of kittens and hung them all over the house. On Christmas morning, she awoke to a little kitten in her bed.\n selected sentence: Becca even drew pictures of kittens and hung them all over the house.",
+      "output": [
+        "Becca hangs kitten pictures all over the house >Causes/Enables> The house is filled with kitten pictures"
+      ]
+    },
+    {
+      "id": "task748-1d1f5b8a89db49b296938b77b746fa0b",
+      "input": "story: The man got on the plane. He sat down next to the window. Someone said that he was in their seat. The man checked his ticket. The man moved to his correct seat.\n selected sentence: Someone said that he was in their seat.",
+      "output": [
+        "Someone tells the man he is in their seat >Causes/Enables> The man moves to the correct seat"
+      ]
+    },
+    {
+      "id": "task748-8eb4e110c697428c8ea4b1f90f3def62",
+      "input": "story: Amy had gotten a new watch for her birthday. Her friends all loved the watch. They all asked their parents to buy one. Everyone except Sara had the watch a week later. The girls all chipped in and bought Sarah a watch so she fit in.\n selected sentence: Her friends all loved the watch.",
+      "output": [
+        "Amy's friends lover her new watch >Causes/Enables> Amy's friends got new watches "
+      ]
+    },
+    {
+      "id": "task748-0c1fa3804bc0462c8689ef15393054d4",
+      "input": "story: Last friday was my sister's birthday. She really wanted a cake so I baked her one. I asked my friend to take it to my sister's house with me. On the way there, my friend dropped the cake on the car floor. We stopped at the store to buy a new one and my sister was happy.\n selected sentence: She really wanted a cake so I baked her one.",
+      "output": [
+        "She wants a cake >Causes/Enables> I bake her one"
+      ]
+    },
+    {
+      "id": "task748-ce431d447b79466c8a193be865280d60",
+      "input": "story: Caleb was bored one afternoon. He wanted to swim but his mom was busy. He decided to swim without her. He was in the pool when she noticed him. She yelled for him to get out and told him that wasn't safe.\n selected sentence: Caleb was bored one afternoon.",
+      "output": [
+        "Caleb is bored >Causes/Enables> Caleb goes to swim"
+      ]
+    },
+    {
+      "id": "task748-4639293d584f49558596fa6163bcad5b",
+      "input": "story: Joe needed some extra cash. He decided to work as a dog walker. But after a few nights spent walking the dogs, he changed his mind. The dogs were hard to walk. Joe decided to find a different job.\n selected sentence: Joe needed some extra cash.",
+      "output": [
+        "Joe needs extra cash >Causes/Enables> Joe gets a job",
+        "He needs extra cash >Causes/Enables> He walks dogs"
+      ]
+    },
+    {
+      "id": "task748-ea1d2930424d47de9652ad0303e15a26",
+      "input": "story: Susan really loves her art. She gets excited over it. To the point where last week she broke her paintbrush. She had to buy a new one. Now she takes better care of it but is still excited.\n selected sentence: Susan really loves her art.",
+      "output": [
+        "Susan loves her art >Causes/Enables> Susan gets excited over her art",
+        "Susan loves art >Causes/Enables> Susan does art"
+      ]
+    },
+    {
+      "id": "task748-eb5ca6f7133646728965a24fbc6b4f6f",
+      "input": "story: Kev had learned to swim the summer he turned eight. The next year, he went back to the pool, afraid! He thought he must have forgotten how to swim. But then he jumped in and saw it was just like riding a bike. Swimming was Something you never forgot!\n selected sentence: The next year, he went back to the pool, afraid!",
+      "output": [
+        "Kev goes back to the pool >Causes/Enables> Kev jumps in the pool"
+      ]
+    },
+    {
+      "id": "task748-978ad40f74b74476ba0b2955c9ef43d7",
+      "input": "story: Marion was about to move. She was cleaning her house up before the move. She opened up a closet that had been closed for a year. Inside was a bag with some sort of goo on it. She decided to just leave it.\n selected sentence: She was cleaning her house up before the move.",
+      "output": [
+        "Marion cleans >Causes/Enables> Marion finishes cleaning"
+      ]
+    },
+    {
+      "id": "task748-4a736483354b4c99b53ae1806bf71c1b",
+      "input": "story: Mary had just gotten a new job. Today was her first day. She liked the work a lot. She didn't like the people, though. Luckily, she was given a private place to work.\n selected sentence: She liked the work a lot.",
+      "output": [
+        "Mary liked her work a lot >Causes/Enables> Mary works almost everyday "
+      ]
+    },
+    {
+      "id": "task748-5c5f17d2429747cf8705f9bac274ae0c",
+      "input": "story: Jack was starting kindergarten. He was scared. He had never even been to daycare. His mom walked him to the door and kissed him bye. He had a great first day.\n selected sentence: He was scared.",
+      "output": [
+        "Jack is scared >Causes/Enables> Jack's mom walks Jack to the door",
+        "Jack is scared >Causes/Enables> Jack calms down"
+      ]
+    },
+    {
+      "id": "task748-009b805c669d4a6996cc2587f57b5d40",
+      "input": "story: Tim was trying to draw the perfect circle. He could not do it. He tried twelve times. He had an idea. He traced around a CD to get a perfect circle.\n selected sentence: He had an idea.",
+      "output": [
+        "Tim gets an idea >Causes/Enables> Tim traces around the CD"
+      ]
+    },
+    {
+      "id": "task748-d30e243f97d54eda9a183ddd11bc03bf",
+      "input": "story: Sam wanted to fly a kite. He ordered one off of eBay. He got it in the mail 2 days later. He waited for a windy day to fly his kite. His kite flew away and got stuck in a tree.\n selected sentence: He ordered one off of eBay.",
+      "output": [
+        "Sam orders a kyte from eBay >Causes/Enables> The kyte comes in the mail"
+      ]
+    },
+    {
+      "id": "task748-5e09d661f26949f78270c49de406b8ee",
+      "input": "story: James invited his friends over to play a new board game. Nobody had played this game before except James. James won all night. His friends were upset so they went home. James realized he should have chosen a game that was fun for everyone.\n selected sentence: James invited his friends over to play a new board game.",
+      "output": [
+        "James invites his friends >Causes/Enables> The friends come over"
+      ]
+    },
+    {
+      "id": "task748-1ad76cf3f48a42cb9b41b2cae46a3f27",
+      "input": "story: She had finally broken it off with John. He'd been controlling and sometimes violent. She heard the sirens before the cop car pulled up. They'd found her ex-boyfriend with a pair of binoculars in a tree. He said he'd only been watching birds.\n selected sentence: He'd been controlling and sometimes violent.",
+      "output": [
+        "John is controlling >Causes/Enables> She breaks up with John"
+      ]
+    },
+    {
+      "id": "task748-daf241680db74b7eaf4f5bcdc96f71b6",
+      "input": "story: Liza took off her shoes and smelled them. They stunk really badly. She sprayed them with a special spray she found. The next day her feet started to itch badly. It was a poison ivy spray.\n selected sentence: They stunk really badly.",
+      "output": [
+        "Lisa's feet stink >Causes/Enables> Lisa sprays her feet",
+        "The shoes stink >Causes/Enables> Liza sprays them with a special spray"
+      ]
+    },
+    {
+      "id": "task748-b5e429d6a64142dab5665297a89b5ae9",
+      "input": "story: Ellen had just adopted a little boy named Tony. She wasn't sure what to buy Tony for his first Christmas. Then she had a great gift idea. She bought Tony a brand new bike! She was very happy when Tony said he loved his gift.\n selected sentence: She was very happy when Tony said he loved his gift.",
+      "output": [
+        "ellen celebrates christmas >Causes/Enables> ellen feel happy"
+      ]
+    },
+    {
+      "id": "task748-6a68d41946114d2bbc3a7770cfd1963d",
+      "input": "story: Amy was going to visit her friend who just moved. She looked up the address and thought she knew how to get there. While she was driving she realized that she was lost! Luckily she had her phone and she used the GPS to get back on track. In the end she found her way to her friend's new house.\n selected sentence: She looked up the address and thought she knew how to get there.",
+      "output": [
+        "Amy looks up the address >Causes/Enables> Amy gets to her friend's house"
+      ]
+    },
+    {
+      "id": "task748-9eb6d5f027d849889a144e4307629ef2",
+      "input": "story: Chess was not a game the Becks liked to play. They were a family that loved games, all but chess. One time they were at a chess match with other families. And they lost horribly in front of many people. They don't play games anymore.\n selected sentence: Chess was not a game the Becks liked to play.",
+      "output": [
+        "The Becks don't like playing chess >Causes/Enables> The Becks don't play chess",
+        "The Becks don't like to play chess >Causes/Enables> The Becks refuse to play chess"
+      ]
+    },
+    {
+      "id": "task748-b34ef49d2d1c4dc68d3154dc8863e731",
+      "input": "story: Sam was cold. It was the middle of winter. She went to the store. She bought a new scarf and hat. She felt warmer with her new clothing.\n selected sentence: She bought a new scarf and hat.",
+      "output": [
+        "Sam buys a hat >Causes/Enables> Sam wears the hat"
+      ]
+    },
+    {
+      "id": "task748-13411873fd2a4561824607a298e957e0",
+      "input": "story: Alexa woke up one night to a crashing sound. This frightened her. She took a bat out and went downstairs to see what happened. Alexa saw her next to a mess of things. It turned out, her cat knocked some items off of the counter.\n selected sentence: This frightened her.",
+      "output": [
+        "A crashing sound frightens Alexa >Causes/Enables> Alexa takes a bat downstairs",
+        "Alexa is frightened >Causes/Enables> Alexa goes to the sound"
+      ]
+    },
+    {
+      "id": "task748-0c96f60da29e4223bfa4cec4fd39022e",
+      "input": "story: To the horse lay on his side in the midday sun. Sarah went in for a few minutes and then came back outside. Teo was lying half way out of his corral! Sarah watched as Two inched along on the sand. Minutes later and Two was out, shaking off the dust out of his mane!\n selected sentence: Sarah went in for a few minutes and then came back outside.",
+      "output": [
+        "She comes back outside >Causes/Enables> She sees the horse"
+      ]
+    },
+    {
+      "id": "task748-10651ce0d53548119c850320531b4cc5",
+      "input": "story: Amy was upset she lost her new watch. She looked everywhere she could think of and never found it. While in her mom's car she found her watch tucked deep in the seat. Amy realized she was wrong when she accused a classmate of taking it. The next day Amy apologized and gave the girl she accused a cookie.\n selected sentence: While in her mom's car she found her watch tucked deep in the seat.",
+      "output": [
+        "Amy finds the watch >Causes/Enables> Amy retrieves the watch"
+      ]
+    },
+    {
+      "id": "task748-88ba703deb714d07909c6c183c999a18",
+      "input": "story: Anna loved gymnastics. She wanted to be a professional gymnast when she grew up. So she was eager to try out for her high school gymnastics team! She tried out and was happy to find she had made the team. Not only that - the other members had voted her team captain!\n selected sentence: Anna loved gymnastics.",
+      "output": [
+        "Anna loves gymnastics >Causes/Enables> Anna tries out for the gymnastics team",
+        "Anna loves gymnastics >Causes/Enables> Anna does gymnastics"
+      ]
+    },
+    {
+      "id": "task748-88568264f4e442a1b3e38b771a66755c",
+      "input": "story: It was very warm outside today. Mom decided to take us to the beach. John and I played in the sand. We splashed our feet in the water. I had so much fun, I was exhausted!\n selected sentence: It was very warm outside today.",
+      "output": [
+        "The weather is warm today >Causes/Enables> My mom took us to the beach "
+      ]
+    },
+    {
+      "id": "task748-da4081a8ed4140fdbd1f0155b36212c3",
+      "input": "story: Gina was listening to a song for the first time. She did not like this song at all. Her friend Lisa thought it was OK. Gina decided to give the song a second chance. She still didn't like it, but maybe it would grow on her.\n selected sentence: Her friend Lisa thought it was OK.",
+      "output": [
+        "Lisa thinks the song is ok >Causes/Enables> Gina gives it a second chance",
+        "Lisa thinks the song is OK >Causes/Enables> Lisa tells Gina the song is OK"
+      ]
+    },
+    {
+      "id": "task748-c920d5e4db774b6382b19640667ce51e",
+      "input": "story: We thought we would take the kids to mini golf. They were so excited to go. My seven year old was ready to hit the ball. I followed it as it went towards the hole. Then all of a sudden I saw it fall in the hole.\n selected sentence: I followed it as it went towards the hole.",
+      "output": [
+        "I follow the ball toward the hole >Causes/Enables> I see the ball fall into the hole"
+      ]
+    },
+    {
+      "id": "task748-a49bb1318e794130b607e268f0175787",
+      "input": "story: For the third night in a row, young Jeremy had fallen out of his bed. His mom was really nervous he was going to be seriously hurt. Her friend told her to use a foam pool noodle to keep him safe. She put the noodle under the fitted sheet along the edge of the bed. Surprisingly, Jeremy didn't fall out of the bed again.\n selected sentence: For the third night in a row, young Jeremy had fallen out of his bed.",
+      "output": [
+        "Jeremy repeatedly fell about of his bed >Causes/Enables> Jeremy's mom was worried about Jeremy"
+      ]
+    },
+    {
+      "id": "task748-84635ea5f8074e18a6a9d637aa075651",
+      "input": "story: Sam snuck into the garage. Finding valuable jewels, he started putting them in his bag. Suddenly, he heard footsteps approaching. Holding his breath, he prayed the would not be found. The lights switched on and the cops caught him red handed.\n selected sentence: Suddenly, he heard footsteps approaching.",
+      "output": [
+        "Sam hears footsteps >Causes/Enables> Sam holds his breath",
+        "Sam hears footsteps approaching >Causes/Enables> The cops arrive"
+      ]
+    },
+    {
+      "id": "task748-74a8a0294ef54d3f82addfe7f69acee1",
+      "input": "story: The family went to the farm to find a Christmas tree. The found one and chopped it down. It was the perfect size. The took it the their car and tied it down. When they got home they decorated it.\n selected sentence: It was the perfect size.",
+      "output": [
+        "The tree is the perfect size >Causes/Enables> The tree fits on the roof of their car"
       ]
     }
   ],

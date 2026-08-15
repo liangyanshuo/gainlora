@@ -63,703 +63,1403 @@
   ],
   "Instances": [
     {
-      "id": "task1510-9e821d91e01642709269a36b9690939a",
-      "input": "person can have or can contain offspring",
+      "id": "task1510-fe1258f1f0494d5da2bc7ce29e8b1eb4",
+      "input": "bill can be used with the same meaning of note",
       "output": [
-        "person HasA offspring"
+        "bill Synonym note"
       ]
     },
     {
-      "id": "task1510-0a5ffb821fd54ddc8019c3dff826f238",
-      "input": "person can have or can contain parent",
+      "id": "task1510-5e3f821b9c0b485db95f64a88aaf61d2",
+      "input": "baby can be characterized by ugly",
       "output": [
-        "person HasA parent"
+        "baby HasProperty ugly"
       ]
     },
     {
-      "id": "task1510-dd376fffb2c24f7f965e4c5819bf6436",
-      "input": "person can have or can contain sex",
+      "id": "task1510-8b16f83310c34fdfb022049095978981",
+      "input": "bedroom can be characterized by square",
       "output": [
-        "person HasA sex"
+        "bedroom HasProperty square"
       ]
     },
     {
-      "id": "task1510-81e88518ef044fddbbe80d388e2fd86b",
-      "input": "person can have or can contain skin",
+      "id": "task1510-0e167ac2e6d849bf9d2d2e09e7f36194",
+      "input": "armchair can be characterized by comfortable",
       "output": [
-        "person HasA skin"
+        "armchair HasProperty comfortable"
       ]
     },
     {
-      "id": "task1510-0480e0a87b3349b1b9862cf752a03fe1",
-      "input": "person can have or can contain sleep",
+      "id": "task1510-96780bab85084434b03188809b19487c",
+      "input": "asia can be characterized by large",
       "output": [
-        "person HasA sleep"
+        "asia HasProperty large"
       ]
     },
     {
-      "id": "task1510-4ddcc5345c0a4c9f961c338d6ba1fbda",
-      "input": "person can have or can contain something",
+      "id": "task1510-765ded28e94948f2bfadd8fb5659784a",
+      "input": "baby is part of family",
       "output": [
-        "person HasA something"
+        "baby PartOf family"
       ]
     },
     {
-      "id": "task1510-945bcaaa4cc04c26b8df776922a87798",
-      "input": "person can have or can contain soul",
+      "id": "task1510-8069fe9c195b4433a75775b39bb7da75",
+      "input": "brain is a kind of head",
       "output": [
-        "person HasA soul"
+        "brain IsA head"
       ]
     },
     {
-      "id": "task1510-36e237307b584f2889997dbbd1815a18",
-      "input": "person can have or can contain tooth",
+      "id": "task1510-ab3156ed12d949d8b1b6edffa6618b9e",
+      "input": "bottle can be used with the same meaning of courage",
       "output": [
-        "person HasA tooth"
+        "bottle Synonym courage"
       ]
     },
     {
-      "id": "task1510-c93397eab3c94f0e9db3c22f05365339",
-      "input": "person is a kind of human_be",
+      "id": "task1510-5d9401bb5fa74e5cb4c1a2e3c4db90ab",
+      "input": "burn is a kind of feel",
       "output": [
-        "person IsA human_be"
+        "burn IsA feel"
       ]
     },
     {
-      "id": "task1510-fff905733af04561ab668301c6885169",
-      "input": "person is a kind of human_body",
+      "id": "task1510-d9a265671d2746ec994650fde53afa56",
+      "input": "body can be characterized by unique",
       "output": [
-        "person IsA human_body"
+        "body HasProperty unique"
       ]
     },
     {
-      "id": "task1510-fad59a63a41b4726bc05a5af79af5dfc",
-      "input": "person is a kind of individual",
+      "id": "task1510-8c4c020328d54b4ead6cc17a73fc563e",
+      "input": "Alto is a kind of pitch",
       "output": [
-        "person IsA individual"
+        "alto IsA pitch"
       ]
     },
     {
-      "id": "task1510-d7370b6698c144dc877ea265d0e0fc22",
-      "input": "person is a kind of mammal",
+      "id": "task1510-2d2853d7993149a1a4a27615d990f99f",
+      "input": "answer can be used as the opposite of unknown",
       "output": [
-        "person IsA mammal"
+        "answer Antonym unknown"
       ]
     },
     {
-      "id": "task1510-6275e3a4c1ac4854bfb1723fb15738a9",
-      "input": "person is a kind of organism",
+      "id": "task1510-93196ba451f94ad7ab45fac323fd1e11",
+      "input": "bit is part of key",
       "output": [
-        "person IsA organism"
+        "bit PartOf key"
       ]
     },
     {
-      "id": "task1510-f2cb719a624640c993019adf5dcb2c58",
-      "input": "person is a kind of woman",
+      "id": "task1510-f2dc0e8da7454098b4e58d530dbf55a8",
+      "input": "book can have or can contain cover",
       "output": [
-        "person IsA woman"
+        "book HasA cover"
       ]
     },
     {
-      "id": "task1510-52c813f6d58b4aec8f7f10e579afe4a6",
-      "input": "person is a member of world",
+      "id": "task1510-4c618665b7344937a0bdb4c9ce095d71",
+      "input": "balloon can have or can contain water",
       "output": [
-        "person MemberOf world"
+        "balloon HasA water"
       ]
     },
     {
-      "id": "task1510-38648df4b8384394b60afe581906ae84",
-      "input": "person is made of meat",
+      "id": "task1510-d920571b6a21497abcc9125c6e2bf5d7",
+      "input": "antique can be characterized by value",
       "output": [
-        "person MadeOf meat"
+        "antique HasProperty value"
       ]
     },
     {
-      "id": "task1510-4cfd0e4f891745aba3c811dde69e8ce9",
-      "input": "person is made of water",
+      "id": "task1510-26f779ecb84f4f629c15333519f9a1ec",
+      "input": "apple is part of core",
       "output": [
-        "person MadeOf water"
+        "apple PartOf core"
       ]
     },
     {
-      "id": "task1510-b3b59d1d087c4d0f87ec033acd9efe77",
-      "input": "person is part of humanity",
+      "id": "task1510-5c662695752c4cd79354bcc6c7a804dc",
+      "input": "breast can be used with the same meaning of chest",
       "output": [
-        "person PartOf humanity"
+        "breast Synonym chest"
       ]
     },
     {
-      "id": "task1510-d99a1793c0204c479833be12851aeddb",
-      "input": "person is part of society",
+      "id": "task1510-303ec81b79d4466d81fe208efe22112b",
+      "input": "book is a kind of text",
       "output": [
-        "person PartOf society"
+        "book IsA text"
       ]
     },
     {
-      "id": "task1510-ecf5b04925cf4609969945197c3c6b7c",
-      "input": "pet can be characterized by alive",
+      "id": "task1510-e65ed28137b44f24b1ca12cb66b6756e",
+      "input": "build is a kind of develop",
       "output": [
-        "pet HasProperty alive"
+        "build IsA develop"
       ]
     },
     {
-      "id": "task1510-9993f0b6a34a4e56a613070c78b2d143",
-      "input": "pet can be characterized by fun",
+      "id": "task1510-cb032f18df394853a8cb4d70d4aad1b2",
+      "input": "black is a kind of person",
       "output": [
-        "pet HasProperty fun"
+        "black IsA person"
       ]
     },
     {
-      "id": "task1510-64c1c3c6c9f740fc8ab3efdf1df4fe3d",
-      "input": "pet can be used as the opposite of wild",
+      "id": "task1510-3f2243def6514160bfd0cb633581adcc",
+      "input": "active can be used with the same meaning of busy",
       "output": [
-        "pet Antonym wild"
+        "active Synonym busy"
       ]
     },
     {
-      "id": "task1510-7c0dc9eced3a4c459c8696e98a986ed3",
-      "input": "pet is a kind of animal",
+      "id": "task1510-9ee26baa8f9349a683c3d627d3d9556c",
+      "input": "beauty can be used as the opposite of ugly",
       "output": [
-        "pet IsA animal"
+        "beauty Antonym ugly"
       ]
     },
     {
-      "id": "task1510-0fe64c1d5e774eb1bd3d2f0d0a2b522d",
-      "input": "phone can be used with the same meaning of call",
+      "id": "task1510-f8a1ce8d929f4f1088963d635f35e10f",
+      "input": "blade is part of fan",
       "output": [
-        "phone Synonym call"
+        "blade PartOf fan"
       ]
     },
     {
-      "id": "task1510-168047f39c04488eabc4fe80ee80e79a",
-      "input": "phone can be used with the same meaning of ring",
+      "id": "task1510-cc9c0f3572f345a1b0447f7e037ecbae",
+      "input": "beef is a kind of meet",
       "output": [
-        "phone Synonym ring"
+        "beef IsA meet"
       ]
     },
     {
-      "id": "task1510-d79cec0a77f547da8396060077398251",
-      "input": "phone can be used with the same meaning of telephone",
+      "id": "task1510-94ab1fbed267438fb22e7227506b9295",
+      "input": "baggage can be used with the same meaning of gear",
       "output": [
-        "phone Synonym telephone"
+        "baggage Synonym gear"
       ]
     },
     {
-      "id": "task1510-382588d6d4cc4a5997c817ea41e400b2",
-      "input": "phone is a kind of machine",
+      "id": "task1510-72dd3b0d08284497a58cbb032e7d4715",
+      "input": "button can be used with the same meaning of knob",
       "output": [
-        "phone IsA machine"
+        "button Synonym knob"
       ]
     },
     {
-      "id": "task1510-29e8330535554eeba636fda116ea6688",
-      "input": "Phone is a kind of tool",
+      "id": "task1510-9d071956d85d4d63959e9d8879e6f10f",
+      "input": "bar is part of goal",
       "output": [
-        "phone IsA tool"
+        "bar PartOf goal"
       ]
     },
     {
-      "id": "task1510-d811267b937843c884ebdb60481e9ccf",
-      "input": "phone is made of plastic",
+      "id": "task1510-8c2356685c8c413f8818238c924ab620",
+      "input": "alcohol is a kind of drug",
       "output": [
-        "phone MadeOf plastic"
+        "alcohol IsA drug"
       ]
     },
     {
-      "id": "task1510-aebc77a32a664cd0841bd9457ec93970",
-      "input": "photograph can be characterized by flat",
+      "id": "task1510-228a2a576cb543dd92b1c5e4f679280a",
+      "input": "benefit can be used as the opposite of punishment",
       "output": [
-        "photograph HasProperty flat"
+        "benefit Antonym punishment"
       ]
     },
     {
-      "id": "task1510-54cde7214e4c4153bc403236a9b65e72",
-      "input": "photograph can be characterized by instant",
+      "id": "task1510-fec7e59319c24897a355160c1cf0eef8",
+      "input": "bind can be used with the same meaning of fasten",
       "output": [
-        "photograph HasProperty instant"
+        "bind Synonym fasten"
       ]
     },
     {
-      "id": "task1510-3f3f8603aaa344ecb16babdbe2d8e15e",
-      "input": "phrase is a kind of construction",
+      "id": "task1510-c091d9c757f64fb081f5f09045148880",
+      "input": "birth can be used as the opposite of death",
       "output": [
-        "phrase IsA construction"
+        "birth Antonym death"
       ]
     },
     {
-      "id": "task1510-3828fe7867b14fb18abbb1b749407a6e",
-      "input": "phrase is part of sentence",
+      "id": "task1510-f180f78e84de48ae93ddcd2e156d246e",
+      "input": "bank can have or can contain change",
       "output": [
-        "phrase PartOf sentence"
+        "bank HasA change"
       ]
     },
     {
-      "id": "task1510-e1c8fbaf8c6b48079069d6116d81e55a",
-      "input": "piano can be characterized by solid",
+      "id": "task1510-97871610101f4a9391fda24c6c2c3f54",
+      "input": "Article is part of newspaper",
       "output": [
-        "piano HasProperty solid"
+        "article PartOf newspaper"
       ]
     },
     {
-      "id": "task1510-522cebbf573e484cba1aa055997e1fd7",
-      "input": "piano can have or can contain keyboard",
+      "id": "task1510-73879de783b946f0b5fe0c62991ddf9a",
+      "input": "black is a kind of man",
       "output": [
-        "piano HasA keyboard"
+        "black IsA man"
       ]
     },
     {
-      "id": "task1510-e7e562f75bfa4b5a8990a96088d5999a",
-      "input": "pick can be used as the opposite of give",
+      "id": "task1510-cf819a0f61f24d7888dfa3a90be10c0c",
+      "input": "bottle can have or can contain milk",
       "output": [
-        "pick Antonym give"
+        "bottle HasA milk"
       ]
     },
     {
-      "id": "task1510-1b935d75d1bd421cb921429cef19c7a3",
-      "input": "pick can be used with the same meaning of choose",
+      "id": "task1510-599513fc99084c5cbb0d3bbf0327b067",
+      "input": "bow can be characterized by fun",
       "output": [
-        "pick Synonym choose"
+        "bow HasProperty fun"
       ]
     },
     {
-      "id": "task1510-09b22f81ed674165b9ffd2e1bfac5864",
-      "input": "pick is a kind of choose",
+      "id": "task1510-7442991a52434b86a1361bda43fb241b",
+      "input": "begin is a kind of point",
       "output": [
-        "pick IsA choose"
+        "begin IsA point"
       ]
     },
     {
-      "id": "task1510-6b73a394107046299493450800a8a353",
-      "input": "pick is a kind of device",
+      "id": "task1510-a95305ea1d514a6ca1ce59beaa173be8",
+      "input": "basketball is a kind of game",
       "output": [
-        "pick IsA device"
+        "basketball IsA game"
       ]
     },
     {
-      "id": "task1510-42bc2b39b4804f5e9bd9208528d44adb",
-      "input": "pick is a kind of pierce",
+      "id": "task1510-4dd6a11be0e94885a99d629baea39a33",
+      "input": "boat is made of steel",
       "output": [
-        "pick IsA pierce"
+        "boat MadeOf steel"
       ]
     },
     {
-      "id": "task1510-5bd77dec0ee34bda9701b6934ce93b0f",
-      "input": "pick is a kind of tool",
+      "id": "task1510-4c96bb3d60344b229028516511f5cee6",
+      "input": "alley can be used with the same meaning of aisle",
       "output": [
-        "pick IsA tool"
+        "alley Synonym aisle"
       ]
     },
     {
-      "id": "task1510-790e9ea4201e4623b4f4249bacfa2eb2",
-      "input": "pick is made of aluminum",
+      "id": "task1510-6df082ba771a46e6a2164c99aefd9db2",
+      "input": "agreement can be used with the same meaning of understand",
       "output": [
-        "pick MadeOf aluminum"
+        "agreement Synonym understand"
       ]
     },
     {
-      "id": "task1510-3535e599218e404db20face4a4aabde9",
-      "input": "pick is made of metal",
+      "id": "task1510-190897a6032f43958a8f651c83fa8502",
+      "input": "blow can be used with the same meaning of wind",
       "output": [
-        "pick MadeOf metal"
+        "blow Synonym wind"
       ]
     },
     {
-      "id": "task1510-7a670d60e4ae4726ac347ff07c034d19",
-      "input": "picture can be used as the opposite of movie",
+      "id": "task1510-9efdf58ac8ea4a44b57773acd952f238",
+      "input": "back is part of human",
       "output": [
-        "picture Antonym movie"
+        "back PartOf human"
       ]
     },
     {
-      "id": "task1510-e2dea0e580a8412585a72147b7115c9b",
-      "input": "picture can be used with the same meaning of movie",
+      "id": "task1510-cdf410ad513d4ff78d0317e87a3e92b0",
+      "input": "bedroom can be used as the opposite of kitchen",
       "output": [
-        "picture Synonym movie"
+        "bedroom Antonym kitchen"
       ]
     },
     {
-      "id": "task1510-90db452be9364586b0750b60082566b6",
-      "input": "picture is part of book",
+      "id": "task1510-22157b612d9c41698cf9d839dcb31045",
+      "input": "bill can have or can contain number",
       "output": [
-        "picture PartOf book"
+        "bill HasA number"
       ]
     },
     {
-      "id": "task1510-2555235016d14f83915392c0df3a3ad6",
-      "input": "picture_frame is a kind of frame",
+      "id": "task1510-ca0298458f5c4a9f8f09519fab0afc72",
+      "input": "adult can be used with the same meaning of grow_up",
       "output": [
-        "picture_frame IsA frame"
+        "adult Synonym grow_up"
       ]
     },
     {
-      "id": "task1510-1e99485e33a14d4395955fa87fdd6b04",
-      "input": "picture_frame is made of wood",
+      "id": "task1510-b43491901bd84d0cb936956b890345c9",
+      "input": "book can be used as the opposite of film",
       "output": [
-        "picture_frame MadeOf wood"
+        "book Antonym film"
       ]
     },
     {
-      "id": "task1510-941acadb573146dda8bab1f2969edbcc",
-      "input": "piece can be used as the opposite of all",
+      "id": "task1510-dc7b1abcfe094036bec2f5d3018e8b5e",
+      "input": "baby can be characterized by entertain",
       "output": [
-        "piece Antonym all"
+        "baby HasProperty entertain"
       ]
     },
     {
-      "id": "task1510-a0f48369b1be4ef3a80c163bcba50674",
-      "input": "piece can be used as the opposite of complete",
+      "id": "task1510-0f7d89b547be41e7ae1803ba6f44200e",
+      "input": "bad can be used as the opposite of benevolent",
       "output": [
-        "piece Antonym complete"
+        "bad Antonym benevolent"
       ]
     },
     {
-      "id": "task1510-e0b10f9aca3148d3866a51587ce9f127",
-      "input": "piece can be used as the opposite of whole",
+      "id": "task1510-be8d5eaa61c7496491d0b0ce81cf010d",
+      "input": "break is a kind of change",
       "output": [
-        "piece Antonym whole"
+        "break IsA change"
       ]
     },
     {
-      "id": "task1510-867dcbd93cc245f1a73ac2ecc8000b51",
-      "input": "piece is a kind of part",
+      "id": "task1510-825c903098d4479fa69c192b2dce4835",
+      "input": "breast is part of human",
       "output": [
-        "piece IsA part"
+        "breast PartOf human"
       ]
     },
     {
-      "id": "task1510-0f467dc799d64cbb833eaf35e391ca35",
-      "input": "piece is part of collection",
+      "id": "task1510-594f54730d3b49cfb4dcdce358e2147e",
+      "input": "boot is a kind of shoe",
       "output": [
-        "piece PartOf collection"
+        "boot IsA shoe"
       ]
     },
     {
-      "id": "task1510-81cf898b832a4c379840303b959e1c5d",
-      "input": "piece is part of whole",
+      "id": "task1510-d74b4b30331348cb9edf7ff45fdea8e0",
+      "input": "animal is part of nature",
       "output": [
-        "piece PartOf whole"
+        "animal PartOf nature"
       ]
     },
     {
-      "id": "task1510-7341e8be89a446e58c0906947d34031d",
-      "input": "pierce is true then also cut is true",
+      "id": "task1510-b9bb276ed7834f34a3600bf018d666b9",
+      "input": "base can be characterized by black",
       "output": [
-        "pierce Entails cut"
+        "base HasProperty black"
       ]
     },
     {
-      "id": "task1510-ad596483934f4df6b447e87a57db1797",
-      "input": "pig can be characterized by intelligent",
+      "id": "task1510-a45b80bf9e8b49afb217186656f187fb",
+      "input": "bedroom can have or can contain bed",
       "output": [
-        "pig HasProperty intelligent"
+        "bedroom HasA bed"
       ]
     },
     {
-      "id": "task1510-d5a4b46e2eae4dc596c9967f3bf3cb2a",
-      "input": "pig can be used with the same meaning of policeman",
+      "id": "task1510-1b5b1185089247d1a324b466e990f496",
+      "input": "build can be used with the same meaning of construct",
       "output": [
-        "pig Synonym policeman"
+        "build Synonym construct"
       ]
     },
     {
-      "id": "task1510-4fad48ced6dd418db0b30088d8fe1c7c",
-      "input": "pig can have or can contain bone",
+      "id": "task1510-a2128fffa2774a7aa7fc674e88986263",
+      "input": "automobile is made of steel",
       "output": [
-        "pig HasA bone"
+        "automobile MadeOf steel"
       ]
     },
     {
-      "id": "task1510-06320cf4b29f4bc391b91717e9628cf0",
-      "input": "pillow can be characterized by comfortable",
+      "id": "task1510-f8c42a6ed6764b5689da4355da104171",
+      "input": "brain can be characterized by complex",
       "output": [
-        "pillow HasProperty comfortable"
+        "brain HasProperty complex"
       ]
     },
     {
-      "id": "task1510-de37233dc8d74faa84d3c0cca6533f49",
-      "input": "pillow can be characterized by soft",
+      "id": "task1510-8afed3cdf7c14b2f8c563c2b1e0ad653",
+      "input": "bat can have or can contain eye",
       "output": [
-        "pillow HasProperty soft"
+        "bat HasA eye"
       ]
     },
     {
-      "id": "task1510-533893cffefd42f1963758947b99ed66",
-      "input": "pillow can have or can contain feather",
+      "id": "task1510-85c9813e75554c4c8236229535618b35",
+      "input": "arch is a kind of bend",
       "output": [
-        "pillow HasA feather"
+        "arch IsA bend"
       ]
     },
     {
-      "id": "task1510-11fc58d6b73d4aa4b4588bc8ffc58f7c",
-      "input": "pillow is made of cotton",
+      "id": "task1510-a0c129165d164871b4f495a38d5b6b3c",
+      "input": "appear can be used with the same meaning of come",
       "output": [
-        "pillow MadeOf cotton"
+        "appear Synonym come"
       ]
     },
     {
-      "id": "task1510-92dd819ee221475cafe15ddb49cb9b89",
-      "input": "pillow is made of feather",
+      "id": "task1510-6e353591a818431ca3fa6ec02dc5ee82",
+      "input": "boyfriend can be used as the opposite of girl",
       "output": [
-        "pillow MadeOf feather"
+        "boyfriend Antonym girl"
       ]
     },
     {
-      "id": "task1510-efcd3ce89db84e448a8431b39f44c70c",
-      "input": "pillow is part of bed",
+      "id": "task1510-15f75fef5375490f9e88299f9b57f05e",
+      "input": "author can be used with the same meaning of artist",
       "output": [
-        "pillow PartOf bed"
+        "author Synonym artist"
       ]
     },
     {
-      "id": "task1510-2dd888329a184df3a3f6befe4f4fcc70",
-      "input": "pin can be characterized by sharp",
+      "id": "task1510-63655fc85bd34d49bb219f9c8b0a5d12",
+      "input": "brick can be characterized by hard",
       "output": [
-        "pin HasProperty sharp"
+        "brick HasProperty hard"
       ]
     },
     {
-      "id": "task1510-2655669c9eff40e0888bef11a4145298",
-      "input": "pin can be characterized by straight",
+      "id": "task1510-559964b0a1a24dd7a6e8276f973ecc79",
+      "input": "bowl can have or can contain liquid",
       "output": [
-        "pin HasProperty straight"
+        "bowl HasA liquid"
       ]
     },
     {
-      "id": "task1510-f489e26be3524a97b0426e80276b3e83",
-      "input": "pin can be characterized by thin",
+      "id": "task1510-f881ac3130964c108773ae5e39d4e229",
+      "input": "bow can be used as the opposite of pluck",
       "output": [
-        "pin HasProperty thin"
+        "bow Antonym pluck"
       ]
     },
     {
-      "id": "task1510-69b3cbc865104778946f8078b88456f7",
-      "input": "pin can be used with the same meaning of nail",
+      "id": "task1510-f719f539832c44d9ab7275c3505d62e9",
+      "input": "butch can be used as the opposite of gentle",
       "output": [
-        "pin Synonym nail"
+        "butch Antonym gentle"
       ]
     },
     {
-      "id": "task1510-cafaba411266481f97644c6af22f7534",
-      "input": "pin can have or can contain point",
+      "id": "task1510-fc0bf87e5b1648daa435da51ac826747",
+      "input": "brick is made of clay",
       "output": [
-        "pin HasA point"
+        "brick MadeOf clay"
       ]
     },
     {
-      "id": "task1510-10b791941c704dbd9335ec452d789448",
-      "input": "pin is a kind of leg",
+      "id": "task1510-0b4febd643844cd787914deea584f245",
+      "input": "bird can be characterized by feather",
       "output": [
-        "pin IsA leg"
+        "bird HasProperty feather"
       ]
     },
     {
-      "id": "task1510-325db7e0ed8e4d48acff7303ba510e04",
-      "input": "pipe can be characterized by hollow",
+      "id": "task1510-2ecddfd9dd4649d5aff81de7078552a4",
+      "input": "book is a kind of collection",
       "output": [
-        "pipe HasProperty hollow"
+        "book IsA collection"
       ]
     },
     {
-      "id": "task1510-45ea6e9241ce405688920e75189c7c52",
-      "input": "pipe can be characterized by hot",
+      "id": "task1510-d6c8e4619ee44b3a8fe02b9c063a8f43",
+      "input": "butch can be used with the same meaning of kill",
       "output": [
-        "pipe HasProperty hot"
+        "butch Synonym kill"
       ]
     },
     {
-      "id": "task1510-f89b999dc2a242219f5cf46cb99e985f",
-      "input": "pipe can be used as the opposite of cigarette",
+      "id": "task1510-5f0d11a2f57b4b74a24f4dccbd0dd9d5",
+      "input": "bitch can be used with the same meaning of female",
       "output": [
-        "pipe Antonym cigarette"
+        "bitch Synonym female"
       ]
     },
     {
-      "id": "task1510-dbd51746ea84402f9395521b05c48b2b",
-      "input": "pipe is a kind of wind_instrument",
+      "id": "task1510-866d48f835ce47558af94ba357502393",
+      "input": "appear can be used as the opposite of leave",
       "output": [
-        "pipe IsA wind_instrument"
+        "appear Antonym leave"
       ]
     },
     {
-      "id": "task1510-69610af2ff7346a6a9827324120b46ff",
-      "input": "pipe is made of metal",
+      "id": "task1510-40941d15f2e84bd399b897cba8a8eb31",
+      "input": "bathroom is part of house",
       "output": [
-        "pipe MadeOf metal"
+        "bathroom PartOf house"
       ]
     },
     {
-      "id": "task1510-76e884e0e22e488aa303721f4311e1b1",
-      "input": "pit can be used with the same meaning of cavity",
+      "id": "task1510-9ba0ca85bcf74dcba32e66ea15c3d736",
+      "input": "bath is a kind of place",
       "output": [
-        "pit Synonym cavity"
+        "bath IsA place"
       ]
     },
     {
-      "id": "task1510-3564cdb65112443e84d6b1b016835b8a",
-      "input": "pit is a kind of cavity",
+      "id": "task1510-70bbcf17ace346c9b24d2049332d30d9",
+      "input": "beauty is a kind of person",
       "output": [
-        "pit IsA cavity"
+        "beauty IsA person"
       ]
     },
     {
-      "id": "task1510-bd1e00b6ead34693ac37bad63e45d3cb",
-      "input": "pit is a kind of depression",
+      "id": "task1510-df0a5f54777249bc8e5c968e4b5ee97e",
+      "input": "balloon can be characterized by rubber",
       "output": [
-        "pit IsA depression"
+        "balloon HasProperty rubber"
       ]
     },
     {
-      "id": "task1510-d93ad0f6cf704b20813a88c60c5dc26f",
-      "input": "pit is a kind of hole",
+      "id": "task1510-4c4a2944d9cf4d0e9d97bb634852c2ca",
+      "input": "bird can be used as the opposite of mammal",
       "output": [
-        "pit IsA hole"
+        "bird Antonym mammal"
       ]
     },
     {
-      "id": "task1510-4f044a347db1424a8b92bbf4ce769a18",
-      "input": "pit is a kind of place",
+      "id": "task1510-b5f21bf7076b44e28811dd4ab4bb12b6",
+      "input": "battle is a kind of fight",
       "output": [
-        "pit IsA place"
+        "battle IsA fight"
       ]
     },
     {
-      "id": "task1510-c1630164622d40e187c33390624dec01",
-      "input": "pit is a kind of trap",
+      "id": "task1510-960ca44120e4442ab5bd401a54da7a51",
+      "input": "author is a kind of write",
       "output": [
-        "pit IsA trap"
+        "author IsA write"
       ]
     },
     {
-      "id": "task1510-0672eb8ad77d4eaf8af700713c897ef7",
-      "input": "pitch is a kind of play",
+      "id": "task1510-dfb703ac1c254c40a33d283a9721f8c1",
+      "input": "Board is a kind of organization",
       "output": [
-        "pitch IsA play"
+        "board IsA organization"
       ]
     },
     {
-      "id": "task1510-1e9f6debfa034216803d1eb0dbe93647",
-      "input": "pitcher is a kind of person",
+      "id": "task1510-956ce8845dc04b24a539492023bd3ff0",
+      "input": "break can be used as the opposite of hold",
       "output": [
-        "pitcher IsA person"
+        "break Antonym hold"
       ]
     },
     {
-      "id": "task1510-bf93c833b5a740ebb62ebe7d3bd2b05c",
-      "input": "pitcher is a kind of player",
+      "id": "task1510-828567c350db4c57a711aa6807d67341",
+      "input": "bone can be used as the opposite of tissue",
       "output": [
-        "pitcher IsA player"
+        "bone Antonym tissue"
       ]
     },
     {
-      "id": "task1510-fb715309da3b48f2bfbae8872776ee28",
-      "input": "Pitcher is a kind of vessel",
+      "id": "task1510-ffad992248654e15b2b4eb6a2d394bb7",
+      "input": "brave can be used as the opposite of hide",
       "output": [
-        "pitcher IsA vessel"
+        "brave Antonym hide"
       ]
     },
     {
-      "id": "task1510-3030c5ab15e44a45a9f559a733b4c1f3",
-      "input": "pitcher is made of clay",
+      "id": "task1510-9bf5a202517e4fcab753ac8854ba01b2",
+      "input": "beef is a kind of food",
       "output": [
-        "pitcher MadeOf clay"
+        "beef IsA food"
       ]
     },
     {
-      "id": "task1510-c357fe17bea540eea10aaa829031b3eb",
-      "input": "place can be used with the same meaning of seat",
+      "id": "task1510-8b4393a5079c496f926747bf1c3b68b5",
+      "input": "Approach can be used with the same meaning of advance",
       "output": [
-        "place Synonym seat"
+        "approach Synonym advance"
       ]
     },
     {
-      "id": "task1510-328474c1ff324a33b49051156a39bbab",
-      "input": "place can be used with the same meaning of spot",
+      "id": "task1510-f8d028013d66440c87dc0e7d234c063e",
+      "input": "bird can have or can contain egg",
       "output": [
-        "place Synonym spot"
+        "bird HasA egg"
       ]
     },
     {
-      "id": "task1510-b04335fcda534175895807fb1bb70f48",
-      "input": "place can be used with the same meaning of square",
+      "id": "task1510-79949a5bd1754ec7896718333aadeb3c",
+      "input": "breathe is true then also exhale is true",
       "output": [
-        "place Synonym square"
+        "breathe Entails exhale"
       ]
     },
     {
-      "id": "task1510-94074afd2dd54999822ec77e1a547c0f",
-      "input": "place is a kind of rank",
+      "id": "task1510-1d9d4e5cc0b54cc3a5e8933815d4663d",
+      "input": "burn is a kind of damage",
       "output": [
-        "place IsA rank"
+        "burn IsA damage"
       ]
     },
     {
-      "id": "task1510-8a6e97183f39470287a81868120312cd",
-      "input": "plain can be characterized by flat",
+      "id": "task1510-c4014372f084463d979876034ffde5dc",
+      "input": "actor is part of film",
       "output": [
-        "plain HasProperty flat"
+        "actor PartOf film"
       ]
     },
     {
-      "id": "task1510-ce6ef748fe7f4f65b36355d4835eca92",
-      "input": "plain can be used as the opposite of complex",
+      "id": "task1510-ac9fce06cb1a47438cd1de34aaa72200",
+      "input": "box can have or can contain something",
       "output": [
-        "plain Antonym complex"
+        "box HasA something"
       ]
     },
     {
-      "id": "task1510-8a4e1358588646ba9108b9477274fd27",
-      "input": "plain can be used as the opposite of complicate",
+      "id": "task1510-47d738282a674e89b880a6a9d0ab2426",
+      "input": "Bark is a kind of tan",
       "output": [
-        "plain Antonym complicate"
+        "bark IsA tan"
       ]
     },
     {
-      "id": "task1510-db71c1db2313451e8d43e6bd007ce274",
-      "input": "plain can be used as the opposite of decorate",
+      "id": "task1510-34a31ebfdc3f492d93cdedc443b0d463",
+      "input": "beauty can be characterized by rare",
       "output": [
-        "plain Antonym decorate"
+        "beauty HasProperty rare"
       ]
     },
     {
-      "id": "task1510-9ca1f448e3784e83b9919e6645ebb361",
-      "input": "plain can be used as the opposite of fancy",
+      "id": "task1510-52ad0d9346f74d42b70ed57f1004340d",
+      "input": "body can be used as the opposite of soul",
       "output": [
-        "plain Antonym fancy"
+        "body Antonym soul"
       ]
     },
     {
-      "id": "task1510-544979bb1f734f9e82608a2a2121698c",
-      "input": "plain can be used as the opposite of pattern",
+      "id": "task1510-5902af5c7d49497081fe89092fa4a665",
+      "input": "add can be used with the same meaning of join",
       "output": [
-        "plain Antonym pattern"
+        "add Synonym join"
       ]
     },
     {
-      "id": "task1510-0ecaff95e151436f8710f139eb17291a",
-      "input": "plain can be used as the opposite of unique",
+      "id": "task1510-d57d79f1b62b490daf587d753ac7888b",
+      "input": "aluminum is a kind of material",
       "output": [
-        "plain Antonym unique"
+        "aluminum IsA material"
       ]
     },
     {
-      "id": "task1510-03213a61de7046048d70898a9f04095b",
-      "input": "plain can be used with the same meaning of ordinary",
+      "id": "task1510-45622d226e5b458eb24e67ab94f7c885",
+      "input": "bag is made of plastic",
       "output": [
-        "plain Synonym ordinary"
+        "bag MadeOf plastic"
       ]
     },
     {
-      "id": "task1510-f4bf01677eca4963833da73efb88bea1",
-      "input": "plain is a kind of land",
+      "id": "task1510-46a4e988ec304b5caa008256547b7f0b",
+      "input": "blow is part of fight",
       "output": [
-        "plain IsA land"
+        "blow PartOf fight"
       ]
     },
     {
-      "id": "task1510-fc86446cde5f45328f38ad79f2a2011a",
-      "input": "plan is a kind of business",
+      "id": "task1510-156d0f0f367b4e39af9644acb64f159f",
+      "input": "bathroom can be characterized by dark",
       "output": [
-        "plan IsA business"
+        "bathroom HasProperty dark"
+      ]
+    },
+    {
+      "id": "task1510-41758c0daead4e36b046be26e1133ac0",
+      "input": "admire is a kind of look",
+      "output": [
+        "admire IsA look"
+      ]
+    },
+    {
+      "id": "task1510-a19ca8b29b9b4784a91e860e89c9a4f9",
+      "input": "book is a kind of literature",
+      "output": [
+        "book IsA literature"
+      ]
+    },
+    {
+      "id": "task1510-bf902c53ce45426c862a68faf402874f",
+      "input": "bear can have or can contain fur",
+      "output": [
+        "bear HasA fur"
+      ]
+    },
+    {
+      "id": "task1510-532f4282f6804df38766045110c21378",
+      "input": "act is a kind of communication",
+      "output": [
+        "act IsA communication"
+      ]
+    },
+    {
+      "id": "task1510-f4438274c9a649439604814cd6dca401",
+      "input": "age is a kind of change",
+      "output": [
+        "age IsA change"
+      ]
+    },
+    {
+      "id": "task1510-b90045b9c22e4d66a343f2cae10fe1c3",
+      "input": "bring can be used as the opposite of take",
+      "output": [
+        "bring Antonym take"
+      ]
+    },
+    {
+      "id": "task1510-7c35665da7d2431a98158947f33aef49",
+      "input": "atom is part of molecule",
+      "output": [
+        "atom PartOf molecule"
+      ]
+    },
+    {
+      "id": "task1510-883dc0e4ac7343a9bc19152d05205830",
+      "input": "anger can be used with the same meaning of enrage",
+      "output": [
+        "anger Synonym enrage"
+      ]
+    },
+    {
+      "id": "task1510-8621ce623cfa422fb3fc09738637dd19",
+      "input": "bad is a kind of result",
+      "output": [
+        "bad IsA result"
+      ]
+    },
+    {
+      "id": "task1510-bfe7219accdd434e97c20c7e8af43e23",
+      "input": "bird is a kind of pet",
+      "output": [
+        "bird IsA pet"
+      ]
+    },
+    {
+      "id": "task1510-a1c410cefa0f4f0c9f15932dec1bd092",
+      "input": "atom is made of neutron",
+      "output": [
+        "atom MadeOf neutron"
+      ]
+    },
+    {
+      "id": "task1510-374dccc448db49e7b82edff0b6a85b78",
+      "input": "book is part of library",
+      "output": [
+        "book PartOf library"
+      ]
+    },
+    {
+      "id": "task1510-887eaa0acb804cbeb19b467d2b81189e",
+      "input": "apartment can have or can contain kitchen",
+      "output": [
+        "apartment HasA kitchen"
+      ]
+    },
+    {
+      "id": "task1510-f8ea0ea634254343ba6382ebfc86a458",
+      "input": "aeroplane can be characterized by fly",
+      "output": [
+        "aeroplane HasProperty fly"
+      ]
+    },
+    {
+      "id": "task1510-02243e37d1254f1386f6d7795a685ce7",
+      "input": "bring is true then also come is true",
+      "output": [
+        "bring Entails come"
+      ]
+    },
+    {
+      "id": "task1510-a71af81f8ae340de89aa99429913fda2",
+      "input": "boy can be characterized by child",
+      "output": [
+        "boy HasProperty child"
+      ]
+    },
+    {
+      "id": "task1510-fe1758a4c40f4a258d16aa72c62f5b30",
+      "input": "bicycle can be used with the same meaning of bike",
+      "output": [
+        "bicycle Synonym bike"
+      ]
+    },
+    {
+      "id": "task1510-392c8274c5d5427a901474716c0f73f8",
+      "input": "bottle can have or can contain wine",
+      "output": [
+        "bottle HasA wine"
+      ]
+    },
+    {
+      "id": "task1510-dad84bcfe86646a281150058b70c2306",
+      "input": "book can have or can contain page",
+      "output": [
+        "book HasA page"
+      ]
+    },
+    {
+      "id": "task1510-522f24f79eba45af9bfc8aea3b8df643",
+      "input": "balance can be used as the opposite of prejudice",
+      "output": [
+        "balance Antonym prejudice"
+      ]
+    },
+    {
+      "id": "task1510-caac0e9fabfc442e9bcb7f44b9843f86",
+      "input": "airplane is a kind of machine",
+      "output": [
+        "airplane IsA machine"
+      ]
+    },
+    {
+      "id": "task1510-a44732382fa94eb0a1444345c2031d1d",
+      "input": "animal is a kind of life",
+      "output": [
+        "animal IsA life"
+      ]
+    },
+    {
+      "id": "task1510-509386454d4b454092500d64d8936f54",
+      "input": "busy can be used as the opposite of slow",
+      "output": [
+        "busy Antonym slow"
+      ]
+    },
+    {
+      "id": "task1510-3937a9caa11c41c3b6ce58e095ddeed3",
+      "input": "base is part of baseball_diamond",
+      "output": [
+        "base PartOf baseball_diamond"
+      ]
+    },
+    {
+      "id": "task1510-7ed1e39e6e0d4e9eb2fef9ed52f268b7",
+      "input": "beautiful can be used as the opposite of ugly",
+      "output": [
+        "beautiful Antonym ugly"
+      ]
+    },
+    {
+      "id": "task1510-9225d657e59140b18a0339aac2f3846d",
+      "input": "bedroom is a kind of place",
+      "output": [
+        "bedroom IsA place"
+      ]
+    },
+    {
+      "id": "task1510-cd37b6f0a5e8434baeef13012810b607",
+      "input": "action can be characterized by excite",
+      "output": [
+        "action HasProperty excite"
+      ]
+    },
+    {
+      "id": "task1510-7a0d58028344473a9e9467584adf4f8e",
+      "input": "bench is part of court",
+      "output": [
+        "bench PartOf court"
+      ]
+    },
+    {
+      "id": "task1510-c0818a37d2414cc9a6d7ec1f814cfa41",
+      "input": "answer can be used as the opposite of question",
+      "output": [
+        "answer Antonym question"
+      ]
+    },
+    {
+      "id": "task1510-8afb4d0283c3493093122db88a67c06d",
+      "input": "busy can be used as the opposite of idle",
+      "output": [
+        "busy Antonym idle"
+      ]
+    },
+    {
+      "id": "task1510-7371d95a240f40fd8498af4a09399274",
+      "input": "base can be used as the opposite of top",
+      "output": [
+        "base Antonym top"
+      ]
+    },
+    {
+      "id": "task1510-e8f6bfe27e6d491799805b2bd68e9cc1",
+      "input": "america is a kind of continent",
+      "output": [
+        "america IsA continent"
+      ]
+    },
+    {
+      "id": "task1510-e08b42c924f34154aeb7fcf82156681c",
+      "input": "Bat can be used with the same meaning of baseball_bat",
+      "output": [
+        "bat Synonym baseball_bat"
+      ]
+    },
+    {
+      "id": "task1510-da03f9ab56844b7c80d5213636400398",
+      "input": "bell can be characterized by loud",
+      "output": [
+        "bell HasProperty loud"
+      ]
+    },
+    {
+      "id": "task1510-b1e7a244ccad4084bd19f41934f7a540",
+      "input": "bicycle is a kind of tool",
+      "output": [
+        "bicycle IsA tool"
+      ]
+    },
+    {
+      "id": "task1510-83b971d5db984f0bb223a871cbb896fa",
+      "input": "board can be used with the same meaning of table",
+      "output": [
+        "board Synonym table"
+      ]
+    },
+    {
+      "id": "task1510-732b319a284f4ba381503bb6e5df73e7",
+      "input": "aisle is part of store",
+      "output": [
+        "aisle PartOf store"
+      ]
+    },
+    {
+      "id": "task1510-14040dd8b4f546bea2b02166aa2c99b3",
+      "input": "adult can be used as the opposite of child",
+      "output": [
+        "adult Antonym child"
+      ]
+    },
+    {
+      "id": "task1510-499f4dbf8e4f4b2487edadaae77a2551",
+      "input": "animal can be characterized by alive",
+      "output": [
+        "animal HasProperty alive"
+      ]
+    },
+    {
+      "id": "task1510-8a7ab7f24c814c08b59eec83b0473741",
+      "input": "Bean is a kind of film",
+      "output": [
+        "bean IsA film"
+      ]
+    },
+    {
+      "id": "task1510-102507485f964b27990bf844cb1e4dc7",
+      "input": "bull can be used with the same meaning of male",
+      "output": [
+        "bull Synonym male"
+      ]
+    },
+    {
+      "id": "task1510-fe544f0111ac48dca05b35c804a2dc08",
+      "input": "bug can be used with the same meaning of insect",
+      "output": [
+        "bug Synonym insect"
+      ]
+    },
+    {
+      "id": "task1510-ff7f3078b64e456bbfc30c9b2d84f3bc",
+      "input": "benefit can be used with the same meaning of help",
+      "output": [
+        "benefit Synonym help"
+      ]
+    },
+    {
+      "id": "task1510-5e4d6b04639b43ffaf5da619a3510633",
+      "input": "bolt can be used as the opposite of nail",
+      "output": [
+        "bolt Antonym nail"
+      ]
+    },
+    {
+      "id": "task1510-938e890128254ce0a52e00a6df7be429",
+      "input": "ascend is a kind of change",
+      "output": [
+        "ascend IsA change"
+      ]
+    },
+    {
+      "id": "task1510-0241b4cbda304709b3841c073500e2a4",
+      "input": "branch can be used as the opposite of center",
+      "output": [
+        "branch Antonym center"
+      ]
+    },
+    {
+      "id": "task1510-e82d8be3c3054ca081badada546039dc",
+      "input": "build can be characterized by tall",
+      "output": [
+        "build HasProperty tall"
+      ]
+    },
+    {
+      "id": "task1510-a4b5139ad6234f25b902a8155f57475a",
+      "input": "branch is part of tree",
+      "output": [
+        "branch PartOf tree"
+      ]
+    },
+    {
+      "id": "task1510-c8c2c6052ece460dac87882b30975bf3",
+      "input": "butter is a kind of food",
+      "output": [
+        "butter IsA food"
+      ]
+    },
+    {
+      "id": "task1510-13289ce99b694f07a0daed8d696667cf",
+      "input": "build can be used with the same meaning of assemble",
+      "output": [
+        "build Synonym assemble"
+      ]
+    },
+    {
+      "id": "task1510-af3b73f411434ef9a301253a9b52e023",
+      "input": "box is a kind of hit",
+      "output": [
+        "box IsA hit"
+      ]
+    },
+    {
+      "id": "task1510-d117470ee0ca461288f4c0124a114f6d",
+      "input": "automobile can be used with the same meaning of car",
+      "output": [
+        "automobile Synonym car"
+      ]
+    },
+    {
+      "id": "task1510-e5a7ea1611c94adda25b02e262e47dad",
+      "input": "benefit is a kind of good",
+      "output": [
+        "benefit IsA good"
+      ]
+    },
+    {
+      "id": "task1510-2066fdd04345451f81378dc288770303",
+      "input": "buy is true then also pay is true",
+      "output": [
+        "buy Entails pay"
+      ]
+    },
+    {
+      "id": "task1510-3ea6f27cb2a040a28954d78cb373e3ca",
+      "input": "beautiful can be used as the opposite of nasty",
+      "output": [
+        "beautiful Antonym nasty"
+      ]
+    },
+    {
+      "id": "task1510-47922921b7db4bf7972b6d00e9a6aacc",
+      "input": "aid can be used with the same meaning of support",
+      "output": [
+        "aid Synonym support"
+      ]
+    },
+    {
+      "id": "task1510-718d82f144fd49d6852c6f483021975b",
+      "input": "boil can be used as the opposite of ice",
+      "output": [
+        "boil Antonym ice"
+      ]
+    },
+    {
+      "id": "task1510-1403728f77e64ba9998b2e784b72070b",
+      "input": "attach is a kind of touch",
+      "output": [
+        "attach IsA touch"
+      ]
+    },
+    {
+      "id": "task1510-cbf0b40ff1fe41f383d30f2cb7408431",
+      "input": "anger can be used as the opposite of love",
+      "output": [
+        "anger Antonym love"
+      ]
+    },
+    {
+      "id": "task1510-1e647dd9e4754549a84c0409a10cbeac",
+      "input": "Arrange is a kind of agree",
+      "output": [
+        "arrange IsA agree"
+      ]
+    },
+    {
+      "id": "task1510-0ecee57891d94b058ac33b2edab398eb",
+      "input": "action is a kind of work",
+      "output": [
+        "action IsA work"
+      ]
+    },
+    {
+      "id": "task1510-8d6b6836c78d4514bff162612c888bf2",
+      "input": "bone is part of human",
+      "output": [
+        "bone PartOf human"
+      ]
+    },
+    {
+      "id": "task1510-4e9474b98c87417e9e2aacc77c35b503",
+      "input": "air can be characterized by free",
+      "output": [
+        "air HasProperty free"
+      ]
+    },
+    {
+      "id": "task1510-8cd7aaa76a0e4c56aca846d67d280575",
+      "input": "attach can be used with the same meaning of connect",
+      "output": [
+        "attach Synonym connect"
+      ]
+    },
+    {
+      "id": "task1510-38f04a89d4e64752bbbe34064eacf469",
+      "input": "act can be used with the same meaning of action",
+      "output": [
+        "act Synonym action"
+      ]
+    },
+    {
+      "id": "task1510-95eb5c73295f4dbf8ebcb4c2245ae134",
+      "input": "boy can be characterized by male",
+      "output": [
+        "boy HasProperty male"
+      ]
+    },
+    {
+      "id": "task1510-427375acffb740e39b5d3a878dc6b0fa",
+      "input": "advance can be used as the opposite of late",
+      "output": [
+        "advance Antonym late"
+      ]
+    },
+    {
+      "id": "task1510-abb20bf118a84476aee65eed5740e50a",
+      "input": "argument is part of conclusion",
+      "output": [
+        "argument PartOf conclusion"
+      ]
+    },
+    {
+      "id": "task1510-4f98f41c8ff44b0085a0b05f4e830058",
+      "input": "body is made of cell",
+      "output": [
+        "body MadeOf cell"
+      ]
+    },
+    {
+      "id": "task1510-53d0de74b6f240c189d0017b62ca8c53",
+      "input": "art can be characterized by beautiful",
+      "output": [
+        "art HasProperty beautiful"
+      ]
+    },
+    {
+      "id": "task1510-b2a55b6d8b7749f396174c2076d269df",
+      "input": "bend can be used with the same meaning of curve",
+      "output": [
+        "bend Synonym curve"
+      ]
+    },
+    {
+      "id": "task1510-224713a3b6864eff86b8ad9ee7bf9f06",
+      "input": "bedroom can have or can contain chair",
+      "output": [
+        "bedroom HasA chair"
+      ]
+    },
+    {
+      "id": "task1510-50704781df4c4f168042390cb1bc3ae8",
+      "input": "black is a kind of clothe",
+      "output": [
+        "black IsA clothe"
+      ]
+    },
+    {
+      "id": "task1510-41aad0f2c643432ba468e796b3924d94",
+      "input": "airplane can have or can contain wheel",
+      "output": [
+        "airplane HasA wheel"
+      ]
+    },
+    {
+      "id": "task1510-e6a9fb33d60e4e13a9234b4209709efa",
+      "input": "anger can be used as the opposite of calm",
+      "output": [
+        "anger Antonym calm"
+      ]
+    },
+    {
+      "id": "task1510-c6784657744d458f876b298f1e7c04d5",
+      "input": "alcohol is made of rice",
+      "output": [
+        "alcohol MadeOf rice"
+      ]
+    },
+    {
+      "id": "task1510-ef0c5f2e92e2445886ed6474df39766f",
+      "input": "boredom can be used as the opposite of fun",
+      "output": [
+        "boredom Antonym fun"
+      ]
+    },
+    {
+      "id": "task1510-0dc14a20956c4d38b81af397171b110f",
+      "input": "bath can have or can contain water",
+      "output": [
+        "bath HasA water"
+      ]
+    },
+    {
+      "id": "task1510-35cc603f51904bcdab54614105fbed80",
+      "input": "bite is a kind of grip",
+      "output": [
+        "bite IsA grip"
+      ]
+    },
+    {
+      "id": "task1510-c373a746fd0a4a08abc2d0bc58c3c931",
+      "input": "bike can have or can contain wheel",
+      "output": [
+        "bike HasA wheel"
+      ]
+    },
+    {
+      "id": "task1510-72cfb645b77c4a5b98556a6e87dabaeb",
+      "input": "aluminium can be used with the same meaning of aluminum",
+      "output": [
+        "aluminium Synonym aluminum"
+      ]
+    },
+    {
+      "id": "task1510-d026cd6e9b2c4506b373045bd8636f18",
+      "input": "beer can be characterized by tasty",
+      "output": [
+        "beer HasProperty tasty"
+      ]
+    },
+    {
+      "id": "task1510-bd73dcb88f804fbfb3dfcb0df059cc1b",
+      "input": "balloon can be characterized by hollow",
+      "output": [
+        "balloon HasProperty hollow"
+      ]
+    },
+    {
+      "id": "task1510-abd287b2f20c4c58831c7db04d457460",
+      "input": "bend can be used with the same meaning of incline",
+      "output": [
+        "bend Synonym incline"
+      ]
+    },
+    {
+      "id": "task1510-d93fd90e75184599a2208328b316f8d4",
+      "input": "book can be characterized by read",
+      "output": [
+        "book HasProperty read"
+      ]
+    },
+    {
+      "id": "task1510-9a047b739a9a4551a0d08b8838896639",
+      "input": "butterfly can have or can contain wing",
+      "output": [
+        "butterfly HasA wing"
+      ]
+    },
+    {
+      "id": "task1510-4c8cfe089e094d3daf959745e4dd6c86",
+      "input": "brass is a kind of wind_instrument",
+      "output": [
+        "brass IsA wind_instrument"
+      ]
+    },
+    {
+      "id": "task1510-dc2b098a05824d6ab2383833bb589575",
+      "input": "boil is a kind of cook",
+      "output": [
+        "boil IsA cook"
+      ]
+    },
+    {
+      "id": "task1510-141c55a8f856433fbf99d299015427c7",
+      "input": "apple is a kind of computer",
+      "output": [
+        "apple IsA computer"
+      ]
+    },
+    {
+      "id": "task1510-7c39429c94dd4449ae4666ffb1af2390",
+      "input": "blue can be used as the opposite of green",
+      "output": [
+        "blue Antonym green"
+      ]
+    },
+    {
+      "id": "task1510-80b746535ff64b8999a4d91458854934",
+      "input": "animal can be characterized by pure",
+      "output": [
+        "animal HasProperty pure"
+      ]
+    },
+    {
+      "id": "task1510-001d7387268f44b890c701e859d4987c",
+      "input": "bomb can be characterized by bad",
+      "output": [
+        "bomb HasProperty bad"
+      ]
+    },
+    {
+      "id": "task1510-960db8c67a3f41feb90e7742616fc6f1",
+      "input": "belt can be used with the same meaning of pound",
+      "output": [
+        "belt Synonym pound"
+      ]
+    },
+    {
+      "id": "task1510-e4ac992931104487890aa08acb4ae712",
+      "input": "boy can be used as the opposite of female",
+      "output": [
+        "boy Antonym female"
+      ]
+    },
+    {
+      "id": "task1510-0f18e0078aaf4603b835a0a2721cf003",
+      "input": "atmosphere can be used with the same meaning of mood",
+      "output": [
+        "atmosphere Synonym mood"
+      ]
+    },
+    {
+      "id": "task1510-a761f170dea844b48ca374fb7307890a",
+      "input": "bed is a kind of device",
+      "output": [
+        "bed IsA device"
+      ]
+    },
+    {
+      "id": "task1510-08a32c50d9574caea4493651e7b3232a",
+      "input": "author is part of book",
+      "output": [
+        "author PartOf book"
+      ]
+    },
+    {
+      "id": "task1510-9d038e6a8273483ea21225fc9e5d33c4",
+      "input": "buy can be used as the opposite of save",
+      "output": [
+        "buy Antonym save"
+      ]
+    },
+    {
+      "id": "task1510-28cfd4b1b3754de98006b88ef17431e3",
+      "input": "bright can be used as the opposite of dull",
+      "output": [
+        "bright Antonym dull"
+      ]
+    },
+    {
+      "id": "task1510-7f45545a6ad14089980fa9d324e24797",
+      "input": "beat is true then also hit is true",
+      "output": [
+        "beat Entails hit"
       ]
     }
   ],

@@ -39,503 +39,1003 @@
   ],
   "Instances": [
     {
-      "id": "task363-07ef2e264ea04d22a00211d67916f052",
-      "input": "Making such a tragedy the backdrop to a love story risks trivializing it , though Chouraqui no doubt intended the film to affirm love 's power to help people endure almost unimaginable horror .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-dc993f9a6b814f8dab8a5581bfdd778b",
-      "input": "... best seen as speculative history , as much an exploration of the paranoid impulse as a creative sequel to the Warren Report .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-6c00b1806a804bab8eb1fc072a4e5d4c",
-      "input": "The following things are not at all entertaining : The bad sound , the lack of climax and , worst of all , watching Seinfeld ( who is also one of the film 's producers ) do everything he can to look like a good guy .",
+      "id": "task363-28e7337452364b05bca042bd0d9f5c50",
+      "input": "Your stomach for Heaven depends largely on your appetite for canned corn .",
       "output": "NEG"
     },
     {
-      "id": "task363-9b40c1c8f0d84b3a82f31f91f8c023fc",
-      "input": "Too stagey , talky -- and long -- for its own good .",
+      "id": "task363-249b4aee6af44e0db3250419546e2918",
+      "input": "A muddled limp biscuit of a movie , a vampire soap opera that does n't make much sense even on its own terms .",
       "output": "NEG"
     },
     {
-      "id": "task363-d9ac548c7b764bdb8cbfc42be77f4b64",
-      "input": "I 've seen some bad singer-turned actors , but Lil Bow Wow takes the cake .",
+      "id": "task363-cec4637171f74a92932fcb9c77413faa",
+      "input": "Snipes relies too much on a scorchingly plotted dramatic scenario for its own good .",
       "output": "NEG"
     },
     {
-      "id": "task363-23adf7cf6ec1493ea0a7d695cbca2d8c",
-      "input": "It makes me say the obvious : Abandon all hope of a good movie ye who enter here .",
+      "id": "task363-0ef50b8503b94935af6e5171fd846c62",
+      "input": "As a science fiction movie , `` Minority Report '' astounds .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-2ec32366b77d482d8b02f25f584e3d67",
+      "input": "The Sundance Film Festival has become so buzz-obsessed that fans and producers descend upon Utah each January to ferret out The Next Great Thing .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-066d649a6cf24473aacc767c6fa36e2f",
+      "input": "Well , it probably wo n't have you swinging from the trees hooting it 's praises , but it 's definitely worth taking a look .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-b8c57f2c709b4fb584678ed13301ee05",
+      "input": "Jarecki and Gibney do find enough material to bring Kissinger 's record into question and explain how the diplomat 's tweaked version of statecraft may have cost thousands and possibly millions of lives .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-e7da3f2cd7c2425f975310beab902f54",
+      "input": "They crush each other under cars , throw each other out windows , electrocute and dismember their victims in full consciousness .",
       "output": "NEG"
     },
     {
-      "id": "task363-38eedfa64e264905be9d7576338effce",
-      "input": "Tries too hard to be funny in a way that 's too loud , too goofy and too short of an attention span .",
+      "id": "task363-4644ea76eaf440ee910787890406df80",
+      "input": "Bearable .",
       "output": "NEG"
     },
     {
-      "id": "task363-f7bc4e01e7764ec3919e4a88bafe2e59",
-      "input": "Anemic , pretentious .",
+      "id": "task363-ac69200ac79d4be4bf0af3ebb757a835",
+      "input": "Mindless yet impressively lean spinoff of last summer 's bloated effects fest The Mummy Returns .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-9806de62e5334cf69686c56c1761a950",
+      "input": "This is a movie where the most notable observation is how long you 've been sitting still .",
       "output": "NEG"
     },
     {
-      "id": "task363-c8621b37f8364889b2396e29332b5cec",
-      "input": "An EXIT sign , that is .",
+      "id": "task363-37f68531506841bea0fe5495ea2322c6",
+      "input": "Starts out ballsy and stylish but fails to keep it up and settles into clichés .",
       "output": "NEG"
     },
     {
-      "id": "task363-5e63fdf8ab4144d98be3cb361e504967",
-      "input": "It 's like Rocky and Bullwinkle on Speed , but that 's neither completely enlightening , nor does it catch the intensity of the movie 's strangeness .",
+      "id": "task363-c594936bea904326a98af11f61c8289b",
+      "input": "Shanghai Ghetto should be applauded for finding a new angle on a tireless story , but you might want to think twice before booking passage .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-ee58b3ad351746a6893faaa3f1aa88ad",
+      "input": "There 's just something about watching a squad of psychopathic underdogs whale the tar out of unsuspecting lawmen that reaches across time and distance .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-1ef35b5cde9a40c5a02a3b6dd3c38aef",
+      "input": "Despite bearing the Paramount imprint , it 's a bargain-basement European pickup .",
       "output": "NEG"
     },
     {
-      "id": "task363-591f52fb52bb44ec9b941817e77ede7a",
-      "input": "A spiffy animated feature about an unruly adolescent boy who is yearning for adventure and a chance to prove his worth .",
+      "id": "task363-ea9cc1e7988c4b1181b3feb2dddaf473",
+      "input": "There 's no reason to miss Interview with the Assassin",
       "output": "POS"
     },
     {
-      "id": "task363-c7ba452c344e41f1aff687f385d85ab8",
-      "input": "Two tedious acts light on great scares and a good surprise ending .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-32253c377cfb4ecbb773e9c28b270ea6",
-      "input": "You come away thinking not only that Kate is n't very bright , but that she has n't been worth caring about and that maybe she , Janine and Molly -- an all-woman dysfunctional family -- deserve one another .",
+      "id": "task363-a00227438b714aa7bc129e1041ed95f4",
+      "input": "There is n't one moment in the film that surprises or delights .",
       "output": "NEG"
     },
     {
-      "id": "task363-c78de9aca8f545c6bc51bd608a0d1343",
-      "input": "The film reminds me of a vastly improved Germanic version of My Big Fat Greek Wedding -- with better characters , some genuine quirkiness and at least a measure of style .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-978a751b241f4a9e88211023a59b5af3",
-      "input": "or maybe `` How will you feel after an 88-minute rip-off of The Rock with action confined to slo-mo gun firing and random glass-shattering ? ''",
+      "id": "task363-d40cae5e093d40ada0df8f134dea06b3",
+      "input": "If we 're to slap protagonist Genevieve LePlouff because she 's French , do we have that same option to slap her creators because they 're clueless and inept ?",
       "output": "NEG"
     },
     {
-      "id": "task363-82e69ea8ca874534934eb6fb2651eb8a",
-      "input": "Lawrence should stick to his day job .",
+      "id": "task363-292cc5fa64524b3d8c4cdae825ccb932",
+      "input": "Heartwarming here relies less on forced air than on Petter Næss ' delicate , clever direction ... and a wonderful , imaginative script by Axel Hellstenius .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-d72afc42d7d847c2983178d7f045889f",
+      "input": "There is simply no doubt that this film asks the right questions at the right time in the history of our country .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-12e496ed9a6c433084148699ef6cf66e",
+      "input": "Depressingly thin and exhaustingly contrived .",
       "output": "NEG"
     },
     {
-      "id": "task363-30c2999404cc423b848464ccb6c4ed22",
-      "input": "Feels like the work of someone who may indeed have finally aged past his prime ... and , perhaps more than he realizes , just wants to be liked by the people who can still give him work .",
+      "id": "task363-5f5dd7e1f4d04c77baf678687e175b74",
+      "input": "Sheridan is painfully bad , a fourth-rate Jim Carrey who does n't understand the difference between dumb fun and just plain dumb .",
       "output": "NEG"
     },
     {
-      "id": "task363-0d4ef40382734529920e0a7a88638467",
-      "input": "Overall , it 's a wacky and inspired little film that works effortlessly at delivering genuine , acerbic laughs .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-609428f987ce41e192f7d9ac8f1caba2",
-      "input": "The Pool drowned me in boredom .",
+      "id": "task363-9086f7a56dc243f09ea5b70dacb26a43",
+      "input": "Hypnotically dull , relentlessly downbeat , laughably predictable wail pitched to the cadence of a depressed fifteen-year-old 's suicidal poetry .",
       "output": "NEG"
     },
     {
-      "id": "task363-235d1403692c4be8aff57721802c5118",
-      "input": "I will be .",
+      "id": "task363-a66771e374454c65aa20a76f33dae799",
+      "input": "Coppola 's directorial debut is an incredibly layered and stylistic film that , despite a fairly slow paced , almost humdrum approach to character development , still manages at least a decent attempt at meaningful cinema .",
       "output": "POS"
     },
     {
-      "id": "task363-32dd52a5e16e4a6e8320fc684f6d382d",
-      "input": "The charm of the first movie is still there , and the story feels like the logical , unforced continuation of the careers of a pair of spy kids .",
+      "id": "task363-ad4797f47e364a25940d8845cf3e011d",
+      "input": "What begins as a film in the tradition of The Graduate quickly switches into something more recyclable than significant .",
       "output": "POS"
     },
     {
-      "id": "task363-12e6c9d5c6c245b38ad32ad9666ce63f",
-      "input": "Fails to satisfactorily exploit its gender politics , genre thrills or inherent humor .",
+      "id": "task363-a685a5642c424bcfa962a1a1d85a0044",
+      "input": "( T ) oo many of these gross out scenes ...",
       "output": "NEG"
     },
     {
-      "id": "task363-c4e1893bd9e4408f8c9a516de01c54e8",
-      "input": "It 's Tommy 's job to clean the peep booths surrounding her , and after viewing this one , you 'll feel like mopping up , too .",
+      "id": "task363-d1ed0b096e6b412d9534802e38e4d4c9",
+      "input": "Throws in enough clever and unexpected twists to make the formula feel fresh .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-c6933986a0284285b3b44e1f37de3150",
+      "input": "As a movie , it never seems fresh and vital .",
       "output": "NEG"
     },
     {
-      "id": "task363-19ad097f6d6a4baa9057d619a31b8bba",
-      "input": "Yet in its own aloof , unreachable way it 's so fascinating you wo n't be able to look away for a second .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-56f56cf4384245cb93172f889793ee8b",
-      "input": "Like a Tarantino movie with heart , Alias Betty is richly detailed , deftly executed and utterly absorbing .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-bb00657fd3564612ae8e704f071722e1",
-      "input": "It 's a wise and powerful tale of race and culture forcefully told , with superb performances throughout .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-452d4f70304148d6982b63b990025af4",
-      "input": "This is a very ambitious project for a fairly inexperienced filmmaker , but good actors , good poetry and good music help sustain it .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-441bff1986144e6fa9644cab9c733fa5",
-      "input": "Brash , intelligent and erotically perplexing , Haneke 's portrait of an upper class Austrian society and the suppression of its tucked away demons is uniquely felt with a sardonic jolt .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-5f3f6affb4f6447a86bdff40fe15505d",
-      "input": "Has an uppity musical beat that you can dance to , but its energy ca n't compare to the wit , humor and snappy dialogue of the original .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-9ef7e964d3084b96bad316b05d82ee2e",
-      "input": "Is it possible for a documentary to be utterly entranced by its subject and still show virtually no understanding of it ?",
+      "id": "task363-e309b5987b064edbbfdeccd0faecf60f",
+      "input": "Walsh ca n't quite negotiate the many inconsistencies in Janice 's behavior or compensate for them by sheer force of charm .",
       "output": "NEG"
     },
     {
-      "id": "task363-4d2056ac5fd34948bc5bfe187f5e91bc",
-      "input": "Viewers of Barney 's crushingly self-indulgent spectacle will see nothing in it to match the ordeal of sitting through it .",
+      "id": "task363-6862cd1e8e4e47a88bdf83feb9f78ff9",
+      "input": "The film may not hit as hard as some of the better drug-related pictures , but it still manages to get a few punches in .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-1ae17691517e4daf8d085c5c43ff41c9",
+      "input": "The boys ' sparring , like the succession of blows dumped on Guei , wears down the story 's more cerebral , and likable , plot elements .",
       "output": "NEG"
     },
     {
-      "id": "task363-5d2f7fedd267483c8adebd16e1fe5081",
-      "input": "A loud , ugly , irritating movie without any of its satirical salvos hitting a discernible target .",
+      "id": "task363-e089dccb63f544068ef32b02ce8ce516",
+      "input": "Antwone Fisher certainly does the trick of making us care about its protagonist and celebrate his victories but , with few exceptions , it rarely stoops to cheap manipulation or corny conventions to do it .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-5599e71348144ce1be21fb71abfbc40c",
+      "input": "Though Frida is easier to swallow than Julie Taymor 's preposterous Titus , the eye candy here lacks considerable brio .",
       "output": "NEG"
     },
     {
-      "id": "task363-04817bb055be4f71935505735bb4ec0f",
-      "input": "Things really get weird , though not particularly scary : the movie is all portent and no content .",
+      "id": "task363-a23d220960694a64a746355a525a9ed8",
+      "input": "I highly recommend Irwin , but not in the way this film showcases him .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-3710d9bb31c7470593698ff5fcdd466f",
+      "input": "Give credit to everyone from Robinson down to the key grip that this bold move works .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-ee48c25716954a41a14509bf44ebbb47",
+      "input": "The Lady and the Duke is Eric Rohmer 's economical antidote to the bloated costume drama",
+      "output": "POS"
+    },
+    {
+      "id": "task363-b4ebeb3d230c4f25bb4e0b07a0a97c91",
+      "input": "Blood Work is laughable in the solemnity with which it tries to pump life into overworked elements from Eastwood 's Dirty Harry period .",
       "output": "NEG"
     },
     {
-      "id": "task363-2ec79d2d1b114af2838002106187441d",
-      "input": "The film fits into a genre that has been overexposed , redolent of a thousand cliches , and yet remains uniquely itself , vibrant with originality .",
+      "id": "task363-0b455aee959e4fe7a4a703632f5b66da",
+      "input": "Arguably the best script that Besson has written in years .",
       "output": "POS"
     },
     {
-      "id": "task363-6ba52e5867b7491e92fb3bb76caf95c9",
-      "input": "A lovably old-school Hollywood confection .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-baffdedb12dd4a0b9951af48c73d2643",
-      "input": "Writer\\/director Alexander Payne ( Election ) and his co-writer Jim Taylor brilliantly employ their quirky and fearless ability to look American angst in the eye and end up laughing .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-2629b246e09548ada40b58f7bac47238",
-      "input": "Serving Sara should be served an eviction notice at every theater stuck with it .",
+      "id": "task363-0e6129d99e9d4085ab036b08ea805be6",
+      "input": "` In this poor remake of such a well loved classic , Parker exposes the limitations of his skill and the basic flaws in his vision . '",
       "output": "NEG"
     },
     {
-      "id": "task363-a1b0d28026a34d5e8a328e336b88df29",
-      "input": "... even if you 've never heard of Chaplin , you 'll still be glued to the screen .",
+      "id": "task363-198eab6f4c894184b2bb28f5dc09fea8",
+      "input": "While centered on the life experiences of a particular theatrical family , this marvelous documentary touches -- ever so gracefully -- on the entire history of the Yiddish theater , both in America and Israel .",
       "output": "POS"
     },
     {
-      "id": "task363-aaa05722f13540dca16714732a81529b",
-      "input": "The rich performances by Friel -- and especially Williams , an American actress who becomes fully English -- round out the square edges .",
+      "id": "task363-21426e2afe8e48a498163cabf4b45558",
+      "input": "Visually , ` Santa Clause 2 ' is wondrously creative .",
       "output": "POS"
     },
     {
-      "id": "task363-249d435690dd4494a18b4c58c3b9f2d9",
-      "input": "Clint Eastwood 's Blood Work is a lot like a well-made PB & J sandwich : familiar , fairly uneventful and boasting no real surprises -- but still quite tasty and inviting all the same .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-dcee1a11b4c3440a8004eb877da87b99",
-      "input": "... this story gets sillier , not scarier , as it goes along ...",
+      "id": "task363-318a63fda4254e479a031de79db50d5b",
+      "input": "Seems like someone going through the motions .",
       "output": "NEG"
     },
     {
-      "id": "task363-0e0154b4a4af4f868b571c8fa41b9929",
-      "input": "It may as well be called `` Jar-Jar Binks : The Movie . ''",
+      "id": "task363-d92bbe0e252745b689331194ac753431",
+      "input": "Davis has energy , but she does n't bother to make her heroine 's book sound convincing , the gender-war ideas original , or the comic scenes fly .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-0ef1dec2fd2b4bad836abc9e7350319f",
+      "input": "And educational !",
+      "output": "POS"
+    },
+    {
+      "id": "task363-0b267f5ae4f041f7a20550c451fe5db4",
+      "input": "What soured me on The Santa Clause 2 was that Santa bumps up against 21st century reality so hard , it 's icky .",
       "output": "NEG"
     },
     {
-      "id": "task363-ad12e4dba8814ad9b3e2196fff3b065f",
-      "input": "Campanella 's competent direction and his excellent cast overcome the obstacles of a predictable outcome and a screenplay that glosses over Rafael 's evolution .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-52e812b7f6394bfc8ee9590eaee0e7cf",
-      "input": "The movie is ... very funny as you peek at it through the fingers in front of your eyes .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-e35f36bf94d449878c060d13a2154a20",
-      "input": "... hopefully it 'll be at the dollar theatres by the time Christmas rolls around .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-0e3937591bf7410e9b7646b62fe9209b",
-      "input": "The work of a filmmaker who has secrets buried at the heart of his story and knows how to take time revealing them .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-8926262047354d07afca77a1695c8d71",
-      "input": "But I had a lot of problems with this movie .",
+      "id": "task363-24dfdfbc3c0c446588f44b47c7ce457f",
+      "input": "And if you appreciate the one-sided theme to Lawrence 's over-indulgent tirade , then knock yourself out and enjoy the big screen postcard that is a self-glorified Martin Lawrence lovefest .",
       "output": "NEG"
     },
     {
-      "id": "task363-953ef6d56d1e4ce9949296449e6ef5b5",
-      "input": "How do you make a movie with depth about a man who lacked any ?",
+      "id": "task363-f954cc58acd94a23a674d2b8aaaee646",
+      "input": "What emerges is an unsettling picture of childhood innocence combined with indoctrinated prejudice .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-e2c9a4a8d9204022b0c56a00e58d50df",
+      "input": "I could have used my two hours better watching Being John Malkovich again .",
       "output": "NEG"
     },
     {
-      "id": "task363-4b20465106374ec49ba89abae9cce994",
-      "input": "The fourth in a series that I 'll bet most parents had thought -- hoped !",
+      "id": "task363-89311c84883e42ef907292ff478c10e4",
+      "input": "By not averting his eyes , Solondz forces us to consider the unthinkable , the unacceptable , the unmentionable .",
       "output": "POS"
     },
     {
-      "id": "task363-09952a1cff254e50b5edf616e724b341",
-      "input": "An unflinching look at the world 's dispossessed .",
+      "id": "task363-8f378bd3335e4cb69170192570481b07",
+      "input": "Nolan proves that he can cross swords with the best of them and helm a more traditionally plotted popcorn thriller while surrendering little of his intellectual rigor or creative composure .",
       "output": "POS"
     },
     {
-      "id": "task363-cac2bd20cf0449269aba0c23a6f7b789",
-      "input": "A perfectly acceptable , perfectly bland , competently acted but by no means scary horror movie .",
+      "id": "task363-ebed1b74412e474c8966b56fa54d8408",
+      "input": "Changing Lanes tries for more .",
       "output": "POS"
     },
     {
-      "id": "task363-f3f22b0e16914cd2a9845322122adb2c",
-      "input": "Unfortunately , a cast of competent performers from movies , television and the theater are cast adrift in various New York City locations with no unifying rhythm or visual style .",
+      "id": "task363-3708e5a886e84351818ae326907b291a",
+      "input": "A naturally funny film , Home Movie makes you crave Chris Smith 's next movie .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-c4eb43fa23f741609a01d6f57dcd759e",
+      "input": "A small movie with a big heart .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-1adef9b5a1254ce5a1f4fc97f91b8fa9",
+      "input": "You can take the grandkids or the grandparents and never worry about anyone being bored ... audience is a sea of constant smiles and frequent laughter .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-e8282f74a10948f2adfdbf48d0adaa20",
+      "input": "Do you chuckle at the thought of an ancient librarian whacking a certain part of a man 's body ?",
+      "output": "POS"
+    },
+    {
+      "id": "task363-2c112a05976942fdac76508cf8410bc7",
+      "input": "We have poignancy jostling against farce , thoughtful dialogue elbowed aside by one-liners , and a visual style that incorporates rotoscope animation for no apparent reason except , maybe , that it looks neat .",
       "output": "NEG"
     },
     {
-      "id": "task363-ecc292dc182b4277ac6b5bce06299b14",
-      "input": "Not bad , but not all that good .",
+      "id": "task363-67f5be13d3e74cb2bf81421daa05443d",
+      "input": "Everything else about High Crimes is , like the military system of justice it portrays , tiresomely regimented .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-a60906e3a0e343a1ac66a23c1459c697",
+      "input": "Everything its title implies , a standard-issue crime drama spat out from the Tinseltown assembly line .",
       "output": "NEG"
     },
     {
-      "id": "task363-506a043657c848cb9e9eadd43fd490d8",
-      "input": "If Festival in Cannes nails hard - boiled Hollywood argot with a bracingly nasty accuracy , much about the film , including some of its casting , is frustratingly unconvincing .",
+      "id": "task363-2c8495e522bf4694893d6eeefb455e3e",
+      "input": "It 's the movie equivalent of a sweaty old guy in a rain coat shopping for cheap porn .",
       "output": "NEG"
     },
     {
-      "id": "task363-31f0a255dbdc4ab6963f4cc3b3ef2b2b",
-      "input": "This is a film tailor-made for those who when they were in high school would choose the Cliff-Notes over reading a full-length classic .",
+      "id": "task363-a559ee2ef6f74108ac13ace9f1a67c8a",
+      "input": "Not even Solondz 's thirst for controversy , sketchy characters and immature provocations can fully succeed at cheapening it .",
       "output": "NEG"
     },
     {
-      "id": "task363-b1cb340204b4493fae8d4ff026f8811c",
-      "input": "Sure , I hated myself in the morning .",
+      "id": "task363-ebf6d31b228a420080e602480ccd5ba6",
+      "input": "There 's a spontaneity to The Chateau , a sense of light-heartedness , that makes it attractive throughout .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-f349d8eb44df41d5aac56f4e3b49aefa",
+      "input": "If you love reading and\\/or poetry , then by all means check it out .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-4c5e019b57744a5da700e9b4cf6ef0e7",
+      "input": "The party scenes deliver some tawdry kicks .",
       "output": "NEG"
     },
     {
-      "id": "task363-4b97887de4634e4bae617d0eaa5c607c",
-      "input": "( Hell is ) looking down at your watch and realizing Serving Sara is n't even halfway through .",
+      "id": "task363-87d1d60eb1714f24b087fcbd0b7241cf",
+      "input": "If routine action and jokes like this are your cup of tea , then pay your $ 8 and get ready for the big shear .",
       "output": "NEG"
     },
     {
-      "id": "task363-bc5bb4ceb95a43d7b63466e32e4cfb95",
-      "input": "( A ) soulless , stupid sequel ...",
+      "id": "task363-dde67b35c3844714a9117cd6167b2680",
+      "input": "The movie does its best to work us over , with second helpings of love , romance , tragedy , false dawns , real dawns , comic relief , two separate crises during marriage ceremonies , and the lush scenery of the Cotswolds .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-f6d5c1a7659f49a184973d9191d462e5",
+      "input": "It 's a smart , solid , kinetically-charged spy flick worthy of a couple hours of summertime and a bucket of popcorn .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-f124067ee94544018446531ee7575372",
+      "input": "A great cast and a wonderful but sometimes confusing flashback movie about growing up in a dysfunctional family .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-9e0c8d7474424bfeb40f9af19656068a",
+      "input": "A sharp and quick documentary that is funny and pithy , while illuminating an era of theatrical comedy that , while past , really is n't .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-9e92a2d20d174ac885de7ce686862eb6",
+      "input": "Demme gets a lot of flavor and spice into his Charade remake , but he ca n't disguise that he 's spiffing up leftovers that are n't so substantial or fresh .",
       "output": "NEG"
     },
     {
-      "id": "task363-d898f79f791a4acf965f65ec875c4524",
-      "input": "A very well-meaning movie , and it will stand in future years as an eloquent memorial to the World Trade Center tragedy .",
+      "id": "task363-7706c8bd77d94f0888adaa16750275d9",
+      "input": "From its invitingly upbeat overture to its pathos-filled but ultimately life-affirming finale , Martin is a masterfully conducted work .",
       "output": "POS"
     },
     {
-      "id": "task363-7fa7d3d93af649908095a138dd7eda18",
-      "input": "A hidden-agenda drama that shouts classic French nuance .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-eeb2c1787d444c0680a2400022b7d670",
-      "input": "The story is virtually impossible to follow here , but there 's a certain style and wit to the dialogue .",
+      "id": "task363-b20d53485a83448a94c9c9aeb31b2269",
+      "input": "Reign of Fire has the disadvantage of also looking cheap .",
       "output": "NEG"
     },
     {
-      "id": "task363-6c93c39e9cd349268f643be295fc8041",
-      "input": "Tsai convincingly paints a specifically urban sense of disassociation here .",
+      "id": "task363-46ab71fcb75149e2b291fa36b30f6ffc",
+      "input": "The story gives ample opportunity for large-scale action and suspense , which director Shekhar Kapur supplies with tremendous skill .",
       "output": "POS"
     },
     {
-      "id": "task363-f62b960b3a194d9793f6348c125465c9",
-      "input": "Amy and Matthew have a bit of a phony relationship , but the film works in spite of it .",
+      "id": "task363-009f72f7e7614df69e7d40d8ffdf1113",
+      "input": "Fierce , glaring and unforgettable .",
       "output": "POS"
     },
     {
-      "id": "task363-bb01e95a9ce14d9e8386d62b5fef8461",
-      "input": "Personal Velocity has a no-frills docu-Dogma plainness , yet Miller lingers on invisible , nearly psychic nuances , leaping into digressions of memory and desire .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-a0fdd17c87d84097a04b738799885a65",
-      "input": "It 's rare to find a film to which the adjective ` gentle ' applies , but the word perfectly describes Pauline & Paulette .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-33225685ffb2446d8358b52641229d93",
-      "input": "Been there , done that , liked it much better the first time around - when it was called The Professional .",
+      "id": "task363-3dfd7a5c91a74e6fa073533a4d2255f8",
+      "input": "A fan film that for the uninitiated plays better on video with the sound turned down .",
       "output": "NEG"
     },
     {
-      "id": "task363-b77d27bb374d4010b8e6425c76369477",
-      "input": "Both flawed and delayed , Martin Scorcese 's Gangs of New York still emerges as his most vital work since GoodFellas .",
+      "id": "task363-6a5a6eb8b3ae460e8242ffaac11fe650",
+      "input": "More concerned with overall feelings , broader ideas , and open-ended questions than concrete story and definitive answers , Soderbergh 's Solaris is a gorgeous and deceptively minimalist cinematic tone poem .",
       "output": "POS"
     },
     {
-      "id": "task363-5c321a6becc34c1ea70ab2ad73357158",
-      "input": "I still want my money back .",
+      "id": "task363-e3bab41ec6ef4291ad3257bed2528abb",
+      "input": "The film is an earnest try at beachcombing verismo , but it would be even more indistinct than it is were it not for the striking , quietly vulnerable personality of Ms. Ambrose .",
       "output": "NEG"
     },
     {
-      "id": "task363-9f4a09c8480541c7836ab597669319f1",
-      "input": "The sword fighting is well done and Auteuil is a goofy pleasure .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-bcd2afb9e2094c5bb2dcd2edd7d080af",
-      "input": "Not to mention absolutely refreshed .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-a311e005c9e24443aa26e4b974965f60",
-      "input": "Upper West Sidey exercise in narcissism and self-congratulation disguised as a tribute .",
+      "id": "task363-74bbc09af62c4e799ab8e18a50fccedf",
+      "input": "` God help us , but Capra and Cooper are rolling over in their graves . '",
       "output": "NEG"
     },
     {
-      "id": "task363-efffff0b58df416a8b45aa8bc27fc5e5",
-      "input": "With more character development this might have been an eerie thriller ; with better payoffs , it could have been a thinking man 's monster movie .",
+      "id": "task363-cfc9b3621ccb4fc2a9d0d504e8a8b689",
+      "input": "At once a testament to the divine calling of education and a demonstration of the painstaking process of imparting knowledge .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-12c5e5c28fd445baafae4dc251b7404a",
+      "input": "A straight-shooting family film which awards animals the respect they 've rarely been given .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-b054e24a5a724df488847e43e4ddeae8",
+      "input": "When in doubt , the film ratchets up the stirring soundtrack , throws in a fish-out-of-water gag and lets the cliched dialogue rip .",
       "output": "NEG"
     },
     {
-      "id": "task363-f3b4486b3e134ce280c9e8d572c45940",
-      "input": "Unlike most anime , whose most ardent fans outside Japan seem to be introverted young men with fantasy fetishes , Metropolis never seems hopelessly juvenile .",
+      "id": "task363-05da1da690ae4b99a13151357656d378",
+      "input": "This humbling little film , fueled by the light comedic work of Zhao Benshan and the delicate ways of Dong Jie , is just the sort for those moviegoers who complain that ` they do n't make movies like they used to anymore . '",
       "output": "POS"
     },
     {
-      "id": "task363-c995f3674ab5471993479a06bd29f78f",
-      "input": "The self-serious Equilibrium makes its point too well ; a movie , like life , is n't much fun without the highs and lows .",
+      "id": "task363-09e4822ab7e24980bcb617728fbc3e74",
+      "input": "A film of epic scale with an intimate feeling , a saga of the ups and downs of friendships .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-bbcecc9f056944a49740d35c67f696d0",
+      "input": "I have always appreciated a smartly written motion picture , and , whatever flaws Igby Goes Down may possess , it is undeniably that .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-bf4bd0d5585e4ad7a99c2d60ffce2a30",
+      "input": "Astonishingly skillful and moving ... it could become a historically significant work as well as a masterfully made one .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-abae96c9119148b9bfcdd703ec4071e5",
+      "input": "If you 're in the right B-movie frame of mind , it may just scare the pants off you .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-3b362ae31e7d4109bfbb8dc0c1096947",
+      "input": "Mr. Wollter and Ms. Seldhal give strong and convincing performances , but neither reaches into the deepest recesses of the character to unearth the quaking essence of passion , grief and fear .",
       "output": "NEG"
     },
     {
-      "id": "task363-805769a982994ae7b2fcafcfc61a1336",
-      "input": "This 90-minute postmodern voyage was more diverting and thought-provoking than I 'd expected it to be .",
+      "id": "task363-971d15a2ee4142e0bf19beb124eee128",
+      "input": "There are n't too many films that can be as simultaneously funny , offbeat and heartwarming ( without a thick shmear of the goo , at least ) , but `` Elling '' manages to do all three quite well , making it one of the year 's most enjoyable releases .",
       "output": "POS"
     },
     {
-      "id": "task363-e5734aefda004a78962ec08ec5e8c4b0",
-      "input": "Hatosy ... portrays young Brendan with his usual intelligence and subtlety , not to mention a convincing brogue .",
+      "id": "task363-5dd15fac409340b88ab1e7633daabbb1",
+      "input": "Beautifully reclaiming the story of Carmen and recreating it an in an African idiom .",
       "output": "POS"
     },
     {
-      "id": "task363-8309af4e4ce64929b597338cc86722a4",
-      "input": "... would be a total loss if not for two supporting performances taking place at the movie 's edges .",
+      "id": "task363-b034062da6524f20ab07e8101a05606e",
+      "input": "The pace of the film is very slow ( for obvious reasons ) and that too becomes off-putting .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-45d0db8ee3c04ad88ac3a3ac15b0668c",
+      "input": "A bonanza of wacky sight gags , outlandish color schemes , and corny visual puns that can be appreciated equally as an abstract Frank Tashlin comedy and as a playful recapitulation of the artist 's career .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-1ee43f6301574fe4af7e82484fca21ab",
+      "input": "Billy Crystal and Robert De Niro sleepwalk through vulgarities in a sequel you can refuse .",
       "output": "NEG"
     },
     {
-      "id": "task363-1c4c59ef04bf4a598833061300ea1683",
-      "input": "For a story set at sea , Ghost Ship is pretty landbound , with its leaden acting , dull exposition and telegraphed ` surprises . '",
+      "id": "task363-8007ffca1bdf4e4bb9829e68a206939e",
+      "input": "The film delivers what it promises : A look at the `` wild ride '' that ensues when brash young men set out to conquer the online world with laptops , cell phones and sketchy business plans .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-9f0a7c0194ca46ddb00039878407b0a6",
+      "input": "Passions , obsessions , and loneliest dark spots are pushed to their most virtuous limits , lending the narrative an unusually surreal tone .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-88b673956ff94549a8d9555a4a0f3d89",
+      "input": "If you come from a family that eats , meddles , argues , laughs , kibbitzes and fights together , then go see this delightful comedy .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-d606228ce169439e9082acc19486aa2e",
+      "input": "A fresh , entertaining comedy that looks at relationships minus traditional gender roles .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-978b799b56574d8cbdce2aa097939879",
+      "input": "Too many improbabilities and rose-colored situations temper what could 've been an impacting film .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-b82ae36ef2ec467eb2992b9648946b44",
+      "input": "A poorly scripted , preachy fable that forgets about unfolding a coherent , believable story in its zeal to spread propaganda .",
       "output": "NEG"
     },
     {
-      "id": "task363-d93db1e4719f43d78ea811f5c9c5312d",
-      "input": "Expect no major discoveries , nor any stylish sizzle , but the film sits with square conviction and touching good sense on the experience of its women .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-24c3be56441348bc9afae7673ddd9d4b",
-      "input": "Almodovar is an imaginative teacher of emotional intelligence in this engaging film about two men who discover what William James once called ` the gift of tears . '",
-      "output": "POS"
-    },
-    {
-      "id": "task363-bed83580f18943af9c57db50d95525c7",
-      "input": "By the end of the movie , you 're definitely convinced that these women are spectacular .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-e9350c1260a74e8aba01e9e893bc79bc",
-      "input": "The whole affair is as predictable as can be .",
+      "id": "task363-0125374f50cb4ccd88b1a10d84710ca7",
+      "input": "I 've had more interesting -- and , dare I say , thematically complex -- bowel movements than this long-on-the-shelf , point-and-shoot exercise in gimmicky crime drama .",
       "output": "NEG"
     },
     {
-      "id": "task363-781ecb75b74d49dcaf826832938236dc",
-      "input": "A battle between bug-eye theatre and dead-eye matinee .",
+      "id": "task363-2b10827399ee46e297c8c9a67ae797ae",
+      "input": "Plays out with a dogged and eventually winning squareness that would make it the darling of many a kids-and-family-oriented cable channel .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-7b91dd81c0eb401282fb6a4b7bce5467",
+      "input": "The crassness of this reactionary thriller is matched only by the ridiculousness of its premise .",
       "output": "NEG"
     },
     {
-      "id": "task363-edb4ab19820b4e82a0d826d1c809cec0",
-      "input": "The effort is sincere and the results are honest , but the film is so bleak that it 's hardly watchable .",
+      "id": "task363-4e7cc998fb8846e59bf5554c59345990",
+      "input": "If there 's one big point to Promises , it 's that nothing can change while physical and psychological barriers keep the sides from speaking even one word to each other .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-53dfff1b076447f393781ce690542812",
+      "input": "Looks and feels like a low-budget hybrid of Scarface or Carlito 's Way .",
       "output": "NEG"
     },
     {
-      "id": "task363-c160078c7dcb4030880048f20658ae1b",
-      "input": "In the name of an allegedly inspiring and easily marketable flick , The Emperor 's Club turns a blind eye to the very history it pretends to teach .",
+      "id": "task363-71ddce55a6ec4e59927ba62948c3442d",
+      "input": "A rambling ensemble piece with loosely connected characters and plots that never quite gel .",
       "output": "NEG"
     },
     {
-      "id": "task363-f6ac4ace59494281a923a9a12ab69636",
-      "input": "Romantic , riveting and handsomely animated .",
+      "id": "task363-2b442a59d73648c5bcc04ddec2a1fcc3",
+      "input": "Only those most addicted to film violence in all its forms will find anything here to appreciate .",
       "output": "POS"
     },
     {
-      "id": "task363-91d46917c6b4498fa0ff62164a726f2d",
-      "input": "Consider this review life-affirming .",
+      "id": "task363-25ad6cae54914b5b939242c551c64e54",
+      "input": "It 's hard to quibble with a flick boasting this many genuine cackles , but Notorious C.H.O. still feels like a promising work-in-progress .",
       "output": "POS"
     },
     {
-      "id": "task363-47d049ba589e436bbc88b592e2bd5067",
-      "input": "A superlative B movie -- funny , sexy , and rousing .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-5debc777bc4c45b19963323c17914242",
-      "input": "Despite modest aspirations its occasional charms are not to be dismissed .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-e8e2fc1d28054daa967c45c8e7d1885f",
-      "input": "Its generic villains lack any intrigue ( other than their funny accents ) and the action scenes are poorly delivered .",
+      "id": "task363-de5b16d45c9e42b7a5844f4c00073667",
+      "input": "We 're left with a story that tries to grab us , only to keep letting go at all the wrong moments .",
       "output": "NEG"
     },
     {
-      "id": "task363-4c6950a7bf1b42439daf850a308931cb",
-      "input": "Michael Moore 's latest documentary about America 's thirst for violence is his best film yet ...",
-      "output": "POS"
-    },
-    {
-      "id": "task363-928fa0e362c149e48dc616baf3b9b2d6",
-      "input": "A deft , delightful mix of sulky teen drama and overcoming-obstacles sports-movie triumph .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-77a0108f2af34646a6edb77c07e8753e",
-      "input": "At times Auto Focus feels so distant you might as well be watching it through a telescope .",
+      "id": "task363-8103f6296c474491ba9d078f062c70f9",
+      "input": "An absurdist spider web .",
       "output": "NEG"
     },
     {
-      "id": "task363-a72689bcbac64f2f960000e58427c331",
-      "input": "Just as the lousy Tarantino imitations have subsided , here comes the first lousy Guy Ritchie imitation .",
-      "output": "NEG"
-    },
-    {
-      "id": "task363-327dfafd6c0940c2bd5539bef7d8b1fe",
-      "input": "Somewhere in the middle , the film compels , as Demme experiments he harvests a few movie moment gems , but the field of roughage dominates .",
+      "id": "task363-fc295ff3eb744c48a6cff4969401ace0",
+      "input": "It challenges , this nervy oddity , like modern art should .",
       "output": "POS"
     },
     {
-      "id": "task363-6af2c6074d824cfa9a6a59e69cea0a94",
-      "input": "Formula 51 has dulled your senses faster and deeper than any recreational drug on the market .",
-      "output": "POS"
-    },
-    {
-      "id": "task363-0155b5b190ee4fb0848ba8f46251e16a",
-      "input": "What little atmosphere is generated by the shadowy lighting , macabre sets , and endless rain is offset by the sheer ugliness of everything else .",
+      "id": "task363-2400debf48fd439a9dc992fbc800df08",
+      "input": "There is more than one joke about putting the toilet seat down .",
       "output": "NEG"
     },
     {
-      "id": "task363-7a5775968bff4eff8c67f4a36b672b0b",
-      "input": "All the sensuality , all the eroticism of a good vampire tale has been , pardon the pun , sucked out and replaced by goth goofiness .",
+      "id": "task363-a525faaca9944871a1ff741710b368d4",
+      "input": "Let 's hope not .",
       "output": "NEG"
     },
     {
-      "id": "task363-b00b0448c5be4b118e741a699aac6fde",
-      "input": "While the path may be familiar , first-time director Denzel Washington and a top-notch cast manage to keep things interesting .",
+      "id": "task363-7c860fb9600b45d99ed568ef9f0b41c5",
+      "input": "Klein , charming in comedies like American Pie and dead-on in Election , delivers one of the saddest action hero performances ever witnessed .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-117ef8efb6cf43269743934b6d640a26",
+      "input": "Its simplicity puts an exclamation point on the fact that this is n't something to be taken seriously , but it also wrecks any chance of the movie rising above similar fare .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-bd19f3aa8efa46e894ba9e36d67dadb7",
+      "input": "Whenever it threatens to get bogged down in earnest dramaturgy , a stirring visual sequence like a surge through swirling rapids or a leap from pinnacle to pinnacle rouses us .",
       "output": "POS"
     },
     {
-      "id": "task363-e8c496b3c17a4817a037d84e4c47a919",
-      "input": "As social exposé , Skins has its heart in the right place , but that 's not much to hang a soap opera on .",
+      "id": "task363-72e67e6c16fd45ea9fa61d9986dacbf8",
+      "input": "Performances all around are tops , with the two leads delivering Oscar-caliber performances .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-5dc23487b9bf4ceca641c6facc6f347a",
+      "input": "Dramatically lackluster .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-0ca455fe2ed243a083a3f103e7aa5da0",
+      "input": "Not at all clear what it 's trying to say and even if it were -- I doubt it would be all that interesting .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-50de4e8b7ea44cb28b20d21ab10ccd31",
+      "input": "You could hate it for the same reason .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-0ca62991a3124340993ad25452ae17e0",
+      "input": "Uneven , self-conscious but often hilarious spoof .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-4d746208c36a4df0bed24c0206d1d5a4",
+      "input": "The one-liners are snappy , the situations volatile and the comic opportunities richly rewarded .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-2c62ddf1495148699e89477911a1d0b1",
+      "input": "Report card : Does n't live up to the exalted tagline - there 's definite room for improvement .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-d6d534089ea2478eb24e68ffed5d9fa4",
+      "input": "More intellectually scary than dramatically involving .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-c30c4f46e68547498d64f54b6a04345a",
+      "input": "Almost everyone growing up believes their family must look like `` The Addams Family '' to everyone looking in ... `` My Big Fat Greek Wedding '' comes from the heart ...",
+      "output": "POS"
+    },
+    {
+      "id": "task363-5ac9feee47ef4460bbb946edf9870455",
+      "input": "It 's sort of in-between , and it works .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-613e1b970e9c4a79a6efc3b88d508cd3",
+      "input": "It 's up to you to decide whether to admire these people 's dedication to their cause or be repelled by their dogmatism , manipulativeness and narrow , fearful view of American life .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-35415b2b38b3440499f40c5b2ee5126b",
+      "input": "aside from showing us in explicit detail how difficult it is to win over the two-drink-minimum crowd , there 's little to be learned from watching ` Comedian '",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-426e2c698bbb4975a819bfd6eea4d85b",
+      "input": "( Allen 's ) best works understand why snobbery is a better satiric target than middle-America diversions could ever be .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-f6646ff392054e469190a5f58c1038d1",
+      "input": "What happens when something goes bump in the night and nobody cares ?",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-18813091f5ee4557a3d5a0ae24a4a7f5",
+      "input": "The camera twirls !",
+      "output": "POS"
+    },
+    {
+      "id": "task363-c7cfdd0ccbb84bdb8f9a814da65bfa12",
+      "input": "With very little to add beyond the dark visions already relayed by superb recent predecessors like Swimming With Sharks and The Player , this latest skewering ... may put off insiders and outsiders alike .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-e920a3e6220447d7a28e72df9b184e16",
+      "input": "The Cat 's Meow marks a return to form for director Peter Bogdanovich ...",
+      "output": "POS"
+    },
+    {
+      "id": "task363-cfcfe785dbdb47dcb66daea9326e5b68",
+      "input": "Spectacularly beautiful , not to mention mysterious , sensual , emotionally intense , and replete with virtuoso throat-singing .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-547ce0f531d74fa486f63ad900d48f82",
+      "input": "The pretensions -- and disposable story -- sink the movie .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-4e25b9e9a5594d8191f65a4212614fd9",
+      "input": "Cremaster 3 is at once a tough pill to swallow and a minor miracle of self-expression .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-5c663807acd249d2b13bd0065a1be157",
+      "input": "Admirers of director Abel Ferrara may be relieved that his latest feature , R Xmas , marks a modest if encouraging return to form .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-e02f3f0470d4495283eae5eebeeb18b5",
+      "input": "Puts on airs of a Hal Hartley wannabe film -- without the vital comic ingredient of the hilarious writer-director himself .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-1fff0f6a738546a5bc44e88a7938510b",
+      "input": "A surprisingly ` solid ' achievement by director Malcolm D. Lee and writer John Ridley .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-2f082ebe9dc748d4a69586caeab454cc",
+      "input": "A wild ride juiced with enough energy and excitement for at least three films .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-9af9f56f91994c068587865bbc11fbf1",
+      "input": "The problem with the film is whether these ambitions , laudable in themselves , justify a theatrical simulation of the death camp of Auschwitz II-Birkenau .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-1adc3577f7294687875476c1ddd83446",
+      "input": "The connected stories of Breitbart and Hanussen are actually fascinating , but the filmmaking in Invincible is such that the movie does not do them justice .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-647f8ab8986f4136bdd5b9228c3029ad",
+      "input": "Lush and beautifully photographed ( somebody suggested the stills might make a nice coffee table book ) , but ultimately you 'll leave the theater wondering why these people mattered .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-11dad7ab951e415aa3b73d02b4f2498b",
+      "input": "K-19 will not go down in the annals of cinema as one of the great submarine stories , but it is an engaging and exciting narrative of Man confronting the Demons of his own fear and paranoia .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-68d9174af5b54f4b8747be8363926d35",
+      "input": "An eloquent , reflective and beautifully acted meditation on both the profoundly devastating events of one year ago and the slow , painful healing process that has followed in their wake .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-aa3b6feae45d42b48a99b567b074dc7d",
+      "input": "It 's so downbeat and nearly humorless that it becomes a chore to sit through -- despite some first-rate performances by its lead .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-cc3bc4230fdc4c3381e5a5d8d18f192a",
+      "input": "There ai n't a lot more painful than an unfunny movie that thinks it 's hilarious .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-128aae86ca48477baf5b4bf8f7188d54",
+      "input": "The production values are of the highest and the performances attractive without being memorable .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-aa5079911eb649c4a661d83dfbeb9821",
+      "input": "A brilliant , absurd collection of vignettes that , in their own idiosyncratic way , sum up the strange horror of life in the new millennium .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-ff2f6061be934d6cb1e2fba85ae23f8c",
+      "input": "The film becomes an overwhelming pleasure , and you find yourself rooting for Gai 's character to avoid the fate that has befallen every other Carmen before her .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-e6ed983246ed4d23b85c82f3081841ec",
+      "input": "Birot creates a drama with such a well-defined sense of place and age -- as in , 15 years old -- that the torments and angst become almost as operatic to us as they are to her characters .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-fe6661a22a8e4bf39b0b8aaafa8e25c1",
+      "input": "Feardotcom 's thrills are all cheap , but they mostly work .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-9e4d27a0e3394bedbf041c7c6cb0ab98",
+      "input": "Still , this flick is fun , and host to some truly excellent sequences .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-3bea0d20c2324966a21d5e1b83b1be04",
+      "input": "The plot is romantic comedy boilerplate from start to finish .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-b7b81d85d209470e8ca91c25aeb5ea39",
+      "input": "Leaves viewers out in the cold and undermines some phenomenal performances .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-99419eb14ef940cbafe6f8cacea1d033",
+      "input": "Ver Wiel 's desperate attempt at wit is lost , leaving the character of Critical Jim two-dimensional and pointless .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-3b3ca117ed164ad6b4cda8c3d36ebd1e",
+      "input": "Buy is an accomplished actress , and this is a big , juicy role .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-00660ea6a4474b0794f2982f6b38b23c",
+      "input": "But this is Lohman 's film .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-ac47cbcac06e4ef0aac7b492908620d6",
+      "input": "Did we really need a remake of `` Charade ? ''",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-3d36fba15e3b44c5918000e441a8fc15",
+      "input": "Grant is certainly amusing , but the very hollowness of the character he plays keeps him at arms length",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-b4ed3ebfbd3d4f4ca8c25e06a2511ebf",
+      "input": "... contains very few laughs and even less surprises .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-4f1ca3a6e8c74a5cacd1e776de9b518f",
+      "input": "There is only so much baked cardboard I need to chew .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-87351fe121d54abfbce78e2fb3ec4e79",
+      "input": "A prison comedy that never really busts out of its comfy little cell .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-b3f97a8ac08a4c5b8008fb7f5e2c68b8",
+      "input": "A remarkable film by Bernard Rose .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-4579617ae2334e048ff207497a5cccdc",
+      "input": "Surprisingly powerful and universal .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-55f558766e4b4e6fbab683ddb5c85b43",
+      "input": "Chilling in its objective portrait of dreary , lost twenty-first century America .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-dd590fa469ef4a1bb66716e1cb1705d6",
+      "input": "The film never gets over its own investment in conventional arrangements , in terms of love , age , gender , race , and class .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-1b738ed3e1504e6190509ec985abc5c6",
+      "input": "It is a likable story , told with competence .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-9e46d50c15b4452abf76f3c6c3e9b2af",
+      "input": "Poor Ben Bratt could n't find stardom if MapQuest emailed him point-to-point driving directions .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-57fb5bc253ed485cb02e88b3c1d1d411",
+      "input": "Robert Harmon 's less-is-more approach delivers real bump-in - the-night chills -- his greatest triumph is keeping the creepy crawlies hidden in the film 's thick shadows .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-b1aae605157b486da0253068e69681d5",
+      "input": "Not quite as miraculous as its DreamWorks makers would have you believe , but it more than adequately fills the eyes and stirs the emotions .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-b510a15aec2546888bf4275cef0fa207",
+      "input": "-- is a crime that should be punishable by chainsaw .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-c8ba6cb4038a40c2b40c15432562550f",
+      "input": "Though this saga would be terrific to read about , it is dicey screen material that only a genius should touch .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-e5d549039c364911b032f8f4d67e374d",
+      "input": "One of those rare films that seems as though it was written for no one , but somehow manages to convince almost everyone that it was put on the screen , just for them .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-3d8a36e99fe341c58f29781ee861c265",
+      "input": "After sitting through this sloppy , made-for-movie comedy special , it makes me wonder if Lawrence hates criticism so much that he refuses to evaluate his own work .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-1e367e68e0d541729360ff82c46eef3b",
+      "input": "`` Austin Powers in Goldmember '' has the right stuff for silly summer entertainment and has enough laughs to sustain interest to the end .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-4dc3c13f6d654136a9892b50ec3b2ff9",
+      "input": "Enough may pander to our basest desires for payback , but unlike many revenge fantasies , it ultimately delivers .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-f29918af25844d43a91259ff0e2b6199",
+      "input": "Bluto Blutarsky , we miss you .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-bebff14a58694d85a69a702419d06ce8",
+      "input": "Made for teens and reviewed as such , this is recommended only for those under 20 years of age ... and then only as a very mild rental .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-b5121d090c26477cb26010b343788e14",
+      "input": "Other than a mildly engaging central romance , Hospital is sickly entertainment at best and mind-destroying cinematic pollution at worst .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-b0c5f325aed146db8a1e95c2fe2bf315",
+      "input": "I wish Windtalkers had had more faith in the dramatic potential of this true story .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-f13ef2257b4e4f04a8a49cda208766ea",
+      "input": "`` Juwanna Mann ? ''",
+      "output": "POS"
+    },
+    {
+      "id": "task363-72125236c4cf4571b0f04a1347f848f4",
+      "input": "Apart from its own considerable achievement , Metropolis confirms Tezuka 's status as both the primary visual influence on the animé tradition and its defining philosophical conscience .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-a7c9ed5df8184c609b95e167247357d5",
+      "input": "No better or worse than ` Truth or Consequences , N.M. ' or any other interchangeable actioner with imbecilic Mafia toolbags botching a routine assignment in a Western backwater .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-f8b3660f6743477385872438f828aa3b",
+      "input": "Massoud 's story is an epic , but also a tragedy , the record of a tenacious , humane fighter who was also the prisoner ( and ultimately the victim ) of history .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-13dd2d1c05554398bd3a0c4c44d3abb0",
+      "input": "`` 13 Conversations '' holds its goodwill close , but is relatively slow to come to the point .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-7706f4c27c3e4289a20690f0fec89322",
+      "input": "In an ART FILM !",
+      "output": "POS"
+    },
+    {
+      "id": "task363-20c01dcaf7944678a2b37f73aae21449",
+      "input": "You watch for that sense of openness , the little surprises .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-3b13b94823b14fcfb0093e5bae1db1ae",
+      "input": "OK arthouse .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-63a2d969bd394700b9c54ebda3cff440",
+      "input": "What 's needed so badly but what is virtually absent here is either a saving dark humor or the feel of poetic tragedy .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-4413393d090d4346be4a4c73eef9ddca",
+      "input": "Less funny than it should be and less funny than it thinks it is .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-c607b0c3074642bd8f6b040e366a00dd",
+      "input": "In this film , Aussie David Caesar channels the not-quite-dead career of Guy Ritchie .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-1bcbc4c02dc942cc92e321c9d196a512",
+      "input": "While Insomnia is in many ways a conventional , even predictable remake , Nolan 's penetrating undercurrent of cerebral and cinemantic flair lends ( it ) stimulating depth .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-f7c6c1e8637a40538c268ba80b293fe9",
+      "input": "With the same sort of good-natured fun found in films like Tremors , Eight Legged Freaks is prime escapist fare .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-aa609b2b8257430b91415c0d3ebf2953",
+      "input": "An eye-boggling blend of psychedelic devices , special effects and backgrounds , ` Spy Kids 2 ' is a visual treat for all audiences .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-8951696b99b84ad48da6f5f4c34ad65f",
+      "input": "The film 's lack of personality permeates all its aspects -- from the TV movie-esque , affected child acting to the dullest Irish pub scenes ever filmed .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-1d973551a9da4ad9b7b37376142b47ab",
+      "input": "Squandering his opportunity to make absurdist observations , Burns gets caught up in the rush of slapstick thoroughfare .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-d47c8bf12b8640ae88764b5863f9123a",
+      "input": "Watching War Photographer , you come to believe that Nachtwey hates the wars he shows and empathizes with the victims he reveals .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-bf1bfd17b2324ac7a1c9b46a5cf5b360",
+      "input": "K 19 stays afloat as decent drama\\/action flick",
+      "output": "POS"
+    },
+    {
+      "id": "task363-fb8f94d1d3b84b54ae92615cd312bce2",
+      "input": "As an introduction to the man 's theories and influence , Derrida is all but useless ; as a portrait of the artist as an endlessly inquisitive old man , however , it 's invaluable .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-4e438707f712473ba15ecf17161c04c4",
+      "input": "Exhibits the shallow sensationalism characteristic of soap opera ... more salacious telenovela than serious drama .",
+      "output": "NEG"
+    },
+    {
+      "id": "task363-e05b949b965f4616887fb970f8feb12f",
+      "input": "This is a dark , gritty , sometimes funny little gem .",
+      "output": "POS"
+    },
+    {
+      "id": "task363-d2acac8e39e64a06805d1a873146e8c4",
+      "input": "A ragbag of cliches .",
       "output": "NEG"
     }
   ],

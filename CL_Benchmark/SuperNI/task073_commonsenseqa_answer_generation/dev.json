@@ -55,703 +55,1368 @@
   ],
   "Instances": [
     {
-      "id": "task073-8d8431b2fa1644e5bf7bcaf20cf3f74d",
-      "input": "If a person stutters when he experiences anxiety or excitement, he'll have difficult doing what?\n(A)express information (B)dance (C)library (D)go somewhere (E)study",
+      "id": "task073-1e4e4031f27445b89068647b021aaf3f",
+      "input": "Where would you get some wood if you do not have any?\n(A)carpet (B)boat (C)river (D)lumberyard (E)synagogue",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-59a8afac2fdb472bbbf50a8b7d7d4038",
+      "input": "What could people do that involves talking?\n(A)confession (B)state park (C)sing (D)carnival (E)opera",
       "output": [
         "A"
       ]
     },
     {
-      "id": "task073-8966f30335cf49b8abc17e598694d075",
-      "input": "Where can you keep letter opener when it likely to be needed soon?\n(A)office supply store (B)stationery store (C)dek (D)martyr's chest (E)refrigerator",
+      "id": "task073-6e4a7e15de4f462981c4e18704670fef",
+      "input": "Where might a lemur frolic in the market?\n(A)desert (B)hole (C)india (D)cage (E)rain forest",
       "output": [
         "C"
       ]
     },
     {
-      "id": "task073-f6a95e50f1784a78b6f2a61803d62154",
-      "input": "Danny found that the carpet did not ,match the drapes, which was disappointing, because this place was expensive.  But it was the only place in town that wasn't booked solid for the week and he needed it while he was in town, so he couldn't complain.   Where might this place be?\n(A)brothel (B)restaurant (C)building (D)bowling alley (E)at hotel",
-      "output": [
-        "E"
-      ]
-    },
-    {
-      "id": "task073-a42b9199060d41fcad4d8b64096a3f75",
-      "input": "What do people need to do to change their lives?\n(A)face problems (B)better themselves (C)pay bills (D)become disillusioned (E)eat chicken",
-      "output": [
-        "A"
-      ]
-    },
-    {
-      "id": "task073-67b897748ce747df80c449b711a8e905",
-      "input": "Humans need shelter to survive.  They usually find shelter where?\n(A)underpass (B)homes (C)workplace (D)school (E)space shuttle",
+      "id": "task073-c1583e32aa3f4187bd77d180aaffb3e0",
+      "input": "What does a stove do to the place that it's in?\n(A)cool house (B)warm room (C)gas or electric (D)burn child (E)brown meat",
       "output": [
         "B"
       ]
     },
     {
-      "id": "task073-c087b95316d842138edc497b081049fb",
-      "input": "Someone who had a very bad flight might be given a trip in this to make up for it?\n(A)first class (B)propitious (C)reputable (D)one (E)sufficient",
+      "id": "task073-e2c77ce67bff4f53aa6b76dbed3d93aa",
+      "input": "John went to a party that lasted all night.  Because of this, he didn't have time for what?\n(A)meeting (B)blowing off steam (C)stay home (D)partying hard (E)studying",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-63157366ff16448f922986db4d16f04d",
+      "input": "If you have a home with a courtyard, what's one thing you probably don't have to care for any longer?\n(A)lawn (B)kids (C)asshole (D)spain (E)office complex",
       "output": [
         "A"
       ]
     },
     {
-      "id": "task073-22e3585fb3084058bd005f1573c9df9a",
-      "input": "Nature can be good and bad for the person who walks, what are some things?\n(A)seeing bear (B)see beautiful views (C)get wet (D)getting lost (E)murdered by a landshark",
+      "id": "task073-9b38664e0e944e4d8d0eb143c0d1a70f",
+      "input": "What blocks sunshine?\n(A)summer (B)park (C)desktop (D)sea (E)moon",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-0cfa2dceb40347a9890eee70ea495c99",
+      "input": "What type of residence has a ground floor with a stoop?\n(A)brownstone (B)hotel (C)condominium (D)entering building (E)office building",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-06f4a6971751475c9b2649df238f1601",
+      "input": "What is the word added to Manchester that signifies what county it is in?\n(A)england (B)united kingdome (C)lancashire (D)greater manchester (E)cheshire",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-1dbf385a264346238d7392c0a57dd197",
+      "input": "His parents thought he was suffering from boredom, but the teen loved to lay in bed and just do what?\n(A)meet interesting people (B)lift weights (C)listen to music (D)play chess (E)entertain",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-ff431fd0175f437693a9408f9f00bec5",
+      "input": "If you're going to a party in a new town what are you hoping to make?\n(A)getting drunk (B)making new friends (C)new contacts (D)doing drugs (E)set home",
       "output": [
         "B"
       ]
     },
     {
-      "id": "task073-98c9b86fa17c42a083e79ed8ee62b9a0",
-      "input": "Jim decided to lose weight.  He thought that exercise is the best way to lose weight because you can't get rid of what?\n(A)need for food (B)fitness (C)sweating (D)fastfood (E)thirst",
+      "id": "task073-754b2b3ec5c94d90b95b869429a26804",
+      "input": "Where would a computer user be using their own computer?\n(A)hell (B)school (C)indoors (D)internet cafe (E)house",
       "output": [
-        "A"
+        "E"
       ]
     },
     {
-      "id": "task073-25b02b3397a1405886afce6053268d34",
-      "input": "Nature creates more beautiful structures than those that are what?\n(A)artificial (B)indoors (C)city (D)man made (E)eat cake",
-      "output": [
-        "D"
-      ]
-    },
-    {
-      "id": "task073-ecceaf53cc9f430aabdd335161121549",
-      "input": "The water in clouds turn in to what when it gets cold?\n(A)typhoon (B)snowflake (C)laddle (D)teardrops (E)sink",
+      "id": "task073-84e8ac2c3c85490380a11f149a135ab2",
+      "input": "He wanted lodging in the actual what, so that he was already where he needed to be?\n(A)a yurt (B)resort area (C)big city (D)michigan (E)going on vacation",
       "output": [
         "B"
       ]
     },
     {
-      "id": "task073-09d18cdec5d44a55b457d032b5624889",
-      "input": "What southern U.S. state is know for having many swamps?\n(A)wetlands (B)new york (C)michigan (D)louisiana (E)river delta",
-      "output": [
-        "D"
-      ]
-    },
-    {
-      "id": "task073-a736f685266c41f9b30676d29f6b90e2",
-      "input": "When going to sleep what happens to your body?\n(A)snoring (B)latency (C)dreams (D)relaxation (E)dreaming",
-      "output": [
-        "D"
-      ]
-    },
-    {
-      "id": "task073-be19a59b69a84da68335c371165ef494",
-      "input": "Where is a monkey likely to enjoy being?\n(A)banana tree (B)sailor suit (C)theatre (D)mulberry bush (E)research laboratory",
-      "output": [
-        "A"
-      ]
-    },
-    {
-      "id": "task073-83ffdcd8acf8434ba2f6c0875caf61c6",
-      "input": "What is a form of anaerobic exercising?\n(A)shortness of breath (B)lift weights (C)error (D)fall down (E)run",
-      "output": [
-        "E"
-      ]
-    },
-    {
-      "id": "task073-0814ff43cfb646d7acfde2dc39102c95",
-      "input": "The earth is one planet in what?\n(A)tree (B)orbit (C)solar system (D)fotograph (E)dreams",
-      "output": [
-        "C"
-      ]
-    },
-    {
-      "id": "task073-672759c965444d048163253cfdc7c418",
-      "input": "Where would you put a container can after you buy it?\n(A)pantry (B)store (C)gas (D)liquid (E)garage",
-      "output": [
-        "E"
-      ]
-    },
-    {
-      "id": "task073-c41fe69d372348c4a9f2758b6ea6aab4",
-      "input": "Where did you meet your best friend since Kindergarten?\n(A)friend's house (B)school (C)fraternity house (D)internet cafe (E)airplane",
+      "id": "task073-89398d92347f42cf907a27f7774d2d56",
+      "input": "This is an unavoidable physiological consequence of running.  What is it?\n(A)breathlessness (B)increased heart rate (C)falling down (D)muscle bulk (E)calluses",
       "output": [
         "B"
       ]
     },
     {
-      "id": "task073-23e874b7d3ef4e3ba8cc3583c919f886",
-      "input": "James was below the balloon.  He watched it rise.  What direction did he look in?\n(A)upstairs (B)aloft (C)diagonal (D)upstream (E)upwards",
-      "output": [
-        "E"
-      ]
-    },
-    {
-      "id": "task073-5124f32dbb464385990f73bc4be35f6c",
-      "input": "John and Tim like playing. It makes them what?\n(A)feeling happy (B)learning (C)injury (D)burn (E)get hungry",
+      "id": "task073-ebca57572156430594b0d92370117f17",
+      "input": "Where is a well used toy car likely to be found?\n(A)child's room (B)boy's bedroom (C)own home (D)toy store (E)house",
       "output": [
         "A"
       ]
     },
     {
-      "id": "task073-f18d06ab0c7245b291e6c5e4f5bff079",
-      "input": "What could happen if someone is seeing new presents at a birthday party?\n(A)envy (B)jealousy (C)education (D)fear (E)excitement",
-      "output": [
-        "E"
-      ]
-    },
-    {
-      "id": "task073-9009816068ba45f8b7f272dea95383b0",
-      "input": "Joe's cat smelled something delicious and jumped into this, causing him to panic and fear for its life. Where might it have jumped?\n(A)meat loaf (B)bedroom (C)microwave (D)living room (E)floor",
+      "id": "task073-d77de2d1685340dcb45036141c7ad5e5",
+      "input": "Where would you acquire a wind instrument for you own use?\n(A)band practice (B)concert (C)music store (D)symphony (E)music room",
       "output": [
         "C"
       ]
     },
     {
-      "id": "task073-6e2134c4a1214ecdb36013e0b97f75d7",
-      "input": "Why would a person put flowers in a room with dirty gym socks?\n(A)continue to grow (B)plant themselves (C)many colors (D)smell good (E)make pretty",
-      "output": [
-        "D"
-      ]
-    },
-    {
-      "id": "task073-4d5fdcffe6db4e18a9935d8e4adc3418",
-      "input": "The table wasn't level.  some parts were higher and some were lower with no rhyme or reason.   It was very what?\n(A)electrical circuit (B)build evenly (C)uneven (D)unbalanced (E)tilted",
-      "output": [
-        "C"
-      ]
-    },
-    {
-      "id": "task073-b15f85408649449fa8c2a79914ac85e6",
-      "input": "The person signed up for home insurance, what is he seeking?\n(A)financial security (B)live well (C)good relationship (D)compliments (E)discounted furniture",
-      "output": [
-        "A"
-      ]
-    },
-    {
-      "id": "task073-b0dd523930734ff29a3d865e99ee9827",
-      "input": "James know that committing murder was wrong, but he thought that he could get away with it.  He was really troubled  and fearful because of what?\n(A)happiness (B)problems (C)prosecution (D)distress (E)misery",
-      "output": [
-        "C"
-      ]
-    },
-    {
-      "id": "task073-bbab2ea1fd604f2580b023ff8224c76d",
-      "input": "How can someone die from eating hamburger?\n(A)gas (B)getting full (C)mad cow disease (D)death (E)feel full",
-      "output": [
-        "C"
-      ]
-    },
-    {
-      "id": "task073-e49918b5bff44e6290805312a2ab381f",
-      "input": "Where would using a boat not require navigation skills?\n(A)water (B)ocean (C)garage (D)harbor (E)river",
+      "id": "task073-3732caa59ce04f479b9ece404c3a1eb3",
+      "input": "I took my seat, the curtains drew back and I enjoyed the what?\n(A)airplane (B)movie (C)auditorium (D)theatre (E)show",
       "output": [
         "E"
       ]
     },
     {
-      "id": "task073-57210e0cb4fb48dcaa992b613673ee31",
-      "input": "What does a self assured person often do?\n(A)acknowledgment (B)focused (C)know what time (D)feel important (E)trust himself",
-      "output": [
-        "D"
-      ]
-    },
-    {
-      "id": "task073-35fd1473cab7454e85835eabaa03e8ed",
-      "input": "He was very outgoing, for him making friends was no personal what?\n(A)scary (B)having friends (C)good feeling (D)conflict (E)friendship",
-      "output": [
-        "D"
-      ]
-    },
-    {
-      "id": "task073-a043c151585544d5a769e45580ed3d47",
-      "input": "What do you feel when giving assistance to the needy?\n(A)reward (B)boredom (C)pleasure (D)happiness (E)satisfaction",
+      "id": "task073-93a62bab38c34f9bba5b94b8c550b01b",
+      "input": "A loud machine is irritating, but many are expected where?\n(A)museum (B)house (C)laboratory (D)library (E)industrial area",
       "output": [
         "E"
       ]
     },
     {
-      "id": "task073-357c67bc358641ad9bc0cf7de3d17f17",
-      "input": "Paul wants carrots and doesn't need to drive anywhere. He gets them from where?\n(A)refrigerator (B)store (C)farmer's market (D)supermarket (E)dryer",
+      "id": "task073-a18aef54de674b89bb777c3557ba1343",
+      "input": "Where would you find a monkey in the wild?\n(A)zoo (B)barrel (C)research laboratory (D)captivity (E)thailand",
       "output": [
-        "A"
+        "E"
       ]
     },
     {
-      "id": "task073-9a2b1b9738e34ede9f186aaeb822c770",
-      "input": "He was a sloppy eater, so where did he leave a mess?\n(A)sailboat (B)desk (C)closet (D)table (E)apartment",
-      "output": [
-        "D"
-      ]
-    },
-    {
-      "id": "task073-b4543f721c45413f826e54e65ef4167e",
-      "input": "What does every person want?\n(A)life partner (B)larger house (C)second chances (D)money (E)headache",
-      "output": [
-        "A"
-      ]
-    },
-    {
-      "id": "task073-e6d595ffca4c46d3824b176faa91be0c",
-      "input": "If a small flying animal picks up a string, where are they taking it?\n(A)bird's nest (B)park (C)guitar (D)kite (E)quark",
-      "output": [
-        "A"
-      ]
-    },
-    {
-      "id": "task073-91b0a814e0d84000886f33e368302f84",
-      "input": "He had no issue committing perjury, he had a what that he would get away with it?\n(A)confidence (B)go to jail (C)telling lies (D)lying (E)manual",
-      "output": [
-        "A"
-      ]
-    },
-    {
-      "id": "task073-e3b4b8d4732b4f2ea3aaf59054ade96e",
-      "input": "What could go to a tennis court?\n(A)desert (B)college campus (C)recreational center (D)athletic club (E)park",
+      "id": "task073-1df7ff18733e4234bcbcc2ae04e786c8",
+      "input": "John farms anemone in what type of facility?\n(A)michigan (B)swimming pool (C)atlantic ocean (D)nursery (E)gulf of mexico",
       "output": [
         "D"
       ]
     },
     {
-      "id": "task073-08a81a3b309146309d652aaad5bd1690",
-      "input": "What could you use to fill a cup and then drink from it?\n(A)sand box (B)kitchen cabinet (C)waterfall (D)water fountain (E)table",
+      "id": "task073-4436beb7ab1a4304bad199982bad2336",
+      "input": "I want my wine stored in darkness, where should it go?\n(A)movies (B)bed (C)moon (D)vault (E)cellar",
       "output": [
-        "D"
+        "E"
       ]
     },
     {
-      "id": "task073-44ed84b5bf9d4ca091a12da7125c1925",
-      "input": "The two played video games all night in the living room, he enjoyed visiting where?\n(A)formal seating (B)friend's house (C)movies (D)home (E)apartment",
+      "id": "task073-ffc5999b749d4a23937e4fa081a4fb42",
+      "input": "The kitten had nothing to dig it's claws into, so when it tried to stop it slid across what?\n(A)living room (B)floor (C)warm place (D)carpet (E)farmhouse",
       "output": [
         "B"
       ]
     },
     {
-      "id": "task073-943b3c9581f743cfb6765d96a6165822",
-      "input": "The weasel ran up away from danger, somebody joked only our first president could get him down from the what?\n(A)washington dc (B)ladder (C)natural history museum (D)cherry tree (E)chicken coop",
-      "output": [
-        "D"
-      ]
-    },
-    {
-      "id": "task073-13d24a2151224ccca8b72dceb2d826c3",
-      "input": "If you were looking for a blowfish, you wouldn't look on dry land, you'd look in a what?\n(A)fish market (B)jungle (C)sea water (D)body of water (E)soup",
-      "output": [
-        "D"
-      ]
-    },
-    {
-      "id": "task073-1025ec2575fa4a3287fef768ef68ddc8",
-      "input": "George checked the rotor of the Apache, which wasn't powered by internal combustion, but by what?\n(A)jet engine (B)helicopter (C)electric motor (D)rotator (E)electrical circuit",
-      "output": [
-        "A"
-      ]
-    },
-    {
-      "id": "task073-88c16010de4042b7bea70dee3a1a056f",
-      "input": "The poker dealer spread the flop of cards across the what?\n(A)players (B)play games (C)casino (D)table (E)toy store",
-      "output": [
-        "D"
-      ]
-    },
-    {
-      "id": "task073-7c417ac4cb3a47e2b9929d8f7eb07af0",
-      "input": "Where is a salt shaker most often kept?\n(A)cruet (B)table setting (C)kitchen cupboard (D)cabinet (E)store",
+      "id": "task073-5917b3920ed449b384f72d429f007a99",
+      "input": "What could a driving car do to a pedestrian?\n(A)say hello (B)wreak (C)pollution (D)smoke (E)relaxation",
       "output": [
         "B"
       ]
     },
     {
-      "id": "task073-b52fb88b05a3470a8b5a3b5bc17c9e10",
-      "input": "Where would you put a dollar if you want to go to a store and buy something with it?\n(A)cash drawer (B)teh bank (C)safety deposit box (D)pocket (E)piggy bank",
+      "id": "task073-79faa33776a942759e487002c5fac58f",
+      "input": "What happens to a body after death?\n(A)rebirth (B)human experience (C)sadness (D)decomposition (E)obesity",
       "output": [
         "D"
       ]
     },
     {
-      "id": "task073-b8eb1ec1ee0f4991a6337e8aa1dfd4d3",
-      "input": "What room is likely to have a sideboard on the counter?\n(A)home (B)serve food buffet (C)dining room (D)living room (E)kitchen",
+      "id": "task073-d63187eeb0ba4fd1888ec3cf968c698a",
+      "input": "What kind of service is my body a part of when I'm no longer here?\n(A)bodycam (B)home (C)coffin (D)funeral (E)graveyard",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-fa99687169b1440ca47a616043d2b0f7",
+      "input": "Where can children play with animals?\n(A)meadow (B)play room (C)surface of earth (D)zoos (E)fairgrounds",
       "output": [
         "E"
       ]
     },
     {
-      "id": "task073-149c2a434694424c996e452d81a35ed2",
-      "input": "What is unlikely to get bugs on its windshield due to bugs' inability to reach it when it is moving?\n(A)airplane (B)scooter (C)motorboat (D)car (E)motor vehicle",
-      "output": [
-        "A"
-      ]
-    },
-    {
-      "id": "task073-ac6e7da950c643039da2d435a339f9b3",
-      "input": "What mall store sells jeans for a decent price?\n(A)clothing store (B)bedroom (C)thrift store (D)apartment (E)gap",
-      "output": [
-        "E"
-      ]
-    },
-    {
-      "id": "task073-96dcb4e4702b4577925d8fd082a1ffb8",
-      "input": "Where can a bath towel be borrowed?\n(A)cupboard (B)at hotel (C)swimming pool (D)clothes line (E)backpack",
+      "id": "task073-035a6c0599ab49c4a7c00c00499df06b",
+      "input": "What language type is someone from Iran likely to use?\n(A)books (B)dard (C)sky (D)closed room (E)television",
       "output": [
         "B"
       ]
     },
     {
-      "id": "task073-6eb0b15d9fc544feaaba4a24e773d6b7",
-      "input": "Why do people stop caring about their problems?\n(A)no problems (B)better themselves (C)face problems (D)learn from each other (E)become disillusioned",
-      "output": [
-        "E"
-      ]
-    },
-    {
-      "id": "task073-2d6c8cb5336e4ff985e3b45315362810",
-      "input": "John rode on the plain until it reached the ocean and couldn't go any farther. What might he have bee on?\n(A)mountain (B)fancy (C)sandplain (D)cliff (E)gorge",
-      "output": [
-        "D"
-      ]
-    },
-    {
-      "id": "task073-886d8f1ec7d74d6fba30a2a25db60fff",
-      "input": "They were never going to be big actors, but they all had passion for the local what?\n(A)theater (B)opera (C)show (D)television (E)blockbuster feature",
-      "output": [
-        "A"
-      ]
-    },
-    {
-      "id": "task073-e05a978b449a410db0a80bd73f8a0032",
-      "input": "Where would you use a folding chair but not store one?\n(A)beach (B)city hall (C)closet (D)garage (E)school",
-      "output": [
-        "A"
-      ]
-    },
-    {
-      "id": "task073-b9a7a4f209ab45cc973b3cb96d65bffb",
-      "input": "If you spend a long time shopping in uncomfortable shoes, you might develop what?\n(A)tiredness (B)calluses (C)bankruptcy (D)standing in line (E)sleepyness",
+      "id": "task073-e83265db1983463998398807c455d8d3",
+      "input": "Immediately after peeing, a person's bladder is what?\n(A)collapsed (B)empty (C)full (D)filled (E)stretchable",
       "output": [
         "B"
       ]
     },
     {
-      "id": "task073-1ced40f4b3964bb9816c8c8294fae5be",
-      "input": "What does impeachment mean for the president?\n(A)vote (B)election (C)trouble (D)board room (E)corporation",
-      "output": [
-        "C"
-      ]
-    },
-    {
-      "id": "task073-df6e5dc5a0c34b16937869fac1d6aac7",
-      "input": "Noble citizen of the Roman empire believed those born with lower status were what to them?\n(A)loser (B)ignoble (C)peasant (D)inferior (E)plebeian",
+      "id": "task073-b1bd15a7b3e742c9b05d53825edb0c80",
+      "input": "What happens when airplane engines cut off and are unable to be restarted in flight?\n(A)stall (B)start melting (C)taxi (D)crash (E)speed up",
       "output": [
         "D"
       ]
     },
     {
-      "id": "task073-c74e2c9087cf43abb869d93df009958d",
-      "input": "Spraining an ankle while playing baseball will cause what?\n(A)strikes (B)eating (C)injury (D)sore muscles (E)pain",
+      "id": "task073-72e23a7a03dc45a9a30a438271dea121",
+      "input": "Reading newspaper one of many ways to practice your what?\n(A)literacy (B)knowing how to read (C)money (D)buying (E)money bank",
       "output": [
-        "E"
+        "A"
       ]
     },
     {
-      "id": "task073-3a36996b4378480796d9ff27e809dd7f",
-      "input": "John was traveling to a new city and took time to check out a business.  He noticed that its carpet was stained with sauces and ketchup. What type of business might that be?\n(A)bedroom (B)chair (C)bowling alley (D)at hotel (E)restaurant",
+      "id": "task073-2227f08c809a437ba31283a0d63598d1",
+      "input": "Where could a sloth live?\n(A)tropical jungle (B)manual (C)work (D)transit (E)countryside",
       "output": [
-        "E"
+        "A"
       ]
     },
     {
-      "id": "task073-46668aaae05e4d5fbd6da7dfcbfda883",
-      "input": "If you have a condo in a Wisconsin city known for beer, where are you?\n(A)city (B)electrical circuit (C)residential area (D)suburbia (E)milwaukee",
-      "output": [
-        "E"
-      ]
-    },
-    {
-      "id": "task073-4f8e4b946cd54b03aa540b5108ff0f31",
-      "input": "Where is hard to read note likely to be?\n(A)fridge (B)sheet music (C)desk (D)bed (E)medical chart",
-      "output": [
-        "E"
-      ]
-    },
-    {
-      "id": "task073-2ca640e05cb0479c84595c72d4f5316e",
-      "input": "How does someone go about buying beer?\n(A)have no money (B)pants (C)relaxation (D)lose money (E)spend money",
-      "output": [
-        "E"
-      ]
-    },
-    {
-      "id": "task073-a088387674ab4181aef088a87233a230",
-      "input": "If there is gum on your shoe where did it likely come from?\n(A)shelf (B)movies (C)sidewalk (D)water fountain (E)table",
-      "output": [
-        "C"
-      ]
-    },
-    {
-      "id": "task073-96a875eaa5f64fa6b04a346013afedb8",
-      "input": "If a person isn't able to pay their bills what must they do?\n(A)know everything (B)acknowledgment (C)make more money (D)throw a party (E)spare time",
-      "output": [
-        "C"
-      ]
-    },
-    {
-      "id": "task073-efc52ad7e7d84a9ab5f5558ee38c0735",
-      "input": "What is main benefit to exercising?\n(A)losing weight (B)healthy (C)get in shape (D)weight loss (E)sweat",
-      "output": [
-        "C"
-      ]
-    },
-    {
-      "id": "task073-f0c174ac324d46efa346edf769813e69",
-      "input": "Steve thought that it was possible, but he agreed that it was what?\n(A)no go (B)unable (C)unlikely (D)impossibility (E)cant do",
-      "output": [
-        "C"
-      ]
-    },
-    {
-      "id": "task073-d0f7dc1e4542423d9462c97fa875ffe7",
-      "input": "What region of a west coast U.S. city would you find a Japanese restaurant?\n(A)california (B)tokio (C)downtown (D)narnia (E)large town",
-      "output": [
-        "C"
-      ]
-    },
-    {
-      "id": "task073-88874f64e09d491d836acc7b611e6128",
-      "input": "What is a tactic used to interfere with learning about science?\n(A)repetition (B)sense of wonder (C)accidents (D)intimidation (E)increased knowledge",
+      "id": "task073-9cab7a892c814570b1bd48327918af2c",
+      "input": "What do you need energy to do in gym class?\n(A)work (B)tacos (C)mass (D)play sports (E)wrestle",
       "output": [
         "D"
       ]
     },
     {
-      "id": "task073-6e629a6794fd4bcab5b9cfc8b8e0320b",
-      "input": "What do people usually feel when falling in love?\n(A)getting married (B)pain (C)happiness (D)getting married (E)suffering",
+      "id": "task073-6fd85b750955428c821441c37e31a0e1",
+      "input": "What is the habitat of the fox?\n(A)hen house (B)burrow (C)california (D)england (E)mountains",
       "output": [
-        "C"
+        "E"
       ]
     },
     {
-      "id": "task073-c5ab7633c61e41e0903f3bec50d8a23a",
-      "input": "The tiger was stuck in what animal prison where he got lazy and fat?\n(A)jungle (B)zoo (C)kill (D)india (E)eat cake",
+      "id": "task073-41c92c1fff1f4a70aa3e7e389c75a6bf",
+      "input": "Where do you keep your pizza slice before you eat it?\n(A)table (B)plate (C)restaurant (D)oven (E)popular",
       "output": [
         "B"
       ]
     },
     {
-      "id": "task073-4affcdb9188b4b43bff2ae8e8094b360",
-      "input": "What do parents tell a child to do on the weekend?\n(A)study (B)begin school (C)go out to play (D)row boat (E)clean room",
+      "id": "task073-63fc39dcc32d4c86a2c59f3bdde675d6",
+      "input": "Christine couldn't be having a baby at her age, she thought to herself. What was Christine?\n(A)old person (B)begin to talk (C)adult (D)old man (E)girl",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-407389e08909421f860055262c486e64",
+      "input": "Where can a human find clothes that aren't pants?\n(A)pants shop (B)on planet earth (C)dress shop (D)school (E)train wreck",
       "output": [
         "C"
       ]
     },
     {
-      "id": "task073-aeff810721894d09869eb5876efda689",
-      "input": "Why are dogs often known as man's best friend?\n(A)aggressive (B)friendly (C)very loyal (D)found outside (E)very smart",
-      "output": [
-        "C"
-      ]
-    },
-    {
-      "id": "task073-931dae4064d64fadad43e1c2bfe4907c",
-      "input": "Where can you buy a two wheel transportation machine?\n(A)boat (B)michigan (C)train station (D)bicycle shop (E)trunk of car",
-      "output": [
-        "D"
-      ]
-    },
-    {
-      "id": "task073-b20e01bf1c954cf5bd8eaad0829472d3",
-      "input": "Where might an alien use a vacuum?\n(A)space (B)closet (C)kitchen (D)orbit (E)container",
-      "output": [
-        "A"
-      ]
-    },
-    {
-      "id": "task073-b37dacb3c68f40c9b927656f6aecc382",
-      "input": "Where do you buy condoms?\n(A)supermarket (B)sock drawer (C)cd store (D)medicine chest (E)bedroom",
-      "output": [
-        "A"
-      ]
-    },
-    {
-      "id": "task073-e7eeff136dcd40fe872ca3aeff5723e4",
-      "input": "What animal is known for being a follower?\n(A)goat (B)expensive (C)lion (D)wolf (E)meadow",
-      "output": [
-        "A"
-      ]
-    },
-    {
-      "id": "task073-42b78f8006c743dcae1bca1e8a96a4a7",
-      "input": "The soldier was told to get to the rendezvous point, for there he was suppose to what?\n(A)fight enemy (B)go to war (C)fight for freedom (D)wait for orders (E)follow instructions",
-      "output": [
-        "D"
-      ]
-    },
-    {
-      "id": "task073-92cbdaa9e3d34c1c85ef93dfc0cc61d2",
-      "input": "If you want to kill someone you can do what to them with a gun?\n(A)sip through (B)damnation (C)shoot (D)commit crime (E)eat breakfast",
-      "output": [
-        "C"
-      ]
-    },
-    {
-      "id": "task073-1757558c66964a66ad896a3b95909af6",
-      "input": "The hostess greeted the employees to the program, she then led them to their what?\n(A)group people (B)welcome guests (C)occupations (D)work room (E)seat customer",
-      "output": [
-        "D"
-      ]
-    },
-    {
-      "id": "task073-6143329afcba4434a8e0065ad8736cea",
-      "input": "Where is a likely place to store unused soap?\n(A)cabinet (B)supermarket (C)jail (D)butt (E)own home",
-      "output": [
-        "A"
-      ]
-    },
-    {
-      "id": "task073-a4f2a25896474eb18afe3d4495fd39f4",
-      "input": "Loss of someone you love can cause what kind of feeling in your heart?\n(A)painful (B)happy (C)blind (D)contagious (E)bring joy",
-      "output": [
-        "A"
-      ]
-    },
-    {
-      "id": "task073-624b627899f94ebc8a547ad3da558c21",
-      "input": "Where in your home would you keep a ballpoint pen when not in use?\n(A)backpack (B)bank (C)desk drawer (D)eat cake (E)office desk",
-      "output": [
-        "C"
-      ]
-    },
-    {
-      "id": "task073-94be426fc487449e99c285e4bc7c65da",
-      "input": "James was someone who was caught in his own delusions.  To him, the truth didn't do what what?\n(A)work to advantage (B)matter to (C)help (D)free mind (E)further knowledge",
-      "output": [
-        "B"
-      ]
-    },
-    {
-      "id": "task073-bf6ead9f51a14e7b8c8108630fe595f9",
-      "input": "He wanted to live somewhere were every yard was uniform in size and landscaping, where should he look for a house?\n(A)city (B)three feet (C)subdivision (D)parking garage (E)michigan",
-      "output": [
-        "C"
-      ]
-    },
-    {
-      "id": "task073-d55c0be8e2be418e9abef4e07c89e9d0",
-      "input": "The flasks was used to distill elements, where was is being used?\n(A)laboratory (B)chemistry lab (C)coat pocket (D)after hours speakeasy (E)bordello",
-      "output": [
-        "B"
-      ]
-    },
-    {
-      "id": "task073-439a86f7435a4cffbb5fc6cc01689b7b",
-      "input": "What was the man encouraged to do after he expressed his anger violently?\n(A)cool off (B)punch (C)illustrate point (D)fight (E)release energy",
-      "output": [
-        "A"
-      ]
-    },
-    {
-      "id": "task073-509c73e7ed7d4433b067688cb7e73767",
-      "input": "Where can a student learn to play a triangle?\n(A)math class (B)math book (C)in pythagorus' band (D)orchestra (E)music class",
+      "id": "task073-1920f216515742c9bf973aafa17dcf96",
+      "input": "The rats were hiding in the house, where were they?\n(A)sewers (B)laboratory (C)basement (D)clinic (E)cellar",
       "output": [
         "E"
       ]
     },
     {
-      "id": "task073-e5c5c7701ac842139de02398811c3bbc",
-      "input": "What do you need to do to use television if it is already turned on?\n(A)get wet (B)open eyes (C)kill (D)plug in (E)first turn on power",
-      "output": [
-        "B"
-      ]
-    },
-    {
-      "id": "task073-9ce49dc47553427d8e5c67aa5965f68a",
-      "input": "The guys had a regular poker game, rather than going to the movies this what their what?\n(A)competition (B)fun game (C)losing money (D)fun (E)social event",
-      "output": [
-        "E"
-      ]
-    },
-    {
-      "id": "task073-637e19427ce54e67aa77df6b1945c394",
-      "input": "When you stroke a dogs fur what have you done?\n(A)start fighting (B)play (C)lots of attention (D)petted (E)bone",
+      "id": "task073-f0fe4bd0b9b6464a835bc46677451236",
+      "input": "To get clean clothes you to what to them?\n(A)get dirty (B)writing (C)use water (D)launder (E)soap",
       "output": [
         "D"
       ]
     },
     {
-      "id": "task073-99332716da8c482980aa08e3928c8715",
-      "input": "Dan fell off a bar stool.  He did this because he was what than ever before?\n(A)kitchen (B)drunker (C)tavern (D)restaurant (E)shorter",
-      "output": [
-        "B"
-      ]
-    },
-    {
-      "id": "task073-0b9528ba147045bf8349277ca434a29e",
-      "input": "The wood was still rough to the touch, what did the woodworker have to do?\n(A)petrify (B)sanded (C)warp (D)composted (E)clean",
-      "output": [
-        "B"
-      ]
-    },
-    {
-      "id": "task073-771a5560095f471c8a6727f7e70606d8",
-      "input": "The chief saw his entire tribe wiped out, he was a leader with a single what?\n(A)peon (B)indian (C)minister (D)follower (E)employee",
-      "output": [
-        "D"
-      ]
-    },
-    {
-      "id": "task073-404817bbcbfc4a0694648d82e90362e0",
-      "input": "The flower grew tall to compete for sunlight, what did its neighbor do?\n(A)blossom (B)park (C)open (D)cast shadow (E)vase",
-      "output": [
-        "D"
-      ]
-    },
-    {
-      "id": "task073-5d2fa363a6994887b888d9507c85e7d0",
-      "input": "If while driving to work another car makes a careless maneuver, what emotion might you feel?\n(A)boredom (B)happiness (C)transportation cost (D)getting there (E)road rage",
-      "output": [
-        "E"
-      ]
-    },
-    {
-      "id": "task073-3da29d703bf945b19ce0e757284b0014",
-      "input": "What kind of food makes someone sick?\n(A)boat (B)necessary to live (C)edible (D)unhealthy (E)kitchen",
-      "output": [
-        "D"
-      ]
-    },
-    {
-      "id": "task073-652148ba367a48929b5e25ee8b805a78",
-      "input": "Where would you find the sharpest parts of a triangle?\n(A)three vertices (B)point (C)3 sides (D)three sides (E)math book",
-      "output": [
-        "A"
-      ]
-    },
-    {
-      "id": "task073-7856fe3c1a1a4df68100ae783c9e8d62",
-      "input": "How might a automobile get off a freeway?\n(A)exit ramp (B)garage (C)driveway (D)repair shop (E)stop light",
-      "output": [
-        "A"
-      ]
-    },
-    {
-      "id": "task073-1bfe9a225bba4161a48e73d571fa89b7",
-      "input": "What does going to bed with your spouse for sex lead to?\n(A)bad dreams (B)a good nights sleep (C)rest (D)sleepiness (E)get pregnant",
-      "output": [
-        "E"
-      ]
-    },
-    {
-      "id": "task073-c91eed8f1b144b84b45f60764ab8d926",
-      "input": "What would it be if they get a surprising show over and over?\n(A)surprise (B)fight (C)annoyance (D)might scare (E)irritated",
+      "id": "task073-471d4eb768a744b59f30790400f3e7a7",
+      "input": "Many towns and cities have trash cans where on sidewalks?\n(A)hospital (B)park (C)corner (D)motel (E)office",
       "output": [
         "C"
       ]
     },
     {
-      "id": "task073-a4e68a692d3d4ea688d603521319ff4a",
-      "input": "Sally thought that competing wasn't worth the risk. If she pushed more what might happen?\n(A)pressure (B)trying harder (C)put harder (D)enemies (E)death",
+      "id": "task073-ee938ad7dbfb4b63b10c227330d8e7ac",
+      "input": "What is a very unlikely side effect of becoming inebriated?\n(A)fights (B)drunkenness (C)staggering (D)puke (E)paralysis",
       "output": [
         "E"
       ]
     },
     {
-      "id": "task073-f0c586c10d4341e4b7de6145c339e459",
-      "input": "John is sitting in a toilet stall in a bathroom, outside he can hear cars going around in circles.  What is the function of the place he is most likely at?\n(A)eating food (B)public place (C)race track (D)at hotel (E)public building",
+      "id": "task073-5762f1b01097488da25b8e296eca8c64",
+      "input": "Killing people should not cause what emotion?\n(A)vengeance (B)going to prison (C)joy (D)afraid (E)terrible",
       "output": [
         "C"
+      ]
+    },
+    {
+      "id": "task073-d686e956c11d4c828a753ade39bcd4b0",
+      "input": "WHat type of keyboard is made up of one or more pipe divisions?\n(A)killing (B)typewriter (C)office (D)terminal (E)organ",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-363a599c1f9c4d8c9663fabc782a211e",
+      "input": "Where are people likely to become impatient?\n(A)end of line (B)buildings (C)apartment (D)neighbor's house (E)address",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-88d1b1ea94794d6eae72cddaa3ace524",
+      "input": "James looked up and saw the start twinkling in the black yonder.  He marveled the sheer number of them and the size of what?\n(A)universe (B)orbit (C)night sky (D)outer space (E)his wallet",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-8e0c2504b88543939b504d3ff030f15c",
+      "input": "If you're remembering something, it's because of your what of it to begin with?\n(A)knowledge (B)knowing (C)forgetful (D)pleasure (E)depression",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-648ba305c91e4d2aa3b807abc15934d8",
+      "input": "One of the potential hazards of attending school is what?\n(A)cooties (B)get smart (C)boredom (D)colds and flu (E)taking tests",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-e9d3ea59489e4990a5da53db03553cea",
+      "input": "What might you need to do cleaning?\n(A)sing a song (B)neatness (C)allergies (D)healthy living (E)using water",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-cd52a638bcc6453199b4c546e8a4a60e",
+      "input": "Where might it be hard to get furniture to?\n(A)apartment (B)loft (C)store (D)rug (E)stairs",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-0a8c2c53f56b41218f1240a7bbb22718",
+      "input": "His phone was dead and they couldn't find the expressway, he opened up the glove compartment and handed his passenger the what to navigate?\n(A)eastern united states (B)michigan (C)map (D)choppers (E)american city",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-d373d8b73d85452e8e1a4be9b4b4e7c5",
+      "input": "A creek could be located in the opposite for the city which is called what?\n(A)meadow (B)stick (C)valley (D)forest (E)countryside",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-096a841aa0ce4f9b8c869308df03ae7b",
+      "input": "What green area is a marmot likely to be found in?\n(A)countryside (B)great plains (C)encyclopedia (D)jungle (E)north america",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-47a822ffed244e63a23184a4bc56f1b9",
+      "input": "Her voice lent her to the alto section, what group did she join?\n(A)symphony (B)concerto (C)choir (D)theater troupe (E)marching band",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-cebc5a0206b442c2867f7387fd5342a9",
+      "input": "Human beings learn about current events from what print item?\n(A)question authority (B)melt (C)read newspapers (D)act (E)dictionary",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-5ee0be8c0c6f40c384f9fd064d9e3b95",
+      "input": "Joe owned back taxes as well as what other type of taxes?\n(A)anterior (B)front (C)main (D)front (E)current",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-7623a8b3560f45a9a0eb96a2e712e227",
+      "input": "A car was hailed to chauffeur someone to the opera house, where was it heading?\n(A)go downtown (B)appear suddenly (C)go fast (D)bottom out (E)east",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-43c995a471a94539ac7b46489a172bc3",
+      "input": "After working on the car, what did it end up doing?\n(A)going too fast (B)last several years (C)honk the horn (D)go fast (E)start running",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-6727abb927f641eda1a03696de2c5daa",
+      "input": "James found the sound relaxing.   It was so relaxing he almost did what despite his efforts?\n(A)deep breathing (B)worried (C)fall asleep (D)invigorating (E)feeling good",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-27b3b99cd8474be488ce785ce077107f",
+      "input": "If a lizard is fed by people every day, what has happened to it?\n(A)documentary (B)costa rica (C)garden (D)encouragement (E)captivity",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-ace81ac0ccb548948123e060888c0528",
+      "input": "Some food can be stored at room temperature until you open it, then you should keep it in what?\n(A)shop (B)bookcase (C)shelf (D)refrigerators (E)kitchen",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-df3397d4943145a3910d7ecc8b26e1c4",
+      "input": "Where do you keep musical instrument so it doesn't get scratched?\n(A)bank (B)orchestra (C)case (D)music room (E)movie",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-4cdae77892594ea6bd31e5afbeb1cc8e",
+      "input": "Everybody began performing once their director stated what?\n(A)fear (B)injury (C)happiness (D)action (E)cut",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-b6cc249f51fe45548cbf745b33a85d93",
+      "input": "While John Candy and Dan Aykroyd didn't run into a gazelle, you'd have to go where to see one?\n(A)eastern hemisphere (B)the city (C)open plain (D)television program (E)great outdoors",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-5fbda792f48647c6a4b2e70cce854f1e",
+      "input": "What is it called when a person with mental illness is able to lead a relatively normal life?\n(A)managed (B)effectively treated (C)recur (D)cause delusion (E)illusion",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-658e0a4627194800aff0269d722c9198",
+      "input": "When a person admits his mistakes, what are they doing?\n(A)accident (B)learn to swim (C)thank god (D)feel relieved (E)act responsibly",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-063180f245454e15b6cae73ef938b8a5",
+      "input": "James knew that he shouldn't have been buying beer for minors.  He didn't even get paid for it.  Why was this bad?\n(A)lose money (B)fun (C)have no money (D)broken law (E)relaxation",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-a9640757fa3c4b788bdc5611395d2d7e",
+      "input": "What could prevent a driving car from continuing to drive?\n(A)automobile accidents (B)backache (C)pollution (D)smoke (E)low fuel tank",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-e1db1940b7854d17b82222c1d5cc7962",
+      "input": "Where is a grape likely to be being fed to someone else?\n(A)field (B)bathroom (C)michigan (D)minnesota (E)painting",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-0735e211087a4210ad506b03ece13c35",
+      "input": "Sally was standing in queue.  The line was very, very slow.  What was she feeling?\n(A)frustration (B)delays (C)being annoyed (D)moving forward (E)progress",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-906ebab96e8b4acebd6f5ecaec3d2a68",
+      "input": "The man was going fishing instead of work, what is he seeking?\n(A)food (B)relaxation (C)killing (D)missing morning cartoons (E)boredom",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-145a220866934e209d7b4c0346b8af3f",
+      "input": "As a result of dying, what happens to organic material?\n(A)change of color (B)stop breathing (C)wake up (D)death and decay (E)getting cold",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-155940e15ac14e83bd085891b88274cc",
+      "input": "What does a gambler do that causes him or her to be unhappy?\n(A)play cards (B)double winnings (C)lose money (D)play poker (E)to win the prize",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-704cac77f07f4dbaabc3c67a5d8c56a2",
+      "input": "Where can you store your dishes in your dwelling?\n(A)drawer (B)shelf (C)pantry (D)apartment (E)cabinet",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-bd7d8b89f8964b2a85b5ffc021398128",
+      "input": "If you are prone to postpone work what will you have to do in order to finish on time?\n(A)eat (B)hasten (C)antedate (D)bring forward (E)advance",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-542632d2f9d849c8b2accdb9b9886360",
+      "input": "What regions of a town would you have found a dime store?\n(A)commercial building (B)old movie (C)small neighborhood (D)past (E)mall",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-db69c4296489432d8f9b410a4da113c6",
+      "input": "Where could you go to between 1000 and 10000 restaurant?\n(A)big city (B)town (C)small town (D)canada (E)yellow pages",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-5cccf0495e02491c86499a49e3e28b43",
+      "input": "If you wanted to show off silk, what item could it be on?\n(A)jean (B)mulberry tree (C)garments (D)expensive clothing (E)parachutes",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-779b1f67e7644d47b831c55f6470a2fa",
+      "input": "Where would you find a fox that is made up?\n(A)storybook (B)woods (C)hen house (D)natural habitat (E)back yard",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-7c6af3185acf4e12b5eca9275252b041",
+      "input": "Joan wants to cook a potato, where should she place it?\n(A)boiling water (B)paper bag (C)restaurants (D)underground (E)cupboard",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-f42779a716db4e50b04ecafa9ab2b7c2",
+      "input": "The pitcher stepped on the mound ready to throw, where was he located specifically?\n(A)hell (B)baseball stadium (C)golf course (D)africa (E)baseball diamond",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-c4fcc177cbf44dcfa29c194fea16cd2f",
+      "input": "Why might a person be known as a liar?\n(A)have no home (B)false information (C)hungry (D)made fun of (E)brain tumor",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-c71a05c274cd42b39c79cb7e36fcfc3f",
+      "input": "There was a toll road that meandered from Maine to New Hampshire, where was it?\n(A)massachusetts (B)new england (C)my house (D)new jersey (E)connecticut",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-76005363606f428a86f7de00b9eee1b6",
+      "input": "When a person is beginning work, what are they building?\n(A)time (B)accomplishing (C)working (D)momentum (E)tiredness",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-b71c2eb5b7a744e3a61a218531e1bba8",
+      "input": "When learning about the world and different cultures, what is important if you are committed to eliminating preconceived notions\n(A)newness (B)loss of innocence (C)enlightenment (D)open mind (E)smartness",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-df5373d954a646b4994caff30a79b5f1",
+      "input": "If you're buying beer for a float trip what are you preparing to do?\n(A)get arrested (B)have fun (C)get sick (D)spend money (E)stupidity",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-d68e1b6348424a44b43ba1ab82a04548",
+      "input": "The criminal insisted he must do the crime to the bank teller, but she tried to convince him there were other ways in life and this was what?\n(A)willing (B)optional (C)should not (D)have to (E)unnecessary",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-a1914a9123c24f12bb78b044b5b92da1",
+      "input": "Where could you find hundreds of beauty salon?\n(A)clerk (B)mall (C)strip mall (D)city (E)neighborhood",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-32e231988f7641848afceb25a226b984",
+      "input": "If I wanted to eat something that is made from plants and needs to be washed, what would it be?\n(A)roots (B)millions of cells (C)see work (D)leaves to gather light (E)flowers on",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-bed936ce285941259edeee0ad714a277",
+      "input": "August needed  money because he was afraid that he'd be kicked out of his house.  What did he need money to do?\n(A)control people (B)pay bills (C)hurt people (D)buy food (E)get things",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-6f48137c0063490a8018eee4556a1ef0",
+      "input": "If someone found out their brother was having a daughter, they would have to add a niece limb to the what?\n(A)family picture book (B)family reunion (C)brother's house (D)family tree (E)baby shower",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-0e72538d7610436197025293943fb6b6",
+      "input": "Where does lettuce arrive by large trucks?\n(A)kitchen (B)supermarket (C)farmer's market (D)salad (E)refrigerator",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-fa672e1650b34fdd8f36beec489c4786",
+      "input": "Everybody was changing into costumes in the dressing room, it was almost time to take the what stage?\n(A)theater (B)train (C)bathhouse (D)dwelling (E)actors and actresses",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-839b400b1e974ba8b8430ef862db0b07",
+      "input": "The runner was in third place, but he pushed harder and thought he might be able to reach second.  What was beginning to do?\n(A)near finish line (B)finish (C)get tired (D)gain ground (E)trip over",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-f6a49b41c21b4692890effc82d4ca297",
+      "input": "Where does one store fabric in their own home?\n(A)sewing room (B)clothing store (C)tailor shop (D)clothes store (E)cotton mill",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-8defa9aa1ba24ab29a4a58f96c8cd610",
+      "input": "What could suddenly stop someone when he or she is running?\n(A)mushroom (B)falling down (C)sweating (D)exhaustion (E)getting tired",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-1e4611f160e94530843be3805bf08d6a",
+      "input": "If someone is found to be committing murder, what did they do to someone?\n(A)misery (B)kill (C)distress (D)tickel (E)go to jail",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-060b559f6e4b4d1ab4b7228e5d4957cb",
+      "input": "Where is known to be a wealth of information?\n(A)park (B)internet (C)meeting (D)library (E)book",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-0f53ebed2c364f268aba5ba07e468cf0",
+      "input": "For some reason she was devoid of regular emotions, buying products was the only way she could feel what?\n(A)pleasure (B)owning (C)debt (D)spending money (E)smart",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-e688efec37964ed0a47ced05fced23d1",
+      "input": "Friday was James's 5th Anniversary.  They planned on going to bed early so that they could spend a long time doing what?\n(A)rest (B)insomnia (C)making love (D)sleeping in (E)texting",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-d1143ae74d834d2e9f9696a61c57bc2d",
+      "input": "What western state has thousands of miles of shore?\n(A)picture of sea side (B)seaside town (C)beach (D)california (E)see side picture",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-6711501e98cf4f4891316d4947f1d737",
+      "input": "What is the least likely immediate side effect of eating hamburger?\n(A)nausea (B)death (C)illness (D)health problems (E)gain weight",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-6afcc799f8c441acb004f115c31ff1cf",
+      "input": "Bill puts meat on the scale, where does Bill work?\n(A)music store (B)assay office (C)tidal wave (D)butcher shop (E)bathroom",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-277ddb5d9dcd4671ac057a3683e6aab5",
+      "input": "If you were lost you might need a map, the best place to find one on the road is at any what?\n(A)truck stop (B)amusement park (C)atlas (D)mall (E)gas station",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-abaf0d3d8bda49d18f794ed54e479d66",
+      "input": "What did the policemen do when they heard a cry from a distance?\n(A)run away (B)hurry along (C)fine motorists (D)direct traffic (E)help",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-55898f4dd473465dbccfd5ecc7ca30f3",
+      "input": "The weasel was becoming a problem, it kept getting into the chicken eggs kept in the what?\n(A)forrest (B)barn (C)public office (D)out of doors (E)freezer",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-a09bc42c0a1747f2a0a9a2ad41075512",
+      "input": "Where can I go to be a religious gentleman?\n(A)club (B)restaurant (C)university (D)pub (E)church",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-9d0dca3b1f194b019e808994467dfd24",
+      "input": "We are all human, and we all what?\n(A)write (B)eat cake (C)smile (D)think critically (E)die",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-89e38f5f9f9e4a5487da7b3cd18aad31",
+      "input": "How does a person begin reproducing?\n(A)genetic mutation (B)have sex (C)kiss (D)flirting (E)going on a date",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-957fa1f93bc145ecafd30b53096be904",
+      "input": "What do you need to wear when hiking?\n(A)cast iron stomach (B)physical exertion (C)shin splints (D)adventure (E)fatigue",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-093b4fb1a4cc4b608fe908ad0db6bd4f",
+      "input": "Why do most people take a quick rest during the day?\n(A)need to (B)hungry (C)feel more energetic (D)weak (E)regenerate",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-f354c2a55a834970a4f8b3673f05cc4d",
+      "input": "WHere do people live?\n(A)apartment (B)eat cake (C)bus depot (D)football stadium (E)surface of earth",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-40c47ee7955a45a797d3802ac26c6b07",
+      "input": "What are candles good for eliminating?\n(A)shelf (B)board (C)church (D)table (E)dark",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-95956ddb81f841de9bd7ffabb03796d4",
+      "input": "Where can you buy jeans at one of may indoor merchants?\n(A)gap (B)shopping mall (C)bedroom (D)laundromat (E)bathroom",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-9042bb3e482d4df591d3c0eda01779e0",
+      "input": "If a reception is held with hotel guests walking by, what is the likely venue?\n(A)room service (B)church basement (C)lobby (D)large room (E)country club",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-0104c66cd6934a58a25de702ee949415",
+      "input": "Danny is having fun just dancing and singing with his friends. He wasn't concerned with things that weren't fun. For him having fun is the same as what?\n(A)injuries (B)smiling (C)being happy (D)glee (E)jump",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-d09814d18d5c4695860c9e3859e4eac8",
+      "input": "Where would you go if you wanted to have fun with a few people?\n(A)watching television (B)good (C)cinema (D)friend's house (E)fairgrounds",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-47e6171988764102b33bd991945c7372",
+      "input": "What area does a police officer patrol?\n(A)direct traffic (B)city (C)beat (D)street (E)park",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-d4e4a71b1cca44cc94a26439674fb05d",
+      "input": "What is the primary purpose of cars?\n(A)cost money (B)slow down (C)move people (D)turn right (E)get girls",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-dcfbd25465dc41aa9c97b5476703a92a",
+      "input": "Where is the ideal location for a post office?\n(A)building (B)business district (C)above ground (D)most towns (E)center of town",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-6a02ab3a4b3a4ea1b89ea63cd469a129",
+      "input": "Where are you when you're about to use your plane ticket?\n(A)pocket (B)terrorists hands (C)airport (D)sea ship (E)briefcase",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-99b00c7171594ab58d62ac0e5149955d",
+      "input": "If a person were going to bed, what would be their goal?\n(A)lazy (B)insomnia (C)rest (D)falling asleep (E)dreaming of",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-1aa970219c2942bcb007cfec977f0d34",
+      "input": "Most people make stupid assumptions that are based on their prejudices.  What might they do instead to achieve better outcomes?\n(A)set table (B)think (C)read books (D)play games (E)lie",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-a1bf62a19a5442e7b80e0f3eff554561",
+      "input": "There were times where kids wanted to know a definition, so there was a nice big dictionary in the what?\n(A)pocket (B)classroom (C)table (D)library (E)shelf",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-d0642b25b5fd481ba9e907bae262f4d8",
+      "input": "Where are you if your bieifcase is going through an x-ray machine?\n(A)luggage store (B)courtroom (C)airport (D)office building (E)hand",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-04fec48c0679494ca24a850e386c9df3",
+      "input": "A patriotic guy with a camera is looking for a bald eagle, what is he likely to do with the eagle if he finds one?\n(A)city (B)canada (C)minnesota (D)thermal (E)photograph",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-2467441fb1dd48d980e41f764dd7f8b4",
+      "input": "James bought a new set of tire chains and put them somewhere he could find them.  Where would he put them?\n(A)gear shift (B)garage (C)kitchen (D)jewelry store (E)hardware store",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-5b1ec3420e434fe7b49aec681396e745",
+      "input": "What is a place that is far away from your house and where you could consume beer?\n(A)refrigerator (B)friend's house (C)keg (D)neighbor's house (E)kitchen",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-03f3ce03ff2a4202ac91e55da38085be",
+      "input": "The pitcher felt stress and tension on the mound, what did he feel like?\n(A)desert (B)baseball field (C)hell (D)baseball diamond (E)baseball stadium",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-33b47b64d6744591aba502be2d455bbf",
+      "input": "Where would you run in to a niece you only see every one and a while?\n(A)family reunion (B)brother's house (C)family picture book (D)family tree (E)party",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-5de81a6b46a44e36af800c9036e22eff",
+      "input": "What do you do when you need to get food?\n(A)table (B)disneyland (C)refrigerators (D)pantry (E)shop",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-a2bbcdc0df6f42a481a5bb7fe6e78a81",
+      "input": "The man laid on the soft moss and looked up at the trees, where was the man?\n(A)niagra falls (B)forest (C)waterfall (D)ground (E)tree",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-16768ccd7df74ab288683f3adfaf4b3f",
+      "input": "What can disease destroy?\n(A)rug (B)third world country (C)human body (D)hospital (E)building",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-165eb22b843a4337a0fe11b70f42b0c8",
+      "input": "Where is a human likely to go as a result of being hungry?\n(A)eat in restaurant (B)make bread (C)have lunch (D)cook dinner (E)friends house",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-918da5ea231640febb5ae83aeadf2ef9",
+      "input": "The victim was to take stand today, they were going to do what?\n(A)testify (B)runaway (C)witness (D)tell truth (E)go home",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-a35813eb207842f2894f581f83d98d67",
+      "input": "What room is a rubber bath mat usually kept?\n(A)doorway (B)living room (C)sand (D)floors (E)bathroom",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-8d43e9b922934df4a8f7450c72c0cee1",
+      "input": "Running errands with screaming kids will likely cause what?\n(A)efficiency (B)insanity (C)aggravation (D)tiredness (E)stress",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-11fe68b701d14377a84364b0ff166535",
+      "input": "John didn't care about style.  He felt that form was less important than what?\n(A)shapeless (B)quality (C)function (D)change shape (E)chaos",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-c3bc48c06ac24cd4a2584a38796019f0",
+      "input": "Dad wanted to hide the check in his office, where did he put it?\n(A)cash register (B)desk drawer (C)fish tank (D)bank (E)pay envelope",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-4390df8861bb4d41bf94f9c3562dfe45",
+      "input": "They were kissing each other good bye, they had no worries because their relationship had a strong foundation of what?\n(A)partner (B)trust (C)cooperation (D)bricks (E)herpes",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-fb14170008e54130a3611ae782fba791",
+      "input": "Where could you find a bureau as well as many politicians?\n(A)each city (B)office building (C)a zoo (D)french government (E)washington dc",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-d61eb5ee08ff4e7e8c045e28c047506a",
+      "input": "Brawn opened the curtains so that the sun could do what?\n(A)dry clothes (B)warm house (C)warm room (D)shine brightly (E)get dark",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-dab6403baa74453789d448ef5d9faee6",
+      "input": "The neighborhood had a great sense of community, there was always a crowd at the landing of the what?\n(A)stairwell (B)arena (C)ocean (D)airport (E)apartment building",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-9d68d1124ea34dcb8c4f02b2dc742086",
+      "input": "What would I be doing while going to work and walking?\n(A)listen to radio (B)solve problems (C)driving (D)walk (E)being late",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-e3c486adddce42818b58c41530b1f39d",
+      "input": "What would be happening if you are pretending to be a police officer?\n(A)fighting (B)misunderstanding (C)deception (D)play (E)distrust",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-27cc2b7068784e03ade0ba1d3bda5c4b",
+      "input": "A potato is kept in the cellar, where is likely to be stored?\n(A)farmer's market (B)grocery bag (C)pantry (D)bushel basket (E)fridge",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-3266fcbc53a94b99974e543ded7d8c64",
+      "input": "A bald eagle is likely to be found on what kind of work?\n(A)rural area (B)book (C)canada (D)painting (E)aviary",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-47fb4fffeb6141608f05ed11a15272e3",
+      "input": "What might someone believe in if they are cleaning clothes?\n(A)feminism (B)sanitation (C)ruined (D)wrinkles (E)buttons to fall off",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-41e2c43d0e324e5db1d4173bdcc1f540",
+      "input": "If a storey contained a panoramic view, what kind of structure would it be in?\n(A)horizontal room (B)storey book (C)mall (D)tall building (E)book of stories",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-c69e1b97747f484fb0d4701316a34c31",
+      "input": "If I want to behave with proper aplomb, what manners should I avoid?\n(A)inappropriate (B)incomplete (C)impolite (D)none (E)incorrect",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-ae5a18aa5e724612a84990cb5972e67d",
+      "input": "The cat carefully navigated the area, they do everything they can to avoid what?\n(A)get wet (B)eat vegetables (C)falling (D)wool sweater (E)sharp claws",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-4fb0cb825bd646efbede90cab541d5cb",
+      "input": "Bob's only light source was a small bulb.  There were four walls, if there was a door he couldn't see it.  What was Bob in?\n(A)closed room (B)sky (C)dard (D)his grave (E)house",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-f8c43810d1024d528d836b7597fa8436",
+      "input": "The chef wanted to perfect his craft, what did he do?\n(A)thin potatos (B)prepare food (C)study french cooking (D)drink (E)cook dinner",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-3e6f6e88c66a4ae4a7a87bbae79ebf52",
+      "input": "He was beginning to regret taking the fight when he saw how what his opponent was?\n(A)fun (B)joy (C)satisfaction (D)confident (E)pride",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-e2e71cde10e24f248b7c4024754e7017",
+      "input": "Where can you buy a magazine, paper or gum?\n(A)bank (B)rack (C)bed (D)newsstand (E)bus depot",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-47ae3ece5bf04767b8aac9e049f3a83a",
+      "input": "If someone mean wanted to insult somebody by calling them a fruit, where is probably not the smartest place to do it?\n(A)gay bar (B)market (C)grocery store (D)refrigerator (E)container",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-500e856a65a241cb8d10796ee37bd534",
+      "input": "Minerals can be obtained in what way for a person who avoids leafy greens?\n(A)multivitamin (B)farm (C)michigan (D)earth (E)ore",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-d444bc67797b41dda4e350b6aacc363f",
+      "input": "Why is it hard for a young child to read a long book?\n(A)knowledge (B)cover (C)no pictures (D)past (E)many words",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-b0aa331446ff45deb7f495c744448740",
+      "input": "They were making sauerkraut, the instructor explained the liquid should be above the cabbage in the what?\n(A)jar (B)drinking glass (C)pot (D)container (E)can",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-06df0d60b3c54e918c23e05b9b99eb67",
+      "input": "Where is one likely to find a fan for their stove?\n(A)appliance store (B)sports stadium (C)dress emporium (D)hot room (E)football stadium",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-60d98ade33ab4745abdd2f250673d711",
+      "input": "Her son scraped his knee, she fetched a bottle of peroxide from the what?\n(A)supermarket (B)diaper bag (C)liquor store (D)hollow log (E)medicine cabinet",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-87eeec3fb73f4fedb0c21bfbb8c815e1",
+      "input": "What is likely to be found in a book that is not a foreword?\n(A)last word (B)conclusion (C)ikea instructions (D)afterword (E)epilogue",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-41aaf808a9b3493bb9d91a02569cf349",
+      "input": "There was more than one bum asking for change or a ticket, it was the cheapest way to travel so it was no surprise sight at the what?\n(A)train station (B)beach (C)bus depot (D)bridge (E)stumblebum",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-15bbdb34025e46d982a2681a232aef07",
+      "input": "What will god never do according to religion?\n(A)anything (B)judge people (C)work miracles (D)judge men (E)everywhere",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-77634600dd314c1db0e2cf9ca9e18e7d",
+      "input": "In what country are the most fast food restaurants?\n(A)new york (B)blocks of flats (C)center of town (D)america (E)big cities",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-1d5d546c15a44be6b62423f1078de4b7",
+      "input": "Where do adults use glue sticks?\n(A)classroom (B)desk drawer (C)at school (D)office (E)kitchen drawer",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-e62994662c8b4e9e980a4feb6b57bb88",
+      "input": "What must happen for an animal to and it's offspring to continue livng?\n(A)death (B)flying (C)reproducing (D)food consumed (E)eventually die",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-88c70087e9054579a1da889319d85405",
+      "input": "Where has the newest baseball stadium?\n(A)phoenix (B)chicago (C)antarctica (D)san francisco (E)urban areas",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-c261dd5ae7a54cdfb704ad2399a11738",
+      "input": "Why would a small dog pant if it's hot outside?\n(A)outside (B)europe (C)heat (D)wet (E)dog show",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-0fd17a93a0bb421e911b2ad2a513389f",
+      "input": "What is the hopeful result of going to see a play?\n(A)sit (B)being entertained (C)jobless (D)meet (E)laugh",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-9acbe54dfc1b46bbbae10ef2a88d8904",
+      "input": "What might a very large table be?\n(A)dining room (B)conference (C)kitchen (D)in a lake (E)demonstration",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-ff8568d7796247e7bfb10be3e996729d",
+      "input": "He was getting advice for the job interview, they told him when talking to the interviewer always make what?\n(A)get tired of (B)small talk (C)eye contact (D)friendship (E)social life",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-6a769b21f970493aa7f46d2054a39f35",
+      "input": "Where is the large area location of the empire state building?\n(A)manhattan (B)office (C)the city (D)fifth avenue (E)new york city",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-ef27c6c833024f20a85c2ca1b77335ce",
+      "input": "The tourist entered Mammoth cave, what state were they in?\n(A)west virginia (B)kentucky (C)rocky hills (D)scotland (E)canyon",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-2a6796b29a3c47b2af6e626bd8ff4113",
+      "input": "What kind of tale might feature a talking weasel?\n(A)mulberry bush (B)animated film (C)chicken coop (D)history book (E)children's story",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-4ee0a2b9453d454da10cb15a4ba59d4b",
+      "input": "Why would a band be performing when there are no people nearby?\n(A)record album (B)play music (C)hold concert (D)blaring (E)practice",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-a441eb52faf24a50b995635dea303859",
+      "input": "What kind of feelings does buying presents for others create?\n(A)tears (B)please (C)like (D)thank (E)make happy",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-a91ba2e5b5ff4492bf100318db72613e",
+      "input": "Where would you put some ham if you want to cook it?\n(A)hamshackle (B)pizza (C)fridge (D)refrigerator (E)part of meal",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-8ec0e7c8256f4547b525a5d6b428b7a4",
+      "input": "What is the main purpose of farmers?\n(A)raise cattle (B)grow corn (C)farm land (D)drive tractors (E)supply food",
+      "output": [
+        "E"
+      ]
+    },
+    {
+      "id": "task073-1ab15885d7114badaeb89181d79c17cf",
+      "input": "What is a possible outcome for committing murder?\n(A)problems (B)incarceration (C)trial (D)imprisonment (E)prosecution",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-6cbaa75925124a42824e72f630a5565b",
+      "input": "Where does a child likely sit at a desk?\n(A)furniture store (B)schoolroom (C)patio (D)office building (E)library",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-b7426ff130b64d8b9907ec7efa83ee83",
+      "input": "What are you playing if you're fiddling on a violin?\n(A)bluegrass music (B)make music (C)drop (D)string instrument (E)troubles",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-ddde243f63074d1c9fd3e23913c6a648",
+      "input": "Where would you buy food?\n(A)freezer (B)store (C)home (D)hatred (E)kitchen",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-9025e03507a54f2cbda2376b822ea524",
+      "input": "Sean was leaving work and took the roadway that led to his what?\n(A)neighborhood (B)city (C)fate (D)countryside (E)maps",
+      "output": [
+        "A"
+      ]
+    },
+    {
+      "id": "task073-8e55afba98224b19bb29e64196eecccd",
+      "input": "Where would someone purchase an upright piano?\n(A)music class (B)college (C)music store (D)music room (E)music band",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-84ad06666fbb4a0b84dbabf4c2ae1688",
+      "input": "What will a person going for a jog likely be wearing?\n(A)grope (B)acknowledgment (C)comfortable clothes (D)ipod (E)passionate kisses",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-e4b7afb9f8824238aa23aad52507a090",
+      "input": "It's Friday night and Alice puts off going to bed because she plans on doing what Saturday?\n(A)hatred (B)sleeping in (C)rest (D)making love (E)insomnia",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-cdfa1ccdd0de45d7910d4c311e28fc1d",
+      "input": "What do young boys do on the ice in the winter?\n(A)ski (B)play hockey (C)summer (D)knit (E)warm",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-cc11ca66fb964198ad4a0a347e6c217c",
+      "input": "Is that person acting as silly as a clown?\n(A)make mistakes (B)ridiculous (C)have no home (D)mentally unhinged (E)schizophrenia",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-ac164b7aa1614199aa255be927d37eb1",
+      "input": "If I want to watch a movie without leaving my home what might I use?\n(A)drive in movie (B)drive in movie (C)television (D)video store (E)show",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-cbccd44ffc55431087a0bdcf91265496",
+      "input": "What do the feathers look like on birds found in the rainforest?\n(A)pretty smart (B)singing (C)dark (D)very colorful (E)light",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-ed862db2f8314c1abba2ec3c15a0da0a",
+      "input": "Where would you put a glass after drinking from it?\n(A)ocean (B)water cooler (C)cabinet (D)dishwasher (E)dining room",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-8b0b56cb6be14b6c907453c59c15db5a",
+      "input": "The smelly man was having a bath, but what is he pursuing?\n(A)hydration (B)being clear (C)personal cleanliness (D)will drown (E)use of water",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-611b08438004499484c90b90c27bdfaf",
+      "input": "The juror was quite bored and zoning out but wanted to convey he was hearing testimony, so he just sat there doing what?\n(A)take notes (B)nodding (C)change of heart (D)writing down (E)listening",
+      "output": [
+        "B"
+      ]
+    },
+    {
+      "id": "task073-6f69cb66470448328c7c01f491d59c41",
+      "input": "Billy hated using other people's toilets. He was only comfortable on his own.  So whenever he needed to poop, he would go back to his what?\n(A)bathroom (B)motel room (C)nearest public restroom (D)house (E)apartment",
+      "output": [
+        "D"
+      ]
+    },
+    {
+      "id": "task073-6cd4a67ce5ed4d2eb59c9e3101317846",
+      "input": "Metal is taken from what which is pulled from the ground?\n(A)dirt (B)instruments (C)ore (D)car (E)junkyard",
+      "output": [
+        "C"
+      ]
+    },
+    {
+      "id": "task073-1dc3faae3de743849f069567aee9ec9a",
+      "input": "What is a person trying to accomplish when taking analgesics?\n(A)acceptance (B)avoid pain (C)acknowledgment (D)passing grade (E)intellectual challenge",
+      "output": [
+        "B"
       ]
     }
   ],

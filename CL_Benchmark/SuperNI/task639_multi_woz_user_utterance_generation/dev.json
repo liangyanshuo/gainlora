@@ -55,129 +55,206 @@
   ],
   "Instances": [
     {
-      "id": "task639-370498ebd6c1488a9f1a4f476230a01b",
-      "input": "Oh yeah, I just remembered, I'm going to need a taxi to commute between these two locations.",
+      "id": "task639-a5c429241c02439d822f62c7ad07a62f",
+      "input": "Are there any with 2 stars that offer free parking?",
       "output": [
-        "I want to confirm you are departing byard art to arrive at Gandhi restaurant by 20:00. Is this correct?"
+        "I want to leave by 01:30."
       ]
     },
     {
-      "id": "task639-89f72f3f263443afb471f806f5fa1140",
-      "input": "I need it for 4 people, we're staying 2 nights starting Thursday.",
+      "id": "task639-43e4cfa3400d4a10884ef345c4327f32",
+      "input": "I'd like to get there by 14:30.",
       "output": [
-        "I can suggest the Castle Galleries in the city centre. There is no entrance fee."
+        "You have five options for a train that will get you to Cambridge by 14:30. Do you have a preference on what time to leave?"
       ]
     },
     {
-      "id": "task639-927586a355954aa0858bd30e135bedf6",
-      "input": "Is there an expensive restaurant any where in the south part of town?",
+      "id": "task639-03ba1a10fe6b494ebbbba18e537dbe74",
+      "input": "Let us know if you need any more help.",
       "output": [
-        "You're welcome. Thank you and goodbye."
+        "The nearest police station is in Parkside with the post code CB11JG. Would you like the phone number?"
       ]
     },
     {
-      "id": "task639-20cc3596ac60476595158f071135a9bd",
-      "input": "I am also looking for a train into cambridge the same day please",
+      "id": "task639-85f525f1e3d643daaa9a01ded54abce7",
+      "input": "Price range is not important, just the four stars.",
       "output": [
-        "Sorry. There are no moderately-priced 0 star places in the south of town. Do you want to try some other criteria?"
+        "No, just the area and postcode please."
       ]
     },
     {
-      "id": "task639-6c08ae705e5e4e3dba649d568e519f2d",
-      "input": "I'm sorry I also need the post code.",
+      "id": "task639-102f1f443c0c4bf68d76f36b27e6c040",
+      "input": "The address is Trinity Lane postcode cb21tt. No entry fee! Anything else I can help you with?",
       "output": [
-        "I have not found anything with a star of zero."
+        "Can you book me a table for Wednesday at 17:30 for a party of 5?"
       ]
     },
     {
-      "id": "task639-58fb4b8b68d04b0f96814cce3c24e897",
-      "input": "I am looking for a particular hotel. Its name is called autumn house",
+      "id": "task639-2c0100a139f3468f86b25e035c2316a0",
+      "input": "Have a nice day. Thank you for contacting us.",
       "output": [
-        "Thank you goodbye"
+        "I have train TR6009 that leaves at 08:34 and will arrive in Peterborough at 09:24. Would that work for you?"
       ]
     },
     {
-      "id": "task639-2e7abf17ef0a487699fde219b3e8befc",
-      "input": "Sure. Their phone number is 01223353888. Is there anything else I can help you with?",
+      "id": "task639-9d52ddd3f88748cdb43d0459937126e9",
+      "input": "Goodbye",
       "output": [
-        "Great! We have a wide variety of foods to try. Are you interested in a particular type?"
+        "I would like a moderately priced restaurant in the south part of town"
       ]
     },
     {
-      "id": "task639-ebcd686578164744a4c5eb3a5ce2070e",
-      "input": "Okay thank you! No that will be everything.",
+      "id": "task639-7db814894bb048fca15f7da18bb20992",
+      "input": "Yes, please. I will need their address and what price range it is in.",
       "output": [
-        "The earliest arrival prior to that time is the TR9900 which leaves Norwich at 05:16 and arrives in Cambridge at 06:35. Would you like me to book you a seat?"
+        "I'm heading to Norwich and need to leave after 11:15 from Cambridge"
       ]
     },
     {
-      "id": "task639-574dd9fef7ce4d0dac2de077954b92f0",
-      "input": "There are two in the area. One is cheap and the other is moderately priced. Do you have a preference?",
+      "id": "task639-dbdb2aedf9de4e99b2fe9ffd2d4be87b",
+      "input": "Yes please for two people at 16:15 on Wednesday please if its not too much trouble.",
       "output": [
-        "How about a thai place then?"
+        "Okay, you are very welcome! Goodbye!"
       ]
     },
     {
-      "id": "task639-659390ea76d9475db25774f506b58012",
-      "input": "I have 3 hotels that fit your criteria. Would you like one located in the north or the east?",
+      "id": "task639-5967dcdd67444d19b29c506905df09fa",
+      "input": "I have train TR3225 that arrives at 10:58 is that good for you?",
       "output": [
-        "I would like to find a French restaurant, please."
+        "You are all set, your confirmation number is 1Q0G4OWL, can I assist with anything else?"
       ]
     },
     {
-      "id": "task639-3c24ccf95eea493ab37ce2694771565c",
-      "input": "I'm leaving from mahal of cambridge.",
+      "id": "task639-4081159790ec456d8c22dfb29f7e899a",
+      "input": "Thank you for contacting Cambridge TownInfo centre, and hope you enjoy your stay. Have a nice day.",
       "output": [
-        "Alright, you're all set. A grey skoda will pick you up. The contact number is 07629344637. Can I help you with anything else?"
+        "that would be great. What's the area?"
       ]
     },
     {
-      "id": "task639-a0f828fac37a4835946b4dba0c25cbd6",
-      "input": "I have reserved you a blue tesla, Contact number : 07639403969. Is there anything else I can help you with?",
+      "id": "task639-6a910a539c7242828e9059fd403aff29",
+      "input": "I don't see any Cuban restaurants in the Centre. Would you like to look for Cuban restaurants in another location?",
       "output": [
-        "Would you be able to schedule a taxi to take me from the Huntingdon Marriott to the Maharajah Tandoor?"
+        "Thanks again for the help. Have a great day. Goodbye."
       ]
     },
     {
-      "id": "task639-7aa692d46fd64712851b616e26f6b4b5",
-      "input": "yes how about a moderate mexican restaurant?",
+      "id": "task639-44e82cbb2caa4021ba03bda50a5d4fa0",
+      "input": "Hi I am looking for an expensive restaurant in the centre of town.",
       "output": [
-        "I'm not sure if I want to book yet or not, can you confirm the travel time for that one?"
+        "Okay, let's book a table for five on Wednesday at 14:45."
       ]
     },
     {
-      "id": "task639-9019c1e3e7f4474187f9eff62a11ed29",
-      "input": "Can you give me the ID for this train and the overall travel time?",
+      "id": "task639-d5ac98bdbe3540afb725ba31bb77ce3c",
+      "input": "I also need to find a train for Friday going to Cambridge from Norwich and leaving after 15:15.",
       "output": [
-        "Where will you be leaving from?"
+        "I am looking for information in Cambridge"
       ]
     },
     {
-      "id": "task639-d1d850564edc4954954bab1239e21920",
-      "input": "Price is not of any concern, just so it has a 4 star rating.",
+      "id": "task639-cc34fc4244da4ec09749c31654a032c5",
+      "input": "I have that booked, the reference code is 8EPNPVVM . Anything else?",
       "output": [
-        "I have successfully booked you for avalon. Reference number is RI8WLX7E . Do you need anything else?"
+        "The hamilton lodge guesthouse does have free parking, is that okay? There is the alpha-milton guest house in the north, it' 3 stars, moderately priced and doesn't offer parking."
       ]
     },
     {
-      "id": "task639-0bf5ef620bce40f7b4200d92bad61fe3",
-      "input": "Alexander B and B is one of our higher rated guesthouses in the centre of town. It is 4 stars, but is surprisingly cheap. Can I get you any specific information?",
+      "id": "task639-1139628161024a6392a6d8fe2b5d3f66",
+      "input": "Your arrival time for TR6833 is 21:07, with a travel time of 88 minutes. Price is 16.60 pounds per ticket.",
       "output": [
-        "I need to know more about the Alexander bed and breakfast."
+        "Sure, we have Milton Country Park located in the north in Milton. There phone number is 01223420060 & postcode is cb46az."
       ]
     },
     {
-      "id": "task639-49b84d11589244499607c0126d58716f",
-      "input": "Great, book me one of those for 8 people. We'll stay from Friday for 5 nights. I'll need a reference number, please.",
+      "id": "task639-f40449530c874d4993431392d5d52ce8",
+      "input": "Yes, which one is the best?",
       "output": [
-        "We are happy to help. Thank you for using our service."
+        "sure theres two hotels, 01223525725 and 01223351241"
       ]
     },
     {
-      "id": "task639-5d91caade92147d7baf31ab58b536886",
-      "input": "I would be happy to book TR2021 for you. The cost is 8.08 a ticket. How many tickets will you need?",
+      "id": "task639-c628d54eef6e45e89be8a78c10dc8cbe",
+      "input": "what area of town could you love to stay?",
       "output": [
-        "Yes. I'd also like their phone number please."
+        "A hotel is fine whichever you recommend."
+      ]
+    },
+    {
+      "id": "task639-18634d65b84a49d99aec6bc9b574262b",
+      "input": "I have made reservations your reference number is KZ7IRCWH .",
+      "output": [
+        "Sure make me a booking for 8 people at 19:00 on monday."
+      ]
+    },
+    {
+      "id": "task639-f2cdcdafa4a3426abbf2d8722797cf1c",
+      "input": "Brilliant! Thank you.",
+      "output": [
+        "I have you booked at acorn guest house. Reference number is: IDAIIS1T ."
+      ]
+    },
+    {
+      "id": "task639-0c5960098f964a35b03daa549b83b159",
+      "input": "Ok. How many nights would you like to book?",
+      "output": [
+        "Thanks very much !"
+      ]
+    },
+    {
+      "id": "task639-37caa1c549f144148315ecfb04c988c9",
+      "input": "Great! Can you please book a table for 7 people at Curry Garden? Do they have any openings for 19:15 on Monday?",
+      "output": [
+        "Thank you for using the Cambridge TownInfo centre. Goodbye"
+      ]
+    },
+    {
+      "id": "task639-5cef61c6a3c34329ab434d02de1f48df",
+      "input": "Thanks, I will. Bye bye. Take care.",
+      "output": [
+        "That is all Thank you"
+      ]
+    },
+    {
+      "id": "task639-0f7f9c0a4fc4455a92b0668c39eab7ce",
+      "input": "There are 44 different attractions in the centre. Can you narrow down your choices?",
+      "output": [
+        "Thanks, I'm also looking for some places to go in the centre."
+      ]
+    },
+    {
+      "id": "task639-fde521dc202348298cf129d53ecdbdea",
+      "input": "Actually, skip that. Let's see if there's a great restaurant to try instead. I am open as far as cuisine but want something expensive in the centre of town.",
+      "output": [
+        "Thank you so much for your help."
+      ]
+    },
+    {
+      "id": "task639-45a90890933b4cefa87f9f79ecb87b3b",
+      "input": "You're welcome. Thank you for calling the Cambridge Township Centre. Enjoy your day!",
+      "output": [
+        "Their post code is cb46az."
+      ]
+    },
+    {
+      "id": "task639-c6cbe28d86214395aaf8431f11c22d41",
+      "input": "I'm sorry, there are no restaurants in the city that serve Malaysian food. Can I help you find another restaurant?",
+      "output": [
+        "the river bar steakhouse and grill is located at quayside off bridge street and its phone number is 01223307030. Is there anything else I can help you with?"
+      ]
+    },
+    {
+      "id": "task639-c49f51251db944c98b5e526953fc062d",
+      "input": "Thank you goodbye.",
+      "output": [
+        "I would like a cheap restaurant in the north part of town"
+      ]
+    },
+    {
+      "id": "task639-7ebef557bc704abe960e447cc5d230e8",
+      "input": "I can book that for you, first I'll need to know where you'd like picked up at.",
+      "output": [
+        "Great! Have a nice day!"
       ]
     }
   ],
